@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">PT</string>
-
-    <!-- A comment -->
-    <string name="string-with-comment">Aha</string>
-
-    <!-- First comment -->
-    </resources>
