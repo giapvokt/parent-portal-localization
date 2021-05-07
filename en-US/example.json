@@ -24,8 +24,8 @@
       }
     }
   },
-  "where_my_child_trip_empty": {
-    "message": "Student has no trip.",
-    "description": "where_my_child_trip_empty"
+  "PP:ST:TSC": {
+    "message": "This feature is not available.",
+    "description": "PP:ST:TSC"
   }
 }
