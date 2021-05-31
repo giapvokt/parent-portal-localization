@@ -1,340 +1,255 @@
 {
-
-  "PP:HOME": {
-    "message": "This feature is not available.",
-    "description": "PP:HOME"
-  },
-  "PP:HOME:TD": {
-    "message": "This feature is not available.",
-    "description": "PP:HOME:TD"
-  },
-  "PP:HOME:WMB": {
-    "message": "This feature is not available.",
-    "description": "PP:HOME:WMB"
-  },
-  "PP:SSN": {
-    "message": "This feature is not available.",
-    "description": "PP:SSN"
-  },
-  "PP:SSN:STL": {
-    "message": "This feature is not available.",
-    "description": "PP:SSN:STL"
-  },
-  "PP:ST": {
-    "message": "This feature is not available.",
-    "description": "PP:ST"
-  },
-  "PP:ST:AS": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:AS"
-  },
-  "PP:ST:RS": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:RS"
-  },
-  "PP:ST:SH": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:SH"
-  },
-  "PP:ST:TDN": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:TDN"
-  },
-  "PP:ST:TSC": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:TSC"
-  },
-  "PP:ST:WMB": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:WMB"
-  },
-  "PP:ST:WMC": {
-    "message": "This feature is not available.",
-    "description": "PP:ST:WMC"
-  },
-  "PP:STN": {
-    "message": "This feature is not available.",
-    "description": "PP:STN"
-  },
-  "PP:TR": {
-    "message": "This feature is not available.",
-    "description": "PP:TR"
-  },
-  "PP:TR:CTR": {
-    "message": "This feature is not available.",
-    "description": "PP:TR:CTR"
-  },
-  "PP:TR:CTRST": {
-    "message": "This feature is not available.",
-    "description": "PP:TR:CTRST"
-  },
-  "PP:WMB": {
-    "message": "This feature is not available.",
-    "description": "PP:WMB"
-  },
-  "Pick up": {
-    "message": "Pick Up",
-    "description": "Pick up"
-  },
-  "Round Trip": {
-    "message": "Round Trip",
-    "description": "Round Trip"
-  },
-  "To School": {
-    "message": "To School",
-    "description": "To School"
-  },
   "add_schedule_apply_from_schedule_address": {
-    "message": "Start From",
-    "description": "add_schedule_apply_from_schedule_address"
+    "message": "Start Date",
+    "description": "Start Date"
+  },
+  "add_schedule_apply_to_schedule_address": {
+    "message": "End Date",
+    "description": "End Date"
   },
   "add_schedule_description": {
     "message": "Request transportation for %1$s.",
-    "description": "add_schedule_description"
+    "description": "Request transportation for %1$s."
   },
   "add_schedule_desired_schedule_address": {
     "message": "Preferred Address",
-    "description": "add_schedule_desired_schedule_address"
+    "description": "Preferred Address"
   },
   "add_schedule_frequency_schedule_address": {
     "message": "Frequency",
-    "description": "add_schedule_frequency_schedule_address"
+    "description": "Frequency"
   },
   "add_schedule_frequency_schedule_created_on": {
     "message": "Created on %1$s.",
-    "description": "add_schedule_frequency_schedule_created_on"
+    "description": "Created on %1$s."
   },
   "add_schedule_next": {
     "message": "Next",
-    "description": "add_schedule_next"
+    "description": "Next"
   },
   "add_schedule_radio_button_from_school": {
     "message": "From School",
-    "description": "add_schedule_radio_button_from_school"
+    "description": "From School"
   },
   "add_schedule_radio_button_repeat": {
     "message": "Repeat every week",
-    "description": "add_schedule_radio_button_repeat"
+    "description": "Repeat every week"
   },
   "add_schedule_radio_button_round_trip": {
     "message": "Round Trip",
-    "description": "add_schedule_radio_button_round_trip"
+    "description": "Round Trip"
   },
   "add_schedule_radio_button_specific_date": {
     "message": "Specific Date",
-    "description": "add_schedule_radio_button_specific_date"
+    "description": "Specific Date"
   },
   "add_schedule_radio_button_to_school": {
     "message": "To School",
-    "description": "add_schedule_radio_button_to_school"
+    "description": "To School"
   },
   "add_schedule_review": {
     "message": "Review",
-    "description": "add_schedule_review"
+    "description": "Review"
   },
   "add_schedule_schedule_from_school_trip_address": {
     "message": "Preferred Drop-off Address",
-    "description": "add_schedule_schedule_from_school_trip_address"
+    "description": "Preferred Drop-off Address"
   },
   "add_schedule_schedule_hint_enter_address": {
     "message": "Enter Address",
-    "description": "add_schedule_schedule_hint_enter_address"
+    "description": "Enter Address"
   },
   "add_schedule_schedule_hint_notes_schedule": {
     "message": "Add notes",
-    "description": "add_schedule_schedule_hint_notes_schedule"
+    "description": "Add notes"
   },
   "add_schedule_schedule_notes_schedule": {
     "message": "Notes",
-    "description": "add_schedule_schedule_notes_schedule"
+    "description": "Notes"
   },
   "add_schedule_schedule_round_trip_address": {
     "message": "Preferred Pickup and Drop-off Address",
-    "description": "add_schedule_schedule_round_trip_address"
+    "description": "Preferred Pickup and Drop-off Address"
   },
   "add_schedule_schedule_to_school_trip_address": {
     "message": "Preferred Pickup Address",
-    "description": "add_schedule_schedule_to_school_trip_address"
+    "description": "Preferred Pickup Address"
   },
   "add_schedule_schedule_type": {
     "message": "Schedule",
-    "description": "add_schedule_schedule_type"
+    "description": "Schedule"
   },
   "add_schedule_schedule_type_apply_schedule": {
     "message": "Start Date",
-    "description": "add_schedule_schedule_type_apply_schedule"
+    "description": "Start Date"
   },
   "add_schedule_schedule_type_repeat": {
     "message": "Repeat every:",
-    "description": "add_schedule_schedule_type_repeat"
+    "description": "Repeat every:"
   },
   "add_schedule_student_title": {
     "message": "Student",
-    "description": "add_schedule_student_title"
+    "description": "Student"
   },
   "add_schedule_title": {
     "message": "Request Transportation",
-    "description": "add_schedule_title"
+    "description": "Request Transportation"
   },
   "add_schedule_trip_type": {
     "message": "Trip Type",
-    "description": "add_schedule_trip_type"
+    "description": "Trip Type"
   },
   "add_schedule_tv_select_date": {
     "message": "Select date",
-    "description": "add_schedule_tv_select_date"
+    "description": "Select date"
   },
   "add_schedule_warning_select_schedule_type": {
     "message": "Please select a schedule type.",
-    "description": "add_schedule_warning_select_schedule_type"
+    "description": "Please select a schedule type."
   },
   "add_schedule_warning_select_specific_date": {
     "message": "Please select a date.",
-    "description": "add_schedule_warning_select_specific_date"
+    "description": "Please select a date."
   },
   "add_schedule_warning_select_start_date": {
     "message": "Please select a start date.",
-    "description": "add_schedule_warning_select_start_date"
+    "description": "Please select a start date."
   },
   "add_schedule_warning_select_trip_type": {
     "message": "Please select a trip type.",
-    "description": "add_schedule_warning_select_trip_type"
+    "description": "Please select a trip type."
   },
   "add_student_change_profile_photo": {
     "message": "Select Profile Photo",
-    "description": "add_student_change_profile_photo"
+    "description": "Select Profile Photo"
   },
   "add_student_dob": {
     "message": "DOB",
-    "description": "add_student_dob"
+    "description": "DOB"
   },
   "add_student_first_name": {
     "message": "First Name",
-    "description": "add_student_first_name"
+    "description": "First Name"
   },
   "add_student_gender": {
     "message": "Gender",
-    "description": "add_student_gender"
+    "description": "Gender"
   },
   "add_student_hint_first_name": {
     "message": "Student's first name",
-    "description": "add_student_hint_first_name"
+    "description": "Student's first name"
   },
   "add_student_hint_last_name": {
     "message": "Student's last name",
-    "description": "add_student_hint_last_name"
+    "description": "Student's last name"
   },
   "add_student_last_name": {
     "message": "Last Name",
-    "description": "add_student_last_name"
+    "description": "Last Name"
   },
   "add_student_message_add_failed": {
     "message": "Submitted data is invalid. Please check and try again!",
-    "description": "add_student_message_add_failed"
+    "description": "Submitted data is invalid. Please check and try again!"
   },
   "add_student_message_add_successfully": {
     "message": "Your request has been submitted.",
-    "description": "add_student_message_add_successfully"
+    "description": "Your request has been submitted."
   },
   "add_student_qr_code_camera": {
     "message": "Scan QR code by camera",
-    "description": "add_student_qr_code_camera"
+    "description": "Scan QR code by camera"
   },
   "add_student_qr_code_description": {
     "message": "Use phone camera to scan QR code or Choose the QR code image from phone gallery",
-    "description": "add_student_qr_code_description"
+    "description": "Use phone camera to scan QR code or Choose the QR code image from phone gallery"
   },
   "add_student_qr_code_gallery": {
     "message": "Choose QR code from gallery",
-    "description": "add_student_qr_code_gallery"
+    "description": "Choose QR code from gallery"
   },
   "add_student_qr_code_or": {
     "message": "Or",
-    "description": "add_student_qr_code_or"
+    "description": "Or"
   },
   "add_student_qr_code_tap_here": {
     "message": "Tap here",
-    "description": "add_student_qr_code_tap_here"
+    "description": "Tap here"
   },
   "add_student_qr_code_title": {
     "message": "Already had a QR code?",
-    "description": "add_student_qr_code_title"
+    "description": "Already had a QR code?"
   },
   "add_student_school": {
     "message": "School",
-    "description": "add_student_school"
+    "description": "School"
   },
   "add_student_student_id": {
     "message": "Student ID",
-    "description": "add_student_student_id"
+    "description": "Student ID"
   },
   "add_student_success_pending": {
     "message": "Your request was submitted. Please wait for approval.",
-    "description": "add_student_success_pending"
-  },
-  "warning_feature_where_my_bus_is_unavailable": {
-    "message": "Where's my bus is not available for %1$s. Please contact the school admin to get more information.",
-    "description": "warning_feature_where_my_bus_is_unavailable"
+    "description": "Your request was submitted. Please wait for approval."
   },
   "add_student_title": {
     "message": "ADD STUDENT",
-    "description": "add_student_title"
+    "description": "ADD STUDENT"
   },
   "add_student_turn_on_error": {
     "message": "Your student had been added successfully. The notification is not enabled due to a problem with our server. Please enable it in the Settings.",
-    "description": "add_student_turn_on_error"
+    "description": "Your student had been added successfully. The notification is not enabled due to a problem with our server. Please enable it in the Settings."
   },
   "add_student_turn_on_no_trip": {
     "message": "Your student had been added successfully. The notification is not enabled because the student has no trip.",
-    "description": "add_student_turn_on_no_trip"
+    "description": "Your student had been added successfully. The notification is not enabled because the student has no trip."
   },
   "add_student_turn_on_success": {
     "message": "Your student had been added successfully.",
-    "description": "add_student_turn_on_success"
+    "description": "Your student had been added successfully."
   },
   "alert_zone_added_success_message": {
     "message": "Alert zone saved.",
-    "description": "alert_zone_added_success_message"
+    "description": "Alert zone saved."
   },
   "alert_zone_autocomplete_address_empty": {
     "message": "No address found.",
-    "description": "alert_zone_autocomplete_address_empty"
+    "description": "No address found."
   },
   "alert_zone_card_radius_label": {
     "message": "Radius: %.1f miles",
-    "description": "alert_zone_card_radius_label"
+    "description": "Radius: %.1f miles"
   },
   "alert_zone_card_time_label": {
     "message": "Time: %1$s to %2$s",
-    "description": "alert_zone_card_time_label"
-  },
-  "alert_zone_delete_success_message": {
-    "message": "Alert zone deleted.",
-    "description": "alert_zone_delete_success_message"
+    "description": "Time: %1$s to %2$s"
   },
   "alert_zone_deleted_success_message": {
     "message": "Alert zone deleted.",
-    "description": "alert_zone_deleted_success_message"
+    "description": "Alert zone deleted."
+  },
+  "alert_zone_delete_success_message": {
+    "message": "Alert zone deleted.",
+    "description": "Alert zone deleted."
   },
   "alert_zone_edited_success_message": {
     "message": "Alert zone change saved.",
-    "description": "alert_zone_edited_success_message"
+    "description": "Alert zone change saved."
   },
   "alert_zone_from_time_to_time": {
     "message": "Active from %1$s to %2$s.",
-    "description": "alert_zone_from_time_to_time"
+    "description": "Active from %1$s to %2$s."
   },
   "alert_zone_modal_radius_title": {
     "message": "%.01f miles",
-    "description": "alert_zone_modal_radius_title"
+    "description": "%.01f miles"
   },
   "alert_zone_name_required_message": {
     "message": "Please name your alert zone.",
-    "description": "alert_zone_name_required_message"
+    "description": "Please name your alert zone."
   },
   "app_name": {
     "message": "Edulog Parent Portal",
-    "description": "app_name"
+    "description": "Edulog Parent Portal"
   },
   "approved": {
     "message": "approved",
@@ -342,1091 +257,1151 @@
   },
   "btn_add_transportation_request": {
     "message": "REQUEST TRANSPORTATION",
-    "description": "btn_add_transportation_request"
+    "description": "REQUEST TRANSPORTATION"
   },
   "camera_permission_denied_description": {
     "message": "Parent Portal needs permission to access your device's camera to take a photo. Please go to Settings > Privacy > Camera, and enable Parent Portal",
-    "description": "camera_permission_denied_description"
+    "description": "Parent Portal needs permission to access your device's camera to take a photo. Please go to Settings > Privacy > Camera, and enable Parent Portal"
   },
   "camera_permission_not_now": {
     "message": "Not Now",
-    "description": "camera_permission_not_now"
+    "description": "Not Now"
   },
   "camera_permission_required_title": {
     "message": "Permission Required",
-    "description": "camera_permission_required_title"
+    "description": "Permission Required"
   },
   "camera_permission_settings": {
     "message": "Open Settings",
-    "description": "camera_permission_settings"
+    "description": "Open Settings"
   },
   "change_password_saml_message_string": {
     "message": "Change password feature disabled by sign-in with an external provider.",
-    "description": "change_password_saml_message_string"
+    "description": "Change password feature disabled by sign-in with an external provider."
   },
   "check_for_update_settings": {
     "message": "Check for Update",
-    "description": "check_for_update_settings"
+    "description": "Check for Update"
   },
   "checking_update_title": {
     "message": "CHECK FOR UPDATE",
-    "description": "checking_update_title"
+    "description": "CHECK FOR UPDATE"
   },
   "confirm_schedule_add_request_successfully": {
     "message": "Your request has been submitted.",
-    "description": "confirm_schedule_add_request_successfully"
+    "description": "Your request has been submitted."
   },
   "description_none": {
     "message": "Version %1$s",
-    "description": "description_none"
+    "description": "Version %1$s"
   },
   "desired_pickup_dropoff": {
     "message": "Desired Pickup and Drop-off Address",
-    "description": "desired_pickup_dropoff"
+    "description": "Desired Pickup and Drop-off Address"
   },
   "edit_profile_button_profile_update": {
     "message": "SAVE",
-    "description": "edit_profile_button_profile_update"
+    "description": "SAVE"
   },
   "edit_profile_change_profile_photo": {
     "message": "Select Profile Photo",
-    "description": "edit_profile_change_profile_photo"
+    "description": "Select Profile Photo"
   },
   "edit_profile_change_profile_title": {
     "message": "Change Profile Photo",
-    "description": "edit_profile_change_profile_title"
+    "description": "Change Profile Photo"
   },
   "edit_profile_dob": {
     "message": "DOB",
-    "description": "edit_profile_dob"
+    "description": "DOB"
   },
   "edit_profile_first_name": {
     "message": "First Name",
-    "description": "edit_profile_first_name"
+    "description": "First Name"
   },
   "edit_profile_gender": {
     "message": "Gender",
-    "description": "edit_profile_gender"
+    "description": "Gender"
   },
   "edit_profile_hint_dob": {
     "message": "Select date",
-    "description": "edit_profile_hint_dob"
+    "description": "Select date"
   },
   "edit_profile_hint_type_here": {
     "message": "Type here",
-    "description": "edit_profile_hint_type_here"
+    "description": "Type here"
   },
   "edit_profile_last_name": {
     "message": "Last Name",
-    "description": "edit_profile_last_name"
+    "description": "Last Name"
   },
   "edit_profile_message_edit_failed": {
     "message": "Your request could not be processed. Please try again later.",
-    "description": "edit_profile_message_edit_failed"
+    "description": "Your request could not be processed. Please try again later."
   },
   "edit_profile_message_edit_successfully": {
     "message": "Your profile has been updated successfully.",
-    "description": "edit_profile_message_edit_successfully"
+    "description": "Your profile has been updated successfully."
   },
   "edit_profile_saml_message_string": {
     "message": "Edit profile feature disabled by sign-in with an external provider.",
-    "description": "edit_profile_saml_message_string"
+    "description": "Edit profile feature disabled by sign-in with an external provider."
   },
   "edit_profile_title": {
     "message": "PERSONAL INFORMATION",
-    "description": "edit_profile_title"
+    "description": "PERSONAL INFORMATION"
   },
   "edit_to_school_schedule_title": {
     "message": "Edit \"To School\" Schedule",
-    "description": "edit_to_school_schedule_title"
+    "description": "Edit \"To School\" Schedule"
   },
   "error_email_invalid": {
     "message": "E-mail address is invalid.",
-    "description": "error_email_invalid"
+    "description": "E-mail address is invalid."
   },
   "error_environment_not_found": {
     "message": "Environment not found.",
-    "description": "error_environment_not_found"
+    "description": "Environment not found."
   },
   "error_network_not_available": {
     "message": "Cannot connect to server. Please check your connection and try again.",
-    "description": "error_network_not_available"
+    "description": "Cannot connect to server. Please check your connection and try again."
   },
   "error_regex_email_tma": {
     "message": "E-mail is not valid.",
-    "description": "error_regex_email_tma"
+    "description": "E-mail is not valid."
   },
   "error_something_went_wrong": {
     "message": "Something went wrong. Please try again.",
-    "description": "error_something_went_wrong"
+    "description": "Something went wrong. Please try again."
   },
   "error_user_not_authorized": {
     "message": "User is not authorized to access this resource with an explicit deny.",
-    "description": "error_user_not_authorized"
+    "description": "User is not authorized to access this resource with an explicit deny."
   },
   "every_fri": {
     "message": "Friday",
-    "description": "every_fri"
+    "description": "Friday"
   },
   "every_fri_long": {
     "message": "Every Fri",
-    "description": "every_fri_long"
+    "description": "Every Fri"
   },
   "every_fri_short": {
     "message": "Fri",
-    "description": "every_fri_short"
+    "description": "Fri"
   },
   "every_mon": {
     "message": "Monday",
-    "description": "every_mon"
+    "description": "Monday"
   },
   "every_mon_long": {
     "message": "Every Mon",
-    "description": "every_mon_long"
+    "description": "Every Mon"
   },
   "every_mon_short": {
     "message": "Mon",
-    "description": "every_mon_short"
+    "description": "Mon"
   },
   "every_sat": {
     "message": "Saturday",
-    "description": "every_sat"
+    "description": "Saturday"
   },
   "every_sat_long": {
     "message": "Every Sat",
-    "description": "every_sat_long"
+    "description": "Every Sat"
   },
   "every_sat_short": {
     "message": "Sat",
-    "description": "every_sat_short"
+    "description": "Sat"
   },
   "every_sun": {
     "message": "Sunday",
-    "description": "every_sun"
+    "description": "Sunday"
   },
   "every_sun_long": {
     "message": "Every Sun",
-    "description": "every_sun_long"
+    "description": "Every Sun"
   },
   "every_sun_short": {
     "message": "Sun",
-    "description": "every_sun_short"
+    "description": "Sun"
   },
   "every_thur": {
     "message": "Thursday",
-    "description": "every_thur"
+    "description": "Thursday"
   },
   "every_thur_long": {
     "message": "Every Thu",
-    "description": "every_thur_long"
+    "description": "Every Thu"
   },
   "every_thur_short": {
     "message": "Thu",
-    "description": "every_thur_short"
+    "description": "Thu"
   },
   "every_tue": {
     "message": "Tuesday",
-    "description": "every_tue"
+    "description": "Tuesday"
   },
   "every_tue_long": {
     "message": "Every Tue",
-    "description": "every_tue_long"
+    "description": "Every Tue"
   },
   "every_tue_short": {
     "message": "Tue",
-    "description": "every_tue_short"
+    "description": "Tue"
   },
   "every_wed": {
     "message": "Wednesday",
-    "description": "every_wed"
+    "description": "Wednesday"
   },
   "every_wed_long": {
     "message": "Every Wed",
-    "description": "every_wed_long"
+    "description": "Every Wed"
   },
   "every_wed_short": {
     "message": "Wed",
-    "description": "every_wed_short"
+    "description": "Wed"
   },
   "forgot_password_change_password_title": {
     "message": "CHANGE YOUR PASSWORD",
-    "description": "forgot_password_change_password_title"
+    "description": "CHANGE YOUR PASSWORD"
   },
   "forgot_password_description": {
     "message": "Please enter your e-mail below to receive password reset instructions.",
-    "description": "forgot_password_description"
+    "description": "Please enter your e-mail below to receive password reset instructions."
   },
   "forgot_password_email_not_exists": {
     "message": "Your e-mail address does not exist in our system.",
-    "description": "forgot_password_email_not_exists"
+    "description": "Your e-mail address does not exist in our system."
   },
   "forgot_password_error": {
     "message": "Password reset was not successful.",
-    "description": "forgot_password_error"
+    "description": "Password reset was not successful."
   },
   "forgot_password_login": {
     "message": "Login",
-    "description": "forgot_password_login"
+    "description": "Login"
   },
   "forgot_password_ok": {
     "message": "OK",
-    "description": "forgot_password_ok"
+    "description": "OK"
   },
   "forgot_password_send_another": {
     "message": "Send Another",
-    "description": "forgot_password_send_another"
+    "description": "Send Another"
   },
   "forgot_password_sent_successfully": {
     "message": "An e-mail has been sent to %1$s with instructions on how to reset your password.",
-    "description": "forgot_password_sent_successfully"
+    "description": "An e-mail has been sent to %1$s with instructions on how to reset your password."
   },
   "forgot_password_submit_button": {
     "message": "Submit",
-    "description": "forgot_password_submit_button"
+    "description": "Submit"
   },
   "forgot_password_title": {
     "message": "FORGOT YOUR PASSWORD?",
-    "description": "forgot_password_title"
+    "description": "FORGOT YOUR PASSWORD?"
   },
   "from_school_schedule_btn_look_up": {
     "message": "Look up nearby drop-off stops.",
-    "description": "from_school_schedule_btn_look_up"
+    "description": "Look up nearby drop-off stops."
   },
   "from_school_schedule_select_drop_off_stops": {
     "message": "Select drop-off stops.",
-    "description": "from_school_schedule_select_drop_off_stops"
+    "description": "Select drop-off stops."
   },
   "from_school_schedule_title": {
     "message": "From School Schedule",
-    "description": "from_school_schedule_title"
+    "description": "From School Schedule"
   },
   "general_ago": {
     "message": "ago",
-    "description": "general_ago"
+    "description": "ago"
   },
   "general_back": {
     "message": "Back",
-    "description": "general_back"
+    "description": "Back"
   },
   "general_bus_id_label": {
     "message": "Bus ID:",
-    "description": "general_bus_id_label"
+    "description": "Bus ID:"
   },
   "general_cancel": {
     "message": "Cancel",
-    "description": "general_cancel"
+    "description": "Cancel"
   },
   "general_clear": {
     "message": "Clear",
-    "description": "general_clear"
+    "description": "Clear"
   },
   "general_delete": {
     "message": "Delete",
-    "description": "general_delete"
+    "description": "Delete"
   },
   "general_done": {
     "message": "Done",
-    "description": "general_done"
+    "description": "Done"
   },
   "general_drop_off": {
     "message": "Drop-off",
-    "description": "general_drop_off"
+    "description": "Drop-off"
   },
   "general_error": {
     "message": "Error",
-    "description": "general_error"
+    "description": "Error"
   },
   "general_female": {
     "message": "Female",
-    "description": "general_female"
+    "description": "Female"
   },
   "general_hour": {
     "message": "hour",
-    "description": "general_hour"
+    "description": "hour"
   },
   "general_hours": {
     "message": "hours",
-    "description": "general_hours"
-  },
-  "general_imperial": {
-    "message": "Imperial",
-    "description": "general_imperial"
-  },
-  "general_in": {
-    "message": "in",
-    "description": "general_in"
-  },
-  "general_kilometers": {
-    "message": "Kilometers",
-    "description": "general_kilometers"
-  },
-  "general_km_params": {
-    "message": "%1$s km",
-    "description": "general_km_params"
-  },
-  "general_library": {
-    "message": "Library",
-    "description": "general_library"
-  },
-  "general_male": {
-    "message": "Male",
-    "description": "general_male"
-  },
-  "general_metric": {
-    "message": "Metric",
-    "description": "general_metric"
-  },
-  "general_miles": {
-    "message": "miles",
-    "description": "general_miles"
-  },
-  "general_miles_params": {
-    "message": "%1$s miles",
-    "description": "general_miles_params"
-  },
-  "general_minute": {
-    "message": "minute",
-    "description": "general_minute"
-  },
-  "general_minutes": {
-    "message": "minutes",
-    "description": "general_minutes"
-  },
-  "general_no": {
-    "message": "No",
-    "description": "general_no"
-  },
-  "general_no_network": {
-    "message": "No Internet Connection",
-    "description": "general_no_network"
-  },
-  "general_no_network_message": {
-    "message": "Please check your connection settings.",
-    "description": "general_no_network_message"
-  },
-  "general_ok": {
-    "message": "OK",
-    "description": "general_ok"
-  },
-  "general_pick_photo": {
-    "message": "SELECT PHOTO",
-    "description": "general_pick_photo"
-  },
-  "general_pickup": {
-    "message": "Pick-up",
-    "description": "general_pickup"
-  },
-  "general_restart": {
-    "message": "RESTART",
-    "description": "general_restart"
-  },
-  "general_route_code": {
-    "message": "Route code",
-    "description": "general_route_code"
-  },
-  "general_route_number_label": {
-    "message": "Route Number:",
-    "description": "general_route_number_label"
-  },
-  "general_save": {
-    "message": "Save",
-    "description": "general_save"
-  },
-  "general_short_kilometers": {
-    "message": "km",
-    "description": "general_short_kilometers"
-  },
-  "general_student": {
-    "message": "Student",
-    "description": "general_student"
-  },
-  "general_take_photo": {
-    "message": "Take Photo",
-    "description": "general_take_photo"
-  },
-  "general_trip_type": {
-    "message": "%1$s trip",
-    "description": "general_trip_type"
-  },
-  "general_units": {
-    "message": "Units",
-    "description": "general_units"
-  },
-  "general_unknown": {
-    "message": "Unknown",
-    "description": "general_unknown"
-  },
-  "general_not_available": {
-    "message": "N/A",
-    "description": "general_not_available"
-  },
-  "general_update": {
-    "message": "Update",
-    "description": "general_update"
-  },
-  "general_update_now": {
-    "message": "Update Now",
-    "description": "general_update_now"
-  },
-  "general_vehicle_information": {
-    "message": "Vehicle information",
-    "description": "general_vehicle_information"
-  },
-  "general_vehicle_name_label": {
-    "message": "Vehicle Name:",
-    "description": "general_vehicle_name_label"
-  },
-  "general_yes": {
-    "message": "Yes",
-    "description": "general_yes"
+    "description": "hours"
   },
   "general_id": {
     "message": "ID",
-    "description": "general_id"
+    "description": "ID"
+  },
+  "general_imperial": {
+    "message": "Imperial",
+    "description": "Imperial"
+  },
+  "general_in": {
+    "message": "in",
+    "description": "in"
+  },
+  "general_kilometers": {
+    "message": "Kilometers",
+    "description": "Kilometers"
+  },
+  "general_km_params": {
+    "message": "%1$s km",
+    "description": "%1$s km"
+  },
+  "general_library": {
+    "message": "Library",
+    "description": "Library"
+  },
+  "general_male": {
+    "message": "Male",
+    "description": "Male"
+  },
+  "general_metric": {
+    "message": "Metric",
+    "description": "Metric"
+  },
+  "general_miles": {
+    "message": "miles",
+    "description": "miles"
+  },
+  "general_miles_params": {
+    "message": "%1$s miles",
+    "description": "%1$s miles"
+  },
+  "general_minute": {
+    "message": "minute",
+    "description": "minute"
+  },
+  "general_minutes": {
+    "message": "minutes",
+    "description": "minutes"
+  },
+  "general_no": {
+    "message": "No",
+    "description": "No"
+  },
+  "general_no_network": {
+    "message": "No Internet Connection",
+    "description": "No Internet Connection"
+  },
+  "general_no_network_message": {
+    "message": "Please check your connection settings.",
+    "description": "Please check your connection settings."
+  },
+  "general_not_available": {
+    "message": "N/A",
+    "description": "N/A"
+  },
+  "general_ok": {
+    "message": "OK",
+    "description": "OK"
+  },
+  "general_pick_photo": {
+    "message": "SELECT PHOTO",
+    "description": "SELECT PHOTO"
+  },
+  "general_pickup": {
+    "message": "Pick-up",
+    "description": "Pick-up"
+  },
+  "general_restart": {
+    "message": "RESTART",
+    "description": "RESTART"
+  },
+  "general_route_code": {
+    "message": "Route code",
+    "description": "Route code"
+  },
+  "general_route_number_label": {
+    "message": "Route Number:",
+    "description": "Route Number:"
+  },
+  "general_save": {
+    "message": "Save",
+    "description": "Save"
+  },
+  "general_short_kilometers": {
+    "message": "km",
+    "description": "km"
+  },
+  "general_student": {
+    "message": "Student",
+    "description": "Student"
+  },
+  "general_take_photo": {
+    "message": "Take Photo",
+    "description": "Take Photo"
+  },
+  "general_trip_type": {
+    "message": "%1$s trip",
+    "description": "%1$s trip"
+  },
+  "general_units": {
+    "message": "Units",
+    "description": "Units"
+  },
+  "general_unknown": {
+    "message": "Unknown",
+    "description": "Unknown"
+  },
+  "general_update": {
+    "message": "Update",
+    "description": "Update"
+  },
+  "general_update_now": {
+    "message": "Update Now",
+    "description": "Update Now"
+  },
+  "general_vehicle_information": {
+    "message": "Vehicle information",
+    "description": "Vehicle information"
+  },
+  "general_vehicle_name_label": {
+    "message": "Vehicle Name:",
+    "description": "Vehicle Name:"
+  },
+  "general_yes": {
+    "message": "Yes",
+    "description": "Yes"
   },
   "geofence_editor_address_label": {
     "message": "Address:",
-    "description": "geofence_editor_address_label"
+    "description": "Address:"
   },
   "geofence_editor_confirm_quit_message": {
     "message": "Are you sure you wish to exit the alert editor? Unsaved data will be lost.",
-    "description": "geofence_editor_confirm_quit_message"
+    "description": "Are you sure you wish to exit the alert editor? Unsaved data will be lost."
   },
   "geofence_editor_end_time": {
     "message": "End Time",
-    "description": "geofence_editor_end_time"
+    "description": "End Time"
   },
   "geofence_editor_error_invalid_time_range": {
     "message": "Start Time must be before End Time.",
-    "description": "geofence_editor_error_invalid_time_range"
+    "description": "Start Time must be before End Time."
   },
   "geofence_editor_error_maximum": {
     "message": "You can only have up to three alert zones per vehicle.",
-    "description": "geofence_editor_error_maximum"
+    "description": "You can only have up to three alert zones per vehicle."
   },
   "geofence_editor_hint_geofence_address": {
     "message": "Alert Zone Address",
-    "description": "geofence_editor_hint_geofence_address"
+    "description": "Alert Zone Address"
   },
   "geofence_editor_hint_geofence_name": {
     "message": "Alert Zone Name",
-    "description": "geofence_editor_hint_geofence_name"
+    "description": "Alert Zone Name"
   },
   "geofence_editor_name_label": {
     "message": "Name:",
-    "description": "geofence_editor_name_label"
+    "description": "Name:"
   },
   "geofence_editor_radius_label": {
     "message": "Radius: %.1f miles",
-    "description": "geofence_editor_radius_label"
+    "description": "Radius: %.1f miles"
   },
   "geofence_editor_require_name": {
     "message": "Please name your alert zone.",
-    "description": "geofence_editor_require_name"
+    "description": "Please name your alert zone."
   },
   "geofence_editor_start_time": {
     "message": "Start Time",
-    "description": "geofence_editor_start_time"
+    "description": "Start Time"
   },
   "geofence_editor_time_am": {
     "message": "AM",
-    "description": "geofence_editor_time_am"
+    "description": "AM"
   },
   "geofence_editor_time_label": {
     "message": "Alert Time:",
-    "description": "geofence_editor_time_label"
+    "description": "Alert Time:"
   },
   "geofence_editor_time_pm": {
     "message": "PM",
-    "description": "geofence_editor_time_pm"
+    "description": "PM"
   },
   "geofence_editor_toolbar_add_title": {
     "message": "ADD ALERT ZONE",
-    "description": "geofence_editor_toolbar_add_title"
+    "description": "ADD ALERT ZONE"
   },
   "geofence_editor_toolbar_edit_title": {
     "message": "EDIT ALERT ZONE",
-    "description": "geofence_editor_toolbar_edit_title"
+    "description": "EDIT ALERT ZONE"
   },
   "geofence_list_bus_label": {
     "message": "Bus",
-    "description": "geofence_list_bus_label"
+    "description": "Bus"
   },
   "geofence_list_confirm_delete": {
     "message": "Are you sure you wish to delete this alert zone?",
-    "description": "geofence_list_confirm_delete"
+    "description": "Are you sure you wish to delete this alert zone?"
   },
   "geofence_list_empty_view_button": {
     "message": "Add Alert Zone",
-    "description": "geofence_list_empty_view_button"
+    "description": "Add Alert Zone"
   },
   "geofence_list_empty_view_message": {
     "message": "No alert zones are configured. Tap the \"Add Alert Zone\" button to create a new one.",
-    "description": "geofence_list_empty_view_message"
+    "description": "No alert zones are configured. Tap the \"Add Alert Zone\" button to create a new one."
   },
   "geofence_list_not_found": {
     "message": "No alert zone found.",
-    "description": "geofence_list_not_found"
+    "description": "No alert zone found."
   },
   "hint_dob": {
     "message": "Select date",
-    "description": "hint_dob"
+    "description": "Select date"
   },
   "hint_edt_password": {
     "message": "Enter Old Password",
-    "description": "hint_edt_password"
+    "description": "Enter Old Password"
   },
   "hint_first_name": {
     "message": "First name",
-    "description": "hint_first_name"
+    "description": "First name"
   },
   "hint_gender": {
     "message": "Select",
-    "description": "hint_gender"
+    "description": "Select"
   },
   "hint_last_name": {
     "message": "Last name",
-    "description": "hint_last_name"
+    "description": "Last name"
   },
   "hint_school": {
     "message": "Select school",
-    "description": "hint_school"
+    "description": "Select school"
   },
   "hint_student_id": {
     "message": "Student ID",
-    "description": "hint_student_id"
+    "description": "Student ID"
   },
   "hint_type_comment_here": {
     "message": "Enter a comment",
-    "description": "hint_type_comment_here"
+    "description": "Enter a comment"
   },
   "hint_type_here": {
     "message": "This is too vague. Where is this used?",
-    "description": "hint_type_here"
+    "description": "This is too vague. Where is this used?"
   },
   "home_cards_bus_title": {
     "message": "Bus %s",
-    "description": "home_cards_bus_title"
+    "description": "Bus %s"
   },
   "home_cards_title": {
     "message": "EDULOG PARENT PORTAL",
-    "description": "home_cards_title"
+    "description": "EDULOG PARENT PORTAL"
   },
   "home_loading_trips": {
     "message": "Loading trips...",
-    "description": "home_loading_trips"
+    "description": "Loading trips..."
   },
   "home_trip_detail_menu": {
     "message": "Trip Details",
-    "description": "home_trip_detail_menu"
+    "description": "Trip Details"
   },
   "idp_sign_in_navigation_title": {
     "message": "Sign In by District",
-    "description": "idp_sign_in_navigation_title"
+    "description": "Sign In by District"
   },
   "idp_sign_in_not_found": {
     "message": "Sorry, we couldn't find your district. Please check your district name and try again.",
-    "description": "idp_sign_in_not_found"
+    "description": "Sorry, we couldn't find your district. Please check your district name and try again."
   },
   "idp_sign_in_required_message": {
     "message": "District name is required",
-    "description": "idp_sign_in_required_message"
+    "description": "District name is required"
   },
   "idp_sign_in_title": {
     "message": "Full District Name",
-    "description": "idp_sign_in_title"
+    "description": "Full District Name"
   },
   "image_qr_code_selected_invalid": {
     "message": "Can not detect QR code from your image selected. Please choose another one.",
-    "description": "image_qr_code_selected_invalid"
+    "description": "Can not detect QR code from your image selected. Please choose another one."
   },
   "inbox_detail_empty_description": {
     "message": "Please try again later",
-    "description": "inbox_detail_empty_description"
+    "description": "Please try again later"
   },
   "inbox_detail_empty_title": {
     "message": "Can't load the content",
-    "description": "inbox_detail_empty_title"
+    "description": "Can't load the content"
   },
   "inbox_notification_cannot_connect_server": {
     "message": "Can't connect to Server.",
-    "description": "inbox_notification_cannot_connect_server"
+    "description": "Can't connect to Server."
   },
   "inbox_notification_cannot_connect_server_try_again": {
     "message": "Please check internet or try again.",
-    "description": "inbox_notification_cannot_connect_server_try_again"
+    "description": "Please check internet or try again."
   },
   "inbox_notification_confirm_all_message": {
     "message": "Are you sure you want to delete all messages and notifications in the Inbox?",
-    "description": "inbox_notification_confirm_all_message"
+    "description": "Are you sure you want to delete all messages and notifications in the Inbox?"
   },
   "inbox_notification_confirm_all_system_message": {
     "message": "Are you sure you want to delete all notifications in the Inbox?",
-    "description": "inbox_notification_confirm_all_system_message"
+    "description": "Are you sure you want to delete all notifications in the Inbox?"
   },
   "inbox_notification_confirm_all_user_message": {
     "message": "Are you sure you want to delete all messages in the Inbox?",
-    "description": "inbox_notification_confirm_all_user_message"
+    "description": "Are you sure you want to delete all messages in the Inbox?"
   },
   "inbox_notification_confirm_delete_a_message": {
     "message": "Are you sure you want to delete this message?",
-    "description": "inbox_notification_confirm_delete_a_message"
+    "description": "Are you sure you want to delete this message?"
   },
   "inbox_notification_delete_all": {
     "message": "Delete all",
-    "description": "inbox_notification_delete_all"
+    "description": "Delete all"
   },
   "inbox_notification_delete_message_fails": {
     "message": "The message can't be deleted due to a problem accessing server. Please try again.",
-    "description": "inbox_notification_delete_message_fails"
+    "description": "The message can't be deleted due to a problem accessing server. Please try again."
   },
   "inbox_notification_details_date_title": {
     "message": "Date: ",
-    "description": "inbox_notification_details_date_title"
+    "description": "Date: "
   },
   "inbox_notification_details_empty": {
     "message": "Can't load the content.",
-    "description": "inbox_notification_details_empty"
+    "description": "Can't load the content."
   },
   "inbox_notification_details_try_later": {
     "message": "Please try again later.",
-    "description": "inbox_notification_details_try_later"
+    "description": "Please try again later."
   },
   "inbox_notification_message_empty": {
     "message": "Inbox is empty",
-    "description": "inbox_notification_message_empty"
+    "description": "Inbox is empty"
   },
   "inbox_notification_message_empty_content": {
     "message": "There is no message display at the present.",
-    "description": "inbox_notification_message_empty_content"
+    "description": "There is no message display at the present."
   },
   "inbox_notification_message_from_admin": {
     "message": "Message from School Admin",
-    "description": "inbox_notification_message_from_admin"
+    "description": "Message from School Admin"
   },
   "inbox_notification_message_from_system": {
     "message": "Message from School System",
-    "description": "inbox_notification_message_from_system"
+    "description": "Message from School System"
   },
   "inbox_notification_title": {
     "message": "Inbox",
-    "description": "inbox_notification_title"
+    "description": "Inbox"
   },
   "inbox_notification_title_from_message": {
     "message": "Message",
-    "description": "inbox_notification_title_from_message"
+    "description": "Message"
   },
   "inbox_notification_title_from_system": {
     "message": "System",
-    "description": "inbox_notification_title_from_system"
+    "description": "System"
   },
   "information_qr_code": {
     "message": "Information",
-    "description": "information_qr_code"
+    "description": "Information"
   },
   "item_filter_last_month": {
     "message": "Last month",
-    "description": "item_filter_last_month"
+    "description": "Last month"
   },
   "item_filter_last_year": {
     "message": "Last year",
-    "description": "item_filter_last_year"
+    "description": "Last year"
   },
   "item_filter_time_range": {
     "message": "Time range",
-    "description": "item_filter_time_range"
+    "description": "Time range"
   },
   "item_filter_today": {
     "message": "Today",
-    "description": "item_filter_today"
+    "description": "Today"
   },
   "item_filter_yesterday": {
     "message": "Yesterday",
-    "description": "item_filter_yesterday"
+    "description": "Yesterday"
   },
   "item_header_schedule_number_1": {
     "message": "1",
-    "description": "item_header_schedule_number_1"
+    "description": "1"
   },
   "item_header_schedule_number_2": {
     "message": "2",
-    "description": "item_header_schedule_number_2"
+    "description": "2"
   },
   "item_header_schedule_number_3": {
     "message": "3",
-    "description": "item_header_schedule_number_3"
+    "description": "3"
   },
   "item_header_schedule_to_school": {
     "message": "To School",
-    "description": "item_header_schedule_to_school"
+    "description": "To School"
   },
   "item_header_transportation_request_status_reject": {
     "message": "Rejected",
-    "description": "item_header_transportation_request_status_reject"
+    "description": "Rejected"
   },
   "item_header_transportation_request_tv_created_on": {
     "message": "Created on",
-    "description": "item_header_transportation_request_tv_created_on"
+    "description": "Created on"
   },
   "login_button_title": {
     "message": "Log In",
-    "description": "login_button_title"
+    "description": "Log In"
   },
   "login_email": {
     "message": "E-mail",
-    "description": "login_email"
+    "description": "E-mail"
   },
   "login_error_email_not_confirmed": {
     "message": "The email address already exists but the account hasn’t been activated.",
-    "description": "login_error_email_not_confirmed"
+    "description": "The email address already exists but the account hasn’t been activated."
   },
   "login_error_email_pass_incorrect": {
     "message": "Oops! No account matched the information provided.",
-    "description": "login_error_email_pass_incorrect"
+    "description": "Oops! No account matched the information provided."
   },
   "login_error_locked_account": {
     "message": "This account is temporarily locked due to too many failed login attempts.",
-    "description": "login_error_locked_account"
+    "description": "This account is temporarily locked due to too many failed login attempts."
   },
   "login_error_network_not_available": {
     "message": "Cannot connect to server. Please check your connection and try again.",
-    "description": "login_error_network_not_available"
+    "description": "Cannot connect to server. Please check your connection and try again."
   },
   "login_example_name": {
     "message": "jsmith@mail.com",
-    "description": "login_example_name"
+    "description": "jsmith@mail.com"
   },
   "login_forgot_password": {
     "message": "Forgot password?",
-    "description": "login_forgot_password"
+    "description": "Forgot password?"
   },
   "login_name": {
     "message": "Account",
-    "description": "login_name"
+    "description": "Account"
   },
   "login_password": {
     "message": "Password",
-    "description": "login_password"
+    "description": "Password"
   },
   "login_remember_id": {
     "message": "Remember my account",
-    "description": "login_remember_id"
+    "description": "Remember my account"
   },
   "login_resend_email_success": {
     "message": "An activation link has been sent to your email address [%1$s]. Please check your email and follow the instructions to activate your account.",
-    "description": "login_resend_email_success"
+    "description": "An activation link has been sent to your email address [%1$s]. Please check your email and follow the instructions to activate your account."
   },
   "login_signup_title": {
     "message": "Sign Up",
-    "description": "login_signup_title"
+    "description": "Sign Up"
   },
   "main_tabs_district_list": {
     "message": "Districts",
-    "description": "main_tabs_district_list"
+    "description": "Districts"
   },
   "main_tabs_home": {
     "message": "Home",
-    "description": "main_tabs_home"
+    "description": "Home"
   },
   "main_tabs_setting": {
     "message": "Settings",
-    "description": "main_tabs_setting"
+    "description": "Settings"
   },
   "main_tabs_where_my_bus": {
     "message": "My Buses",
-    "description": "main_tabs_where_my_bus"
+    "description": "My Buses"
   },
   "message_alert_zones_migrate_loading": {
     "message": "Alert zone migration in process...",
-    "description": "message_alert_zones_migrate_loading"
+    "description": "Alert zone migration in process..."
   },
   "message_empty_scan_history": {
     "message": "%1$s has not scanned yet today.",
-    "description": "message_empty_scan_history"
+    "description": "%1$s has not scanned yet today."
   },
   "message_empty_vehicle": {
     "message": "No vehicles found.",
-    "description": "message_empty_vehicle"
+    "description": "No vehicles found."
   },
   "message_new_version_force": {
     "message": "A newer version is available. Please update the app to continue.",
-    "description": "message_new_version_force"
+    "description": "A newer version is available. Please update the app to continue."
   },
   "message_new_version_optional": {
     "message": "A newer version is available. Please update the app to access exciting new features!",
-    "description": "message_new_version_optional"
+    "description": "A newer version is available. Please update the app to access exciting new features!"
   },
   "message_required_dob": {
     "message": "Date of birth is required",
-    "description": "message_required_dob"
+    "description": "Date of birth is required"
   },
   "message_required_email": {
     "message": "E-mail is required",
-    "description": "message_required_email"
+    "description": "E-mail is required"
   },
   "message_required_first_name": {
     "message": "Student's first name is required",
-    "description": "message_required_first_name"
+    "description": "Student's first name is required"
   },
   "message_required_gender": {
     "message": "Gender is required",
-    "description": "message_required_gender"
+    "description": "Gender is required"
   },
   "message_required_last_name": {
     "message": "Student's last name is required",
-    "description": "message_required_last_name"
+    "description": "Student's last name is required"
   },
   "message_required_password": {
     "message": "Password is required",
-    "description": "message_required_password"
+    "description": "Password is required"
   },
   "message_student_loading": {
     "message": "Loading students…",
-    "description": "message_student_loading"
+    "description": "Loading students…"
   },
   "message_transportation_details_loading": {
     "message": "Loading...",
-    "description": "message_transportation_details_loading"
+    "description": "Loading..."
   },
   "message_transportation_loading": {
     "message": "Loading transportation information...",
-    "description": "message_transportation_loading"
+    "description": "Loading transportation information..."
   },
   "message_vehicles_loading": {
     "message": "Loading vehicles...",
-    "description": "message_vehicles_loading"
+    "description": "Loading vehicles..."
   },
   "message_warning_compare_date_from_date_to": {
     "message": "From Date must be before To Date",
-    "description": "message_warning_compare_date_from_date_to"
+    "description": "From Date must be before To Date"
   },
   "my_child_display_text_when_0_minute_incoming": {
     "message": "Arriving now",
-    "description": "my_child_display_text_when_0_minute_incoming"
+    "description": "Arriving now"
   },
   "name": {
     "message": "Name",
-    "description": "name"
+    "description": "Name"
   },
   "nav_check_for_update": {
     "message": "CHECK FOR UPDATES",
-    "description": "nav_check_for_update"
+    "description": "CHECK FOR UPDATES"
   },
   "navigation_home": {
     "message": "Home",
-    "description": "navigation_home"
+    "description": "Home"
   },
   "navigation_my_bus": {
     "message": "My Bus",
-    "description": "navigation_my_bus"
+    "description": "My Bus"
   },
   "navigation_notification": {
     "message": "Notifications",
-    "description": "navigation_notification"
+    "description": "Notifications"
   },
   "navigation_setting": {
     "message": "Settings",
-    "description": "navigation_setting"
+    "description": "Settings"
   },
   "navigation_setting_enable": {
     "message": "Notifications Enabled",
-    "description": "navigation_setting_enable"
+    "description": "Notifications Enabled"
   },
   "navigation_setting_scan_history_notification": {
     "message": "Scan Notifications",
-    "description": "navigation_setting_scan_history_notification"
+    "description": "Scan Notifications"
   },
   "navigation_setting_trip_notification": {
     "message": "Trip Alert Zone Notifications",
-    "description": "navigation_setting_trip_notification"
+    "description": "Trip Alert Zone Notifications"
   },
   "navigation_student_list": {
     "message": "Student List",
-    "description": "navigation_student_list"
+    "description": "Student List"
   },
   "navigation_transportation_list": {
     "message": "Requests",
-    "description": "navigation_transportation_list"
+    "description": "Requests"
   },
   "navigation_your_bus_arriving": {
     "message": "Bus %2$s is arriving for %1$s's %3$s trip.",
-    "description": "navigation_your_bus_arriving"
+    "description": "Bus %2$s is arriving for %1$s's %3$s trip."
   },
   "no_child_on_bus": {
     "message": "No students have scheduled transportation today.",
-    "description": "no_child_on_bus"
+    "description": "No students have scheduled transportation today."
   },
   "no_schedule_add_request": {
     "message": "Request Transportation",
-    "description": "no_schedule_add_request"
+    "description": "Request Transportation"
   },
   "no_schedule_here": {
     "message": "No Schedule",
-    "description": "no_schedule_here"
+    "description": "No Schedule"
   },
   "no_schedule_not_assigned": {
     "message": "Your child does not currently have any assigned transportation.",
-    "description": "no_schedule_not_assigned"
+    "description": "Your child does not currently have any assigned transportation."
   },
   "notificaiton_vehicle_alert_body": {
     "message": "Bus %1$s has entered %2$s.",
-    "description": "notificaiton_vehicle_alert_body"
+    "description": "Bus %1$s has entered %2$s."
   },
   "notification_channel_id": {
     "message": "Does this need to be filled out?",
-    "description": "notification_channel_id"
+    "description": "Does this need to be filled out?"
   },
   "notification_dialog_back_to_home": {
     "message": "Back to Home",
-    "description": "notification_dialog_back_to_home"
+    "description": "Back to Home"
   },
   "notification_dialog_title": {
     "message": "Notification",
-    "description": "notification_dialog_title"
+    "description": "Notification"
   },
   "notification_inbox_all_tab": {
     "message": "All",
-    "description": "notification_inbox_all_tab"
+    "description": "All"
   },
   "notification_inbox_message_tab": {
     "message": "Message",
-    "description": "notification_inbox_message_tab"
+    "description": "Message"
   },
   "notification_inbox_notification_tab": {
     "message": "Notification",
-    "description": "notification_inbox_notification_tab"
+    "description": "Notification"
   },
   "notification_message_bus_entering_geofence": {
     "message": "Bus %1$s has entered %2$s.",
-    "description": "notification_message_bus_entering_geofence"
-  },
-  "notification_message_bus_entering_geofence_html": {
-    "message": "",
-    "description": "notification_message_bus_entering_geofence_html"
-  },
-  "notification_setting_alert_message_turn_off": {
-    "message": "",
-    "description": "notification_setting_alert_message_turn_off"
-  },
-  "notification_setting_alert_message_turn_on": {
-    "message": "",
-    "description": "notification_setting_alert_message_turn_on"
+    "description": "Bus %1$s has entered %2$s."
   },
   "notification_setting_alert_title_turn_off": {
     "message": "Notifications are disabled",
-    "description": "notification_setting_alert_title_turn_off"
+    "description": "Notifications are disabled"
   },
   "notification_setting_alert_title_turn_on": {
     "message": "Notifications are enabled",
-    "description": "notification_setting_alert_title_turn_on"
+    "description": "Notifications are enabled"
   },
   "notification_setting_enable": {
     "message": "Notifications enabled",
-    "description": "notification_setting_enable"
+    "description": "Notifications enabled"
   },
   "notification_setting_from_school_trip": {
     "message": "from school",
-    "description": "notification_setting_from_school_trip"
-  },
-  "notification_setting_scan": {
-    "message": "Scan Notifications",
-    "description": "notification_setting_scan"
-  },
-  "notification_setting_title": {
-    "message": "NOTIFICATION SETTINGS",
-    "description": "notification_setting_title"
-  },
-  "notification_setting_to_school_trip": {
-    "message": "to school",
-    "description": "notification_setting_to_school_trip"
-  },
-  "notification_setting_vehicle": {
-    "message": "Bus Notifications",
-    "description": "notification_setting_vehicle"
+    "description": "from school"
   },
   "notification_settings": {
     "message": "Notification Settings",
-    "description": "notification_settings"
+    "description": "Notification Settings"
+  },
+  "notification_setting_scan": {
+    "message": "Scan Notifications",
+    "description": "Scan Notifications"
   },
   "notification_settings_email": {
     "message": "E-mail",
-    "description": "notification_settings_email"
+    "description": "E-mail"
   },
   "notification_settings_enable": {
     "message": "Notifications Enabled",
-    "description": "notification_settings_enable"
+    "description": "Notifications Enabled"
   },
   "notification_settings_robotcalls": {
     "message": "Voice notifications",
-    "description": "notification_settings_robotcalls"
+    "description": "Voice notifications"
   },
   "notification_settings_scan_notification_alert": {
     "message": "You can enable/disable scan notifications for the individual students below.",
-    "description": "notification_settings_scan_notification_alert"
+    "description": "You can enable/disable scan notifications for the individual students below."
   },
   "notification_settings_scan_notification_label": {
     "message": "Scan Notifications",
-    "description": "notification_settings_scan_notification_label"
+    "description": "Scan Notifications"
   },
   "notification_settings_sms": {
     "message": "SMS",
-    "description": "notification_settings_sms"
+    "description": "SMS"
   },
   "notification_settings_trip_notification": {
     "message": "Trip Alert Zone Notifications",
-    "description": "notification_settings_trip_notification"
+    "description": "Trip Alert Zone Notifications"
   },
   "notification_settings_trip_notification_item": {
     "message": "%1$s's %2$s trip",
-    "description": "notification_settings_trip_notification_item"
+    "description": "%1$s's %2$s trip"
   },
   "notification_settings_vehicle_notification": {
     "message": "Bus Notifications",
-    "description": "notification_settings_vehicle_notification"
+    "description": "Bus Notifications"
+  },
+  "notification_setting_title": {
+    "message": "NOTIFICATION SETTINGS",
+    "description": "NOTIFICATION SETTINGS"
+  },
+  "notification_setting_to_school_trip": {
+    "message": "to school",
+    "description": "to school"
+  },
+  "notification_setting_vehicle": {
+    "message": "Bus Notifications",
+    "description": "Bus Notifications"
   },
   "notification_title": {
     "message": "Edulog Parent Portal",
-    "description": "notification_title"
+    "description": "Edulog Parent Portal"
   },
   "notification_vehicle_alert_title": {
     "message": "Parent Portal Notification",
-    "description": "notification_vehicle_alert_title"
+    "description": "Parent Portal Notification"
   },
   "notification_vehicle_is_disable_message": {
     "message": "Notifications for this vehicle are disabled.",
-    "description": "notification_vehicle_is_disable_message"
+    "description": "Notifications for this vehicle are disabled."
   },
   "notification_vehicle_is_enable_message": {
     "message": "Notifications for this vehicle are enabled.",
-    "description": "notification_vehicle_is_enable_message"
+    "description": "Notifications for this vehicle are enabled."
   },
   "notification_vehicle_list_empty_followed_vehicle": {
     "message": "You are not currently following any vehicles.",
-    "description": "notification_vehicle_list_empty_followed_vehicle"
+    "description": "You are not currently following any vehicles."
   },
   "notification_vehicle_list_empty_vehicle_has_geofence": {
     "message": "You have not configured any alert zones...",
-    "description": "notification_vehicle_list_empty_vehicle_has_geofence"
+    "description": "You have not configured any alert zones..."
   },
   "notification_vehicles_title": {
     "message": "NOTIFICATIONS",
-    "description": "notification_vehicles_title"
+    "description": "NOTIFICATIONS"
   },
   "notify_title": {
     "message": "Notification Settings",
-    "description": "notify_title"
+    "description": "Notification Settings"
   },
   "notoficaiton_from_school_dropoff": {
     "message": "From School drop-off",
-    "description": "notoficaiton_from_school_dropoff"
+    "description": "From School drop-off"
   },
   "notoficaiton_to_school_pickup": {
     "message": "To School pick up",
-    "description": "notoficaiton_to_school_pickup"
+    "description": "To School pick up"
   },
   "pick_image_intent_text": {
     "message": "Select an image",
-    "description": "pick_image_intent_text"
+    "description": "Select an image"
+  },
+  "PP:HOME": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:HOME:TD": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:HOME:WMB": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:SSN": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:SSN:STL": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:AS": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:STN": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:RS": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:SH": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:TDN": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:TSC": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:WMB": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:ST:WMC": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:TR": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:TR:CTR": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:TR:CTRST": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
+  },
+  "PP:WMB": {
+    "message": "This feature is not available.",
+    "description": "This feature is not available."
   },
   "received": {
     "message": "received",
@@ -1434,11 +1409,11 @@
   },
   "regex_error_email_violated_format": {
     "message": "E-mail address is invalid.",
-    "description": "regex_error_email_violated_format"
+    "description": "E-mail address is invalid."
   },
   "regex_error_password_violated_rule": {
     "message": "Passwords must be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, one number, and one special character.",
-    "description": "regex_error_password_violated_rule"
+    "description": "Passwords must be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, one number, and one special character."
   },
   "rejected": {
     "message": "rejected",
@@ -1446,1306 +1421,1342 @@
   },
   "request_server_error": {
     "message": "Cannot connect to server. Please check your connection and try again.",
-    "description": "request_server_error"
+    "description": "Cannot connect to server. Please check your connection and try again."
   },
   "required_address": {
     "message": "Address is required.",
-    "description": "required_address"
+    "description": "Address is required."
   },
   "required_email": {
     "message": "E-mail is required.",
-    "description": "required_email"
+    "description": "E-mail is required."
   },
   "required_first_name": {
     "message": "First name is required.",
-    "description": "required_first_name"
+    "description": "First name is required."
   },
   "required_gender": {
     "message": "Gender is required.",
-    "description": "required_gender"
+    "description": "Gender is required."
   },
   "required_last_name": {
     "message": "Last name is required.",
-    "description": "required_last_name"
+    "description": "Last name is required."
   },
   "required_password": {
     "message": "Password is required.",
-    "description": "required_password"
+    "description": "Password is required."
   },
   "required_school": {
     "message": "School is required.",
-    "description": "required_school"
+    "description": "School is required."
   },
   "required_selected_date": {
     "message": "A start date is required.",
-    "description": "required_selected_date"
+    "description": "A start date is required."
+  },
+  "required_selected_end_date": {
+    "message": "End date is required.",
+    "description": "End date is required."
+  },
+  "required_selected_end_date_must_after_start_date": {
+    "message": "End date must be after start date.",
+    "description": "End date must be after start date."
   },
   "required_selected_repeat_day": {
     "message": "Day of week is required.",
-    "description": "required_selected_repeat_day"
+    "description": "Day of week is required."
+  },
+  "required_selected_start_date": {
+    "message": "Start date is required.",
+    "description": "Start date is required."
   },
   "required_student": {
     "message": "Please select a student!",
-    "description": "required_student"
+    "description": "Please select a student!"
   },
   "required_student_district_id": {
     "message": "Student's district ID is required.",
-    "description": "required_student_district_id"
+    "description": "Student's district ID is required."
   },
   "required_trip_type": {
     "message": "Trip type is required.",
-    "description": "required_trip_type"
+    "description": "Trip type is required."
   },
   "reveiew_transportation_request_apply": {
     "message": "Preferred Start Date",
-    "description": "reveiew_transportation_request_apply"
+    "description": "Preferred Start Date"
   },
   "review_schedule_desired_schedule_address": {
     "message": "Address",
-    "description": "review_schedule_desired_schedule_address"
-  },
-  "scan_history_card_scan_disembarked": {
-    "message": "Disembarked at %1$s",
-    "description": "scan_history_card_scan_disembarked"
-  },
-  "scan_history_card_scan_disembarked_driver": {
-    "message": "Disembarked at %1$s by the driver",
-    "description": "scan_history_card_scan_disembarked_driver"
-  },
-  "scan_history_card_scan_embarked": {
-    "message": "Embarked at %1$s",
-    "description": "scan_history_card_scan_embarked"
-  },
-  "scan_history_card_scan_embarked_driver": {
-    "message": "Embarked at %1$s by the driver",
-    "description": "scan_history_card_scan_embarked_driver"
-  },
-  "scan_history_card_scan_without_type": {
-    "message": "Card scanned at %1$s",
-    "description": "scan_history_card_scan_without_type"
-  },
-  "scan_history_filter_7days": {
-    "message": "7 days",
-    "description": "scan_history_filter_7days"
-  },
-  "scan_history_filter_30days": {
-    "message": "30 days",
-    "description": "scan_history_filter_30days"
-  },
-  "scan_history_filter_clear": {
-    "message": "Clear",
-    "description": "scan_history_filter_clear"
-  },
-  "scan_history_filter_select_day": {
-    "message": "Select",
-    "description": "scan_history_filter_select_day"
-  },
-  "scan_history_filter_select_day_from": {
-    "message": "From",
-    "description": "scan_history_filter_select_day_from"
-  },
-  "scan_history_filter_select_day_to": {
-    "message": "To",
-    "description": "scan_history_filter_select_day_to"
-  },
-  "scan_history_filter_title": {
-    "message": "Filter:",
-    "description": "scan_history_filter_title"
-  },
-  "scan_history_from_time": {
-    "message": "FROM TIME",
-    "description": "scan_history_from_time"
-  },
-  "scan_history_search_place_holder": {
-    "message": "Search",
-    "description": "scan_history_search_place_holder"
-  },
-  "scan_history_to_time": {
-    "message": "TO TIME",
-    "description": "scan_history_to_time"
-  },
-  "scan_history_today": {
-    "message": "Today",
-    "description": "scan_history_today"
-  },
-  "scan_history_yesterday": {
-    "message": "Yesterday",
-    "description": "scan_history_yesterday"
-  },
-  "scan_notification_setting_empty_view": {
-    "message": "There is no data of scan notification.",
-    "description": "scan_notification_setting_empty_view"
-  },
-  "scan_notification_setting_recommend": {
-    "message": "You can enable/disable scan notifications for the individual students below.",
-    "description": "scan_notification_setting_recommend"
-  },
-  "scan_qr_code_description": {
-    "message": "Please move the QR code into the square above",
-    "description": "scan_qr_code_description"
-  },
-  "scan_qr_code_error_expired": {
-    "message": "This QR code is expired. Please contact to school admin to get a new QR code.",
-    "description": "scan_qr_code_error_expired"
-  },
-  "scan_qr_code_error_invalid_qr_code": {
-    "message": "QR code is invalid. Please choose another QR code or contact school admin to get new QR code",
-    "description": "scan_qr_code_error_invalid_qr_code"
-  },
-  "schedule_type_every_week": {
-    "message": "Every Week",
-    "description": "schedule_type_every_week"
-  },
-  "schedule_type_specific_date": {
-    "message": "Specific Date",
-    "description": "schedule_type_specific_date"
-  },
-  "school_no_schools": {
-    "message": "No schools to display.",
-    "description": "school_no_schools"
-  },
-  "search_location_hint": {
-    "message": "Search for a location...",
-    "description": "search_location_hint"
-  },
-  "search_location_warning_not_found": {
-    "message": "Location not found. Please try another.",
-    "description": "search_location_warning_not_found"
-  },
-  "search_school_code_tittle": {
-    "message": "Code %1$s",
-    "description": "search_school_code_tittle"
-  },
-  "search_school_map_arena": {
-    "message": "Search This Area",
-    "description": "search_school_map_arena"
-  },
-  "search_school_no_result": {
-    "message": "No schools matched %1$s.",
-    "description": "search_school_no_result"
-  },
-  "select_gender": {
-    "message": "Select gender",
-    "description": "select_gender"
-  },
-  "select_school": {
-    "message": "Select school",
-    "description": "select_school"
-  },
-  "select_school_instruction": {
-    "message": "Tap a school icon to identify your student's school.",
-    "description": "select_school_instruction"
-  },
-  "select_school_map_view_title": {
-    "message": "Select School",
-    "description": "select_school_map_view_title"
-  },
-  "select_school_no_school": {
-    "message": "No schools matched %1$s.",
-    "description": "select_school_no_school"
-  },
-  "select_school_no_schools": {
-    "message": "No schools found in this area.",
-    "description": "select_school_no_schools"
-  },
-  "select_school_search_area": {
-    "message": "Search This Area",
-    "description": "select_school_search_area"
-  },
-  "select_school_show_list": {
-    "message": "School List",
-    "description": "select_school_show_list"
-  },
-  "select_school_too_many": {
-    "message": "Too many search results. Please pick a smaller area.",
-    "description": "select_school_too_many"
-  },
-  "select_school_warning_cancel_selection": {
-    "message": "Are you sure you wish to cancel school selection?",
-    "description": "select_school_warning_cancel_selection"
-  },
-  "select_school_warning_select": {
-    "message": "Please select a school to continue.",
-    "description": "select_school_warning_select"
-  },
-  "select_student_title": {
-    "message": "SELECT STUDENT",
-    "description": "select_student_title"
-  },
-  "setting_app_version": {
-    "message": "Version",
-    "description": "setting_app_version"
-  },
-  "setting_language": {
-    "message": "Language",
-    "description": "setting_language"
-  },
-  "settings_change_password": {
-    "message": "Change Password",
-    "description": "settings_change_password"
-  },
-  "settings_checking_update": {
-    "message": "Check for Updates",
-    "description": "settings_checking_update"
-  },
-  "settings_checking_update_current_message": {
-    "message": "Parent portal is up to date.",
-    "description": "settings_checking_update_current_message"
-  },
-  "settings_checking_update_message": {
-    "message": "There is a new version of Parent Portal. Please update the app to access new features.",
-    "description": "settings_checking_update_message"
-  },
-  "settings_checking_update_new_version": {
-    "message": "New Version",
-    "description": "settings_checking_update_new_version"
-  },
-  "settings_checking_update_version": {
-    "message": "Version",
-    "description": "settings_checking_update_version"
-  },
-  "settings_dob": {
-    "message": "DOB",
-    "description": "settings_dob"
-  },
-  "settings_faq": {
-    "message": "FAQ",
-    "description": "settings_faq"
-  },
-  "settings_gender": {
-    "message": "Gender",
-    "description": "settings_gender"
-  },
-  "settings_language": {
-    "message": "Language",
-    "description": "settings_language"
-  },
-  "settings_language_message_empty": {
-    "message": "No languages found.",
-    "description": "settings_language_message_empty"
-  },
-  "settings_language_restart_required_confirm": {
-    "message": "Restart Required",
-    "description": "settings_language_restart_required_confirm"
-  },
-  "settings_language_restart_required_message": {
-    "message": "To switch languages, Parent Portal needs to be restarted. Tap \"Restart\" to restart.",
-    "description": "settings_language_restart_required_message"
-  },
-  "settings_location": {
-    "message": "Location Management",
-    "description": "settings_location"
-  },
-  "settings_log_out": {
-    "message": "Log Out",
-    "description": "settings_log_out"
-  },
-  "settings_notification": {
-    "message": "Notification Settings",
-    "description": "settings_notification"
-  },
-  "settings_payment": {
-    "message": "Payment",
-    "description": "settings_payment"
-  },
-  "settings_title": {
-    "message": "Settings",
-    "description": "settings_title"
-  },
-  "side_menu_item_change_password": {
-    "message": "Change Password",
-    "description": "side_menu_item_change_password"
-  },
-  "side_menu_item_followed_bus": {
-    "message": "Followed Buses",
-    "description": "side_menu_item_followed_bus"
-  },
-  "side_menu_item_logout": {
-    "message": "Log Out",
-    "description": "side_menu_item_logout"
-  },
-  "side_menu_item_notification_setting": {
-    "message": "Notification Settings",
-    "description": "side_menu_item_notification_setting"
-  },
-  "side_menu_item_student_trip": {
-    "message": "EDULOG PARENT PORTAL",
-    "description": "side_menu_item_student_trip"
-  },
-  "sign_in_button_title": {
-    "message": "Sign In",
-    "description": "sign_in_button_title"
-  },
-  "sign_in_by": {
-    "message": "Sign in by",
-    "description": "sign_in_by"
-  },
-  "sign_in_by_external_idp": {
-    "message": "Sign in by an external provider. Tap here",
-    "description": "sign_in_by_external_idp"
-  },
-  "sign_in_click_resend_email": {
-    "message": "Click here to resend the activation email.",
-    "description": "sign_in_click_resend_email"
-  },
-  "sign_in_email": {
-    "message": "E-mail",
-    "description": "sign_in_email"
-  },
-  "sign_in_error_account_email_not_yet_verified": {
-    "message": "The email address already exists but the account hasn’t been activated.",
-    "description": "sign_in_error_account_email_not_yet_verified"
-  },
-  "sign_in_error_email_not_confirmed": {
-    "message": "Your e-mail has not been confirmed. please check your e-mail to complete the registration process.",
-    "description": "sign_in_error_email_not_confirmed"
-  },
-  "sign_in_error_email_pass_incorrect": {
-    "message": "Invalid credentials. Please try again or click Forgot password to reset it.",
-    "description": "sign_in_error_email_pass_incorrect"
-  },
-  "sign_in_error_locked_account": {
-    "message": "This account is temporarily locked due to too many failed login attempts.",
-    "description": "sign_in_error_locked_account"
-  },
-  "sign_in_example_name": {
-    "message": "jsmith@mail.com",
-    "description": "sign_in_example_name"
-  },
-  "sign_in_forgot_password": {
-    "message": "Forgot password?",
-    "description": "sign_in_forgot_password"
-  },
-  "sign_in_get_idp_failure": {
-    "message": "Can’t display providers.\nPlease try again later.",
-    "description": "sign_in_get_idp_failure"
-  },
-  "sign_in_name": {
-    "message": "Account",
-    "description": "sign_in_name"
-  },
-  "sign_in_new_user": {
-    "message": "New user?",
-    "description": "sign_in_new_user"
-  },
-  "sign_in_new_user_sign_up": {
-    "message": "New user? SIGN UP",
-    "description": "sign_in_new_user_sign_up"
-  },
-  "sign_in_or": {
-    "message": "Or",
-    "description": "sign_in_or"
-  },
-  "sign_in_password": {
-    "message": "Password",
-    "description": "sign_in_password"
-  },
-  "sign_in_remember_id": {
-    "message": "Remember my ID",
-    "description": "sign_in_remember_id"
-  },
-  "sign_in_sign_up": {
-    "message": "SIGN UP",
-    "description": "sign_in_sign_up"
-  },
-  "sign_in_sign_up_title": {
-    "message": "Sign Up",
-    "description": "sign_in_sign_up_title"
-  },
-  "sign_in_tap_here": {
-    "message": "Tap here",
-    "description": "sign_in_tap_here"
-  },
-  "sign_in_title_provider": {
-    "message": "Sign in by external provider",
-    "description": "sign_in_title_provider"
-  },
-  "sign_up_back_login": {
-    "message": "Sign In",
-    "description": "sign_up_back_login"
-  },
-  "sign_up_button": {
-    "message": "Sign Up",
-    "description": "sign_up_button"
-  },
-  "sign_up_email": {
-    "message": "E-mail",
-    "description": "sign_up_email"
-  },
-  "sign_up_error_email_existed": {
-    "message": "An account for this e-mail already exists. Please register with a different e-mail address.",
-    "description": "sign_up_error_email_existed"
-  },
-  "sign_up_error_failed": {
-    "message": "Unable to register your account. Please try again later.",
-    "description": "sign_up_error_failed"
-  },
-  "sign_up_error_field_re_password_failed": {
-    "message": "Passwords do not match.",
-    "description": "sign_up_error_field_re_password_failed"
-  },
-  "sign_up_first_name": {
-    "message": "First Name",
-    "description": "sign_up_first_name"
-  },
-  "sign_up_last_name": {
-    "message": "Last Name",
-    "description": "sign_up_last_name"
-  },
-  "sign_up_message_successfully": {
-    "message": "Registration successful! Please check your e-mail %1$s to confirm your e-mail address.",
-    "description": "sign_up_message_successfully"
-  },
-  "sign_up_notification_congratulations": {
-    "message": "Congratulations! Your account has been activated.",
-    "description": "sign_up_notification_congratulations"
-  },
-  "sign_up_password": {
-    "message": "Password",
-    "description": "sign_up_password"
-  },
-  "sign_up_re_password": {
-    "message": "Please confirm your password",
-    "description": "sign_up_re_password"
-  },
-  "sign_up_validate_field_re_password_failed": {
-    "message": "Passwords to not match.",
-    "description": "sign_up_validate_field_re_password_failed"
-  },
-  "sign_up_validate_password_not_match": {
-    "message": "Password must be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, and one number.",
-    "description": "sign_up_validate_password_not_match"
-  },
-  "specific_date_navigation_title": {
-    "message": "CHOOSE DATE",
-    "description": "specific_date_navigation_title"
-  },
-  "state_boarded": {
-    "message": "Boarded",
-    "description": "state_boarded"
-  },
-  "state_boarded_early": {
-    "message": "Boarded early",
-    "description": "state_boarded_early"
-  },
-  "state_boarded_late": {
-    "message": "Boarded late",
-    "description": "state_boarded_late"
-  },
-  "state_boarded_wrong": {
-    "message": "Boarded at wrong stop",
-    "description": "state_boarded_wrong"
-  },
-  "state_disembarked": {
-    "message": "Dropped off",
-    "description": "state_disembarked"
-  },
-  "state_disembarked_early": {
-    "message": "Dropped off (early)",
-    "description": "state_disembarked_early"
-  },
-  "state_disembarked_late": {
-    "message": "Dropped off (late)",
-    "description": "state_disembarked_late"
-  },
-  "state_disembarked_wrong_stop": {
-    "message": "Dropped off at wrong stop",
-    "description": "state_disembarked_wrong_stop"
-  },
-  "state_missed_boarded": {
-    "message": "Missed stop",
-    "description": "state_missed_boarded"
-  },
-  "state_missed_disembarked": {
-    "message": "Missed drop-off stop",
-    "description": "state_missed_disembarked"
-  },
-  "state_not_boarded_yet": {
-    "message": "Not boarded yet",
-    "description": "state_not_boarded_yet"
-  },
-  "student_access_details_my_child": {
-    "message": "Where's my Child?",
-    "description": "student_access_details_my_child"
-  },
-  "student_access_scan": {
-    "message": "Scan History",
-    "description": "student_access_scan"
-  },
-  "student_detail_dob": {
-    "message": "DOB: %1$s",
-    "description": "student_detail_dob"
-  },
-  "student_detail_gender": {
-    "message": "Gender: %1$s",
-    "description": "student_detail_gender"
-  },
-  "student_detail_information_district_id": {
-    "message": "District ID",
-    "description": "student_detail_information_district_id"
-  },
-  "student_detail_information_dob": {
-    "message": "DOB",
-    "description": "student_detail_information_dob"
-  },
-  "student_detail_information_school": {
-    "message": "School",
-    "description": "student_detail_information_school"
-  },
-  "student_detail_information_student": {
-    "message": "Student",
-    "description": "student_detail_information_student"
-  },
-  "student_detail_learn_more_description": {
-    "message": "Use this Ride Registration feature to let us know if you would like to register your student for school bus transportation for the upcoming period. We use the information collected through this app (the student’s location prior to going to the pick-up location and/or where the student will go after arrival at the drop-off location) to determine whether your student is eligible for district-provided transportation and if so, to assign pick-up and drop-off locations. We may not be able to honor all requests for registration. We further reserve the right to revise any determinations made on the basis of information submitted through the app after further consideration if additional information is made available to us.",
-    "description": "student_detail_learn_more_description"
-  },
-  "student_detail_learn_more_title": {
-    "message": "Ride Registration Request Information",
-    "description": "student_detail_learn_more_title"
-  },
-  "student_detail_ride_request_approvement_title": {
-    "message": "When is the request approved?",
-    "description": "student_detail_ride_request_approvement_title"
-  },
-  "student_detail_ride_request_define_title": {
-    "message": "What is Ride Request?",
-    "description": "student_detail_ride_request_define_title"
-  },
-  "student_detail_ride_request_help_title": {
-    "message": "Help Centre",
-    "description": "student_detail_ride_request_help_title"
-  },
-  "student_detail_scan_history": {
-    "message": "Scan History",
-    "description": "student_detail_scan_history"
-  },
-  "student_detail_school_name": {
-    "message": "School: %1$s",
-    "description": "student_detail_school_name"
-  },
-  "student_detail_student_id": {
-    "message": "Student ID: %1$s",
-    "description": "student_detail_student_id"
-  },
-  "student_detail_student_id_no_param": {
-    "message": "Student ID",
-    "description": "student_detail_student_id_no_param"
-  },
-  "student_detail_title": {
-    "message": "Student Detail",
-    "description": "student_detail_title"
-  },
-  "student_detail_transportation_approved": {
-    "message": "The Ride Registration Request for your child has been approved.",
-    "description": "student_detail_transportation_approved"
-  },
-  "student_detail_transportation_cancel_button": {
-    "message": "Cancel",
-    "description": "student_detail_transportation_cancel_button"
-  },
-  "student_detail_transportation_cancel_message": {
-    "message": "Are you sure you want to cancel this Ride Registration Request?",
-    "description": "student_detail_transportation_cancel_message"
-  },
-  "student_detail_transportation_confirm_header": {
-    "message": "Enter the Home Pickup/Drop-Off Address or current bus stop location. If your student is eligible for transportation, a bus stop will be assigned by the district. You may also select a location from the map using the map icon.",
-    "description": "student_detail_transportation_confirm_header"
-  },
-  "student_detail_transportation_description": {
-    "message": "Register your child for transportation",
-    "description": "student_detail_transportation_description"
-  },
-  "student_detail_transportation_empty": {
-    "message": "Unable to connect to the server at this moment.",
-    "description": "student_detail_transportation_empty"
-  },
-  "student_detail_transportation_history": {
-    "message": "Transportation History",
-    "description": "student_detail_transportation_history"
-  },
-  "student_detail_transportation_received": {
-    "message": "The Ride Registration Request for your Student has been received. Approved requests will result in bus stop assignments that can be seen under TRANSPORTATION SCHEDULE.",
-    "description": "student_detail_transportation_received"
-  },
-  "student_detail_transportation_rejected": {
-    "message": "The Ride Registration Request for your child has been rejected.",
-    "description": "student_detail_transportation_rejected"
-  },
-  "student_detail_transportation_request": {
-    "message": "Ride Registration",
-    "description": "student_detail_transportation_request"
-  },
-  "student_detail_transportation_request_button": {
-    "message": "Request registration",
-    "description": "student_detail_transportation_request_button"
-  },
-  "student_detail_transportation_request_description": {
-    "message": "Use this feature to request that your student be registered for transportation to/from school. \nLearn more",
-    "description": "student_detail_transportation_request_description"
-  },
-  "student_detail_transportation_request_need_help_action": {
-    "message": "Learn more",
-    "description": "student_detail_transportation_request_need_help_action"
-  },
-  "student_detail_transportation_request_title": {
-    "message": "Ride Registration",
-    "description": "student_detail_transportation_request_title"
-  },
-  "student_detail_ride_registration_title": {
-    "message": "Ride Registration",
-    "description": "student_detail_ride_registration_title"
-  },
-  "student_detail_ride_registration_status_init": {
-    "message": "Create a transportation request for your student.",
-    "description": "student_detail_ride_registration_status_init"
-  },
-  "student_detail_ride_registration_status_processing_description": {
-    "message": "Your ride registration has been processing. We will provide the detail of the transportation service in a forthcoming notification.",
-    "description": "student_detail_ride_registration_status_processing_description"
-  },
-  "student_detail_ride_registration_status_received_description": {
-    "message": "Your ride registration has been received. We will provide the detail of the transportation service in a forthcoming notification.",
-    "description": "student_detail_ride_registration_status_received_description"
-  },
-  "student_detail_ride_registration_status_received": {
-    "message": "received",
-    "description": "student_detail_ride_registration_status_received"
-  },
-  "student_detail_ride_registration_status_tentatively_approved": {
-    "message": "tentatively approved",
-    "description": "student_detail_ride_registration_status_tentatively_approved"
-  },
-  "student_detail_ride_registration_status_approved": {
-    "message": "approved",
-    "description": "student_detail_ride_registration_status_approved"
-  },
-  "student_detail_ride_registration_status_rejected": {
-    "message": "rejected",
-    "description": "student_detail_ride_registration_status_rejected"
-  },
-  "student_detail_ride_registration_status_in_progress": {
-    "message": "in progress",
-    "description": "student_detail_ride_registration_status_in_progress"
-  },
-  "student_detail_ride_registration_no_transportation_request": {
-    "message": "There is no transportation request.",
-    "description": "student_detail_ride_registration_no_transportation_request"
-  },
-  "student_detail_ride_registration_description": {
-    "message": "Use this feature to request that your child be registered for transportation to/from school. \nLearn more",
-    "description": "student_detail_ride_registration_description"
-  },
-  "student_detail_ride_registration_need_help_action": {
-    "message": "Learn more",
-    "description": "student_detail_ride_registration_need_help_action"
-  },
-  "student_detail_ride_registration_action_request": {
-    "message": "REQUEST RIDE",
-    "description": "student_detail_ride_registration_action_request"
-  },
-  "student_detail_ride_registration_action_view": {
-    "message": "VIEW STATUS",
-    "description": "student_detail_ride_registration_action_view"
-  },
-  "student_detail_transportation_schedule": {
-    "message": "Transportation Schedule",
-    "description": "student_detail_transportation_schedule"
-  },
-  "student_detail_warning_no_current_transportation": {
-    "message": "There is no scheduled transportation for %1$s now.",
-    "description": "student_detail_warning_no_current_transportation"
-  },
-  "student_detail_where_is_my_bus": {
-    "message": "Where's my Bus?",
-    "description": "student_detail_where_is_my_bus"
-  },
-  "student_detail_where_is_my_child": {
-    "message": "Where's my Child?",
-    "description": "student_detail_where_is_my_child"
-  },
-  "student_list_active": {
-    "message": "Active",
-    "description": "student_list_active"
-  },
-  "student_list_approved": {
-    "message": "Approved",
-    "description": "student_list_approved"
-  },
-  "student_list_default": {
-    "message": "Unknown",
-    "description": "student_list_default"
-  },
-  "student_list_delete": {
-    "message": "Are you sure you wish to remove this student from your account?",
-    "description": "student_list_delete"
-  },
-  "student_list_delete_title": {
-    "message": "Remove student",
-    "description": "student_list_delete_title"
-  },
-  "student_list_denied": {
-    "message": "Denied",
-    "description": "student_list_denied"
-  },
-  "student_list_no_approved_student_title": {
-    "message": "No approved students to display.",
-    "description": "student_list_no_approved_student_title"
-  },
-  "student_list_no_child_add_student": {
-    "message": "Add Student",
-    "description": "student_list_no_child_add_student"
-  },
-  "student_list_no_child_message": {
-    "message": "Tap \"Add Student\" below to request access to your student's data.",
-    "description": "student_list_no_child_message"
-  },
-  "student_list_no_child_title": {
-    "message": "No child to display.",
-    "description": "student_list_no_child_title"
-  },
-  "student_list_pending": {
-    "message": "Pending",
-    "description": "student_list_pending"
-  },
-  "student_list_rejected": {
-    "message": "Rejected",
-    "description": "student_list_rejected"
-  },
-  "student_list_student_id": {
-    "message": "Student ID: %1$s",
-    "description": "student_list_student_id"
-  },
-  "student_list_title": {
-    "message": "STUDENT LIST",
-    "description": "student_list_title"
-  },
-  "student_list_un_active": {
-    "message": "Inactive",
-    "description": "student_list_un_active"
-  },
-  "student_list_warning_waiting_approved": {
-    "message": "Approval for %1$s is pending.",
-    "description": "student_list_warning_waiting_approved"
-  },
-  "student_scan_history_bus_time_title": {
-    "message": "Time",
-    "description": "student_scan_history_bus_time_title"
-  },
-  "student_scan_history_bus_title": {
-    "message": "Bus",
-    "description": "student_scan_history_bus_title"
-  },
-  "student_scan_history_message_empty": {
-    "message": "%1$s's scan history is empty.",
-    "description": "student_scan_history_message_empty"
-  },
-  "student_scan_history_swipe_history": {
-    "message": "Scan History",
-    "description": "student_scan_history_swipe_history"
-  },
-  "student_scan_history_time_range_limit": {
-    "message": "You can only search over a range of three months.",
-    "description": "student_scan_history_time_range_limit"
-  },
-  "student_scan_history_title": {
-    "message": "Scan History",
-    "description": "student_scan_history_title"
-  },
-  "student_unable_to_schedule": {
-    "message": "Unable to schedule",
-    "description": "student_unable_to_schedule"
-  },
-  "tap": {
-    "message": "Select Profile Photo",
-    "description": "tap"
-  },
-  "title_new_version": {
-    "message": "New version available",
-    "description": "title_new_version"
-  },
-  "title_none": {
-    "message": "Parent Portal is up to date.",
-    "description": "title_none"
-  },
-  "title_optional": {
-    "message": "New version available: %1$s",
-    "description": "title_optional"
-  },
-  "title_parent_portal": {
-    "message": "EDULOG PARENT PORTAL",
-    "description": "title_parent_portal"
-  },
-  "to_school_schedule_btn_look_up": {
-    "message": "Look up nearby pickup stops.",
-    "description": "to_school_schedule_btn_look_up"
-  },
-  "to_school_schedule_error_no_nearby_stops": {
-    "message": "There are no stops nearby!",
-    "description": "to_school_schedule_error_no_nearby_stops"
-  },
-  "to_school_schedule_instruction": {
-    "message": "To School schedule for %1$s on %2$s.",
-    "description": "to_school_schedule_instruction"
-  },
-  "to_school_schedule_pick_up_stops": {
-    "message": "Nearby pickup stops",
-    "description": "to_school_schedule_pick_up_stops"
-  },
-  "to_school_schedule_select_pickup_stops": {
-    "message": "Select pickup stops",
-    "description": "to_school_schedule_select_pickup_stops"
-  },
-  "to_school_schedule_title": {
-    "message": "To School Schedule",
-    "description": "to_school_schedule_title"
-  },
-  "today_trip_alert_off": {
-    "message": "OFF",
-    "description": "today_trip_alert_off"
-  },
-  "today_trip_alert_on": {
-    "message": "ON",
-    "description": "today_trip_alert_on"
-  },
-  "today_trip_bus_distance": {
-    "message": "Bus is %1$s away.",
-    "description": "today_trip_bus_distance"
-  },
-  "today_trip_bus_distance_away": {
-    "message": "away",
-    "description": "today_trip_bus_distance_away"
-  },
-  "today_trip_bus_distance_home": {
-    "message": "Bus is",
-    "description": "today_trip_bus_distance_home"
-  },
-  "today_trip_date": {
-    "message": "Date: %1$s",
-    "description": "today_trip_date"
-  },
-  "today_trip_route_code": {
-    "message": "Route code",
-    "description": "today_trip_route_code"
-  },
-  "today_trip_scheduled_drop_off": {
-    "message": "Scheduled drop-off in",
-    "description": "today_trip_scheduled_drop_off"
-  },
-  "today_trip_scheduled_drop_off_no_in": {
-    "message": "Scheduled drop-off",
-    "description": "today_trip_scheduled_drop_off_no_in"
-  },
-  "today_trip_scheduled_pickup": {
-    "message": "Scheduled pick-up in",
-    "description": "today_trip_scheduled_pickup"
-  },
-  "today_trip_scheduled_pickup_no_in": {
-    "message": "Scheduled pick-up",
-    "description": "today_trip_scheduled_pickup_no_in"
-  },
-  "today_trip_status": {
-    "message": "%1$s's %2$s trip",
-    "description": "today_trip_status"
-  },
-  "today_trip_title": {
-    "message": "%1$s trip",
-    "description": "today_trip_title"
-  },
-  "today_trip_vehicle_information": {
-    "message": "Vehicle information",
-    "description": "today_trip_vehicle_information"
-  },
-  "transportation_cancel_request_confirm_message": {
-    "message": "Do you wish to cancel this request?",
-    "description": "transportation_cancel_request_confirm_message"
-  },
-  "transportation_confirm_address_hint": {
-    "message": "Address search",
-    "description": "transportation_confirm_address_hint"
-  },
-  "transportation_create_district": {
-    "message": "Student ID: ",
-    "description": "transportation_create_district"
-  },
-  "transportation_create_school_name": {
-    "message": "School: ",
-    "description": "transportation_create_school_name"
-  },
-  "transportation_create_title": {
-    "message": "Request transportation for %1$s",
-    "description": "transportation_create_title"
-  },
-  "transportation_create_title_without_student": {
-    "message": "Request transportation",
-    "description": "transportation_create_title_without_student"
-  },
-  "transportation_detail_title": {
-    "message": "REQUEST DETAILS",
-    "description": "transportation_detail_title"
-  },
-  "transportation_list_empty_view_message": {
-    "message": "Tap \"Request Transportation\" to create a new transportation request.",
-    "description": "transportation_list_empty_view_message"
-  },
-  "transportation_list_empty_view_title": {
-    "message": "You have not created any transportation requests.",
-    "description": "transportation_list_empty_view_title"
-  },
-  "transportation_request_address_map_title": {
-    "message": "ADDRESS MAP",
-    "description": "transportation_request_address_map_title"
-  },
-  "transportation_request_search_place_holder": {
-    "message": "Search",
-    "description": "transportation_request_search_place_holder"
-  },
-  "transportation_request_select_student_empty": {
-    "message": "No approved students to display.",
-    "description": "transportation_request_select_student_empty"
-  },
-  "transportation_request_tab_title": {
-    "message": "Request",
-    "description": "transportation_request_tab_title"
-  },
-  "transportation_request_title": {
-    "message": "Transportation Request",
-    "description": "transportation_request_title"
-  },
-  "transportation_schedule_add_button": {
-    "message": "REQUEST",
-    "description": "transportation_schedule_add_button"
-  },
-  "transportation_schedule_add_review_title": {
-    "message": "Request Review",
-    "description": "transportation_schedule_add_review_title"
-  },
-  "transportation_schedule_cancel_request": {
-    "message": "CANCEL REQUEST",
-    "description": "transportation_schedule_cancel_request"
-  },
-  "transportation_schedule_confirm_cancel": {
-    "message": "Do you wish to cancel this request?",
-    "description": "transportation_schedule_confirm_cancel"
-  },
-  "transportation_schedule_detail_bus_id": {
-    "message": "Bus:",
-    "description": "transportation_schedule_detail_bus_id"
-  },
-  "transportation_schedule_detail_driver_id": {
-    "message": "Drier ID:",
-    "description": "transportation_schedule_detail_driver_id"
-  },
-  "transportation_schedule_detail_last": {
-    "message": "Schedule",
-    "description": "transportation_schedule_detail_last"
-  },
-  "transportation_schedule_detail_no_data_conversation": {
-    "message": "There are no comments to display.",
-    "description": "transportation_schedule_detail_no_data_conversation"
-  },
-  "ride_registration_details_title": {
-    "message": "TRANSPORTATION REQUEST",
-    "description": "ride_registration_details_title"
+    "description": "Address"
   },
   "ride_registration_details_cancel": {
     "message": "Cancel Ride Registration",
-    "description": "ride_registration_details_cancel"
+    "description": "Cancel Ride Registration"
   },
   "ride_registration_details_cancel_confirm": {
     "message": "Are you sure to cancel Ride Registration?",
-    "description": "ride_registration_details_cancel_confirm"
-  },
-  "ride_registration_details_schedule": {
-    "message": "Schedule",
-    "description": "ride_registration_details_schedule"
-  },
-  "ride_registration_details_no_data": {
-    "message": "Failed to load the data. Please try again later.",
-    "description": "ride_registration_details_no_data"
+    "description": "Are you sure to cancel Ride Registration?"
   },
   "ride_registration_details_date_time": {
     "message": "Start/End-date",
-    "description": "ride_registration_details_date_time"
+    "description": "Start/End-date"
   },
-  "ride_registration_details_no_operative_rejected": {
-    "message": "We are processing your transportation request.",
-    "description": "ride_registration_details_no_operative_rejected"
-  },
-  "ride_registration_details_no_operative_received": {
-    "message": "We are processing your transportation request.",
-    "description": "ride_registration_details_no_operative_received"
+  "ride_registration_details_no_data": {
+    "message": "Failed to load the data. Please try again later.",
+    "description": "Failed to load the data. Please try again later."
   },
   "ride_registration_details_no_operative_in_progress": {
     "message": "We are processing your transportation request.",
-    "description": "ride_registration_details_no_operative_in_progress"
+    "description": "We are processing your transportation request."
   },
-  "ride_registration_details_no_operative_tentatively_approved": {
+  "ride_registration_details_no_operative_received": {
     "message": "We are processing your transportation request.",
-    "description": "ride_registration_details_no_operative_tentatively_approved"
+    "description": "We are processing your transportation request."
+  },
+  "ride_registration_details_no_operative_rejected": {
+    "message": "We are processing your transportation request.",
+    "description": "We are processing your transportation request."
   },
   "ride_registration_details_no_operative_status_approved": {
     "message": "We are processing your transportation request.",
-    "description": "ride_registration_details_no_operative_status_approved"
+    "description": "We are processing your transportation request."
+  },
+  "ride_registration_details_no_operative_tentatively_approved": {
+    "message": "We are processing your transportation request.",
+    "description": "We are processing your transportation request."
+  },
+  "ride_registration_details_schedule": {
+    "message": "Schedule",
+    "description": "Schedule"
+  },
+  "ride_registration_details_title": {
+    "message": "TRANSPORTATION REQUEST",
+    "description": "TRANSPORTATION REQUEST"
+  },
+  "scan_history_card_scan_disembarked": {
+    "message": "Disembarked at %1$s",
+    "description": "Disembarked at %1$s"
+  },
+  "scan_history_card_scan_disembarked_driver": {
+    "message": "Disembarked at %1$s by the driver",
+    "description": "Disembarked at %1$s by the driver"
+  },
+  "scan_history_card_scan_embarked": {
+    "message": "Embarked at %1$s",
+    "description": "Embarked at %1$s"
+  },
+  "scan_history_card_scan_embarked_driver": {
+    "message": "Embarked at %1$s by the driver",
+    "description": "Embarked at %1$s by the driver"
+  },
+  "scan_history_card_scan_without_type": {
+    "message": "Card scanned at %1$s",
+    "description": "Card scanned at %1$s"
+  },
+  "scan_history_filter_30days": {
+    "message": "30 days",
+    "description": "30 days"
+  },
+  "scan_history_filter_7days": {
+    "message": "7 days",
+    "description": "7 days"
+  },
+  "scan_history_filter_clear": {
+    "message": "Clear",
+    "description": "Clear"
+  },
+  "scan_history_filter_select_day": {
+    "message": "Select",
+    "description": "Select"
+  },
+  "scan_history_filter_select_day_from": {
+    "message": "From",
+    "description": "From"
+  },
+  "scan_history_filter_select_day_to": {
+    "message": "To",
+    "description": "To"
+  },
+  "scan_history_filter_title": {
+    "message": "Filter:",
+    "description": "Filter:"
+  },
+  "scan_history_from_time": {
+    "message": "FROM TIME",
+    "description": "FROM TIME"
+  },
+  "scan_history_search_place_holder": {
+    "message": "Search",
+    "description": "Search"
+  },
+  "scan_history_today": {
+    "message": "Today",
+    "description": "Today"
+  },
+  "scan_history_to_time": {
+    "message": "TO TIME",
+    "description": "TO TIME"
+  },
+  "scan_history_yesterday": {
+    "message": "Yesterday",
+    "description": "Yesterday"
+  },
+  "scan_notification_setting_empty_view": {
+    "message": "There is no data of scan notification.",
+    "description": "There is no data of scan notification."
+  },
+  "scan_notification_setting_recommend": {
+    "message": "You can enable/disable scan notifications for the individual students below.",
+    "description": "You can enable/disable scan notifications for the individual students below."
+  },
+  "scan_qr_code_description": {
+    "message": "Please move the QR code into the square above",
+    "description": "Please move the QR code into the square above"
+  },
+  "scan_qr_code_error_expired": {
+    "message": "This QR code is expired. Please contact to school admin to get a new QR code.",
+    "description": "This QR code is expired. Please contact to school admin to get a new QR code."
+  },
+  "scan_qr_code_error_invalid_qr_code": {
+    "message": "QR code is invalid. Please choose another QR code or contact school admin to get new QR code",
+    "description": "QR code is invalid. Please choose another QR code or contact school admin to get new QR code"
+  },
+  "schedule_type_every_week": {
+    "message": "Every Week",
+    "description": "Every Week"
+  },
+  "schedule_type_specific_date": {
+    "message": "Specific Date",
+    "description": "Specific Date"
+  },
+  "school_no_schools": {
+    "message": "No schools to display.",
+    "description": "No schools to display."
+  },
+  "search_location_hint": {
+    "message": "Search for a location...",
+    "description": "Search for a location..."
+  },
+  "search_location_warning_not_found": {
+    "message": "Location not found. Please try another.",
+    "description": "Location not found. Please try another."
+  },
+  "search_school_code_tittle": {
+    "message": "Code %1$s",
+    "description": "Code %1$s"
+  },
+  "search_school_map_arena": {
+    "message": "Search This Area",
+    "description": "Search This Area"
+  },
+  "search_school_no_result": {
+    "message": "No schools matched %1$s.",
+    "description": "No schools matched %1$s."
+  },
+  "select_gender": {
+    "message": "Select gender",
+    "description": "Select gender"
+  },
+  "select_school": {
+    "message": "Select school",
+    "description": "Select school"
+  },
+  "select_school_instruction": {
+    "message": "Tap a school icon to identify your student's school.",
+    "description": "Tap a school icon to identify your student's school."
+  },
+  "select_school_map_view_title": {
+    "message": "Select School",
+    "description": "Select School"
+  },
+  "select_school_no_school": {
+    "message": "No schools matched %1$s.",
+    "description": "No schools matched %1$s."
+  },
+  "select_school_no_schools": {
+    "message": "No schools found in this area.",
+    "description": "No schools found in this area."
+  },
+  "select_school_search_area": {
+    "message": "Search This Area",
+    "description": "Search This Area"
+  },
+  "select_school_show_list": {
+    "message": "School List",
+    "description": "School List"
+  },
+  "select_school_too_many": {
+    "message": "Too many search results. Please pick a smaller area.",
+    "description": "Too many search results. Please pick a smaller area."
+  },
+  "select_school_warning_cancel_selection": {
+    "message": "Are you sure you wish to cancel school selection?",
+    "description": "Are you sure you wish to cancel school selection?"
+  },
+  "select_school_warning_select": {
+    "message": "Please select a school to continue.",
+    "description": "Please select a school to continue."
+  },
+  "select_student_title": {
+    "message": "SELECT STUDENT",
+    "description": "SELECT STUDENT"
+  },
+  "setting_app_version": {
+    "message": "Version",
+    "description": "Version"
+  },
+  "setting_language": {
+    "message": "Language",
+    "description": "Language"
+  },
+  "settings_change_password": {
+    "message": "Change Password",
+    "description": "Change Password"
+  },
+  "settings_checking_update": {
+    "message": "Check for Updates",
+    "description": "Check for Updates"
+  },
+  "settings_checking_update_current_message": {
+    "message": "Parent portal is up to date.",
+    "description": "Parent portal is up to date."
+  },
+  "settings_checking_update_message": {
+    "message": "There is a new version of Parent Portal. Please update the app to access new features.",
+    "description": "There is a new version of Parent Portal. Please update the app to access new features."
+  },
+  "settings_checking_update_new_version": {
+    "message": "New Version",
+    "description": "New Version"
+  },
+  "settings_checking_update_version": {
+    "message": "Version",
+    "description": "Version"
+  },
+  "settings_dob": {
+    "message": "DOB",
+    "description": "DOB"
+  },
+  "settings_faq": {
+    "message": "FAQ",
+    "description": "FAQ"
+  },
+  "settings_gender": {
+    "message": "Gender",
+    "description": "Gender"
+  },
+  "settings_language": {
+    "message": "Language",
+    "description": "Language"
+  },
+  "settings_language_message_empty": {
+    "message": "No languages found.",
+    "description": "No languages found."
+  },
+  "settings_language_restart_required_confirm": {
+    "message": "Restart Required",
+    "description": "Restart Required"
+  },
+  "settings_language_restart_required_message": {
+    "message": "To switch languages, Parent Portal needs to be restarted. Tap \"Restart\" to restart.",
+    "description": "To switch languages, Parent Portal needs to be restarted. Tap \"Restart\" to restart."
+  },
+  "settings_location": {
+    "message": "Location Management",
+    "description": "Location Management"
+  },
+  "settings_log_out": {
+    "message": "Log Out",
+    "description": "Log Out"
+  },
+  "settings_notification": {
+    "message": "Notification Settings",
+    "description": "Notification Settings"
+  },
+  "settings_payment": {
+    "message": "Payment",
+    "description": "Payment"
+  },
+  "settings_title": {
+    "message": "Settings",
+    "description": "Settings"
+  },
+  "side_menu_item_change_password": {
+    "message": "Change Password",
+    "description": "Change Password"
+  },
+  "side_menu_item_followed_bus": {
+    "message": "Followed Buses",
+    "description": "Followed Buses"
+  },
+  "side_menu_item_logout": {
+    "message": "Log Out",
+    "description": "Log Out"
+  },
+  "side_menu_item_notification_setting": {
+    "message": "Notification Settings",
+    "description": "Notification Settings"
+  },
+  "side_menu_item_student_trip": {
+    "message": "EDULOG PARENT PORTAL",
+    "description": "EDULOG PARENT PORTAL"
+  },
+  "sign_in_button_title": {
+    "message": "Sign In",
+    "description": "Sign In"
+  },
+  "sign_in_by": {
+    "message": "Sign in by",
+    "description": "Sign in by"
+  },
+  "sign_in_by_external_idp": {
+    "message": "Sign in by an external provider. Tap here",
+    "description": "Sign in by an external provider. Tap here"
+  },
+  "sign_in_click_resend_email": {
+    "message": "Click here to resend the activation email.",
+    "description": "Click here to resend the activation email."
+  },
+  "sign_in_email": {
+    "message": "E-mail",
+    "description": "E-mail"
+  },
+  "sign_in_error_account_email_not_yet_verified": {
+    "message": "The email address already exists but the account hasn’t been activated.",
+    "description": "The email address already exists but the account hasn’t been activated."
+  },
+  "sign_in_error_email_not_confirmed": {
+    "message": "Your e-mail has not been confirmed. please check your e-mail to complete the registration process.",
+    "description": "Your e-mail has not been confirmed. please check your e-mail to complete the registration process."
+  },
+  "sign_in_error_email_pass_incorrect": {
+    "message": "Invalid credentials. Please try again or click Forgot password to reset it.",
+    "description": "Invalid credentials. Please try again or click Forgot password to reset it."
+  },
+  "sign_in_error_locked_account": {
+    "message": "This account is temporarily locked due to too many failed login attempts.",
+    "description": "This account is temporarily locked due to too many failed login attempts."
+  },
+  "sign_in_example_name": {
+    "message": "jsmith@mail.com",
+    "description": "jsmith@mail.com"
+  },
+  "sign_in_forgot_password": {
+    "message": "Forgot password?",
+    "description": "Forgot password?"
+  },
+  "sign_in_get_idp_failure": {
+    "message": "Can’t display providers.\nPlease try again later.",
+    "description": "Can’t display providers.\nPlease try again later."
+  },
+  "sign_in_name": {
+    "message": "Account",
+    "description": "Account"
+  },
+  "sign_in_new_user": {
+    "message": "New user?",
+    "description": "New user?"
+  },
+  "sign_in_new_user_sign_up": {
+    "message": "New user? SIGN UP",
+    "description": "New user? SIGN UP"
+  },
+  "sign_in_or": {
+    "message": "Or",
+    "description": "Or"
+  },
+  "sign_in_password": {
+    "message": "Password",
+    "description": "Password"
+  },
+  "sign_in_remember_id": {
+    "message": "Remember my ID",
+    "description": "Remember my ID"
+  },
+  "sign_in_sign_up": {
+    "message": "SIGN UP",
+    "description": "SIGN UP"
+  },
+  "sign_in_sign_up_title": {
+    "message": "Sign Up",
+    "description": "Sign Up"
+  },
+  "sign_in_tap_here": {
+    "message": "Tap here",
+    "description": "Tap here"
+  },
+  "sign_in_title_provider": {
+    "message": "Sign in by external provider",
+    "description": "Sign in by external provider"
+  },
+  "sign_up_back_login": {
+    "message": "Sign In",
+    "description": "Sign In"
+  },
+  "sign_up_button": {
+    "message": "Sign Up",
+    "description": "Sign Up"
+  },
+  "sign_up_email": {
+    "message": "E-mail",
+    "description": "E-mail"
+  },
+  "sign_up_error_email_existed": {
+    "message": "An account for this e-mail already exists. Please register with a different e-mail address.",
+    "description": "An account for this e-mail already exists. Please register with a different e-mail address."
+  },
+  "sign_up_error_failed": {
+    "message": "Unable to register your account. Please try again later.",
+    "description": "Unable to register your account. Please try again later."
+  },
+  "sign_up_error_field_re_password_failed": {
+    "message": "Passwords do not match.",
+    "description": "Passwords do not match."
+  },
+  "sign_up_first_name": {
+    "message": "First Name",
+    "description": "First Name"
+  },
+  "sign_up_last_name": {
+    "message": "Last Name",
+    "description": "Last Name"
+  },
+  "sign_up_message_successfully": {
+    "message": "Registration successful! Please check your e-mail %1$s to confirm your e-mail address.",
+    "description": "Registration successful! Please check your e-mail %1$s to confirm your e-mail address."
+  },
+  "sign_up_notification_congratulations": {
+    "message": "Congratulations! Your account has been activated.",
+    "description": "Congratulations! Your account has been activated."
+  },
+  "sign_up_password": {
+    "message": "Password",
+    "description": "Password"
+  },
+  "sign_up_re_password": {
+    "message": "Please confirm your password",
+    "description": "Please confirm your password"
+  },
+  "sign_up_validate_field_re_password_failed": {
+    "message": "Passwords to not match.",
+    "description": "Passwords to not match."
+  },
+  "sign_up_validate_password_not_match": {
+    "message": "Password must be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, and one number.",
+    "description": "Password must be at least 8 characters long and must include at least one uppercase letter, one lowercase letter, and one number."
+  },
+  "specific_date_navigation_title": {
+    "message": "CHOOSE DATE",
+    "description": "CHOOSE DATE"
+  },
+  "state_boarded": {
+    "message": "Boarded",
+    "description": "Boarded"
+  },
+  "state_boarded_early": {
+    "message": "Boarded early",
+    "description": "Boarded early"
+  },
+  "state_boarded_late": {
+    "message": "Boarded late",
+    "description": "Boarded late"
+  },
+  "state_boarded_wrong": {
+    "message": "Boarded at wrong stop",
+    "description": "Boarded at wrong stop"
+  },
+  "state_disembarked": {
+    "message": "Dropped off",
+    "description": "Dropped off"
+  },
+  "state_disembarked_early": {
+    "message": "Dropped off (early)",
+    "description": "Dropped off (early)"
+  },
+  "state_disembarked_late": {
+    "message": "Dropped off (late)",
+    "description": "Dropped off (late)"
+  },
+  "state_disembarked_wrong_stop": {
+    "message": "Dropped off at wrong stop",
+    "description": "Dropped off at wrong stop"
+  },
+  "state_missed_boarded": {
+    "message": "Missed stop",
+    "description": "Missed stop"
+  },
+  "state_missed_disembarked": {
+    "message": "Missed drop-off stop",
+    "description": "Missed drop-off stop"
+  },
+  "state_not_boarded_yet": {
+    "message": "Not boarded yet",
+    "description": "Not boarded yet"
+  },
+  "student_access_details_my_child": {
+    "message": "Where's my Child?",
+    "description": "Where's my Child?"
+  },
+  "student_access_scan": {
+    "message": "Scan History",
+    "description": "Scan History"
+  },
+  "student_detail_dob": {
+    "message": "DOB: %1$s",
+    "description": "DOB: %1$s"
+  },
+  "student_detail_gender": {
+    "message": "Gender: %1$s",
+    "description": "Gender: %1$s"
+  },
+  "student_detail_information_district_id": {
+    "message": "District ID",
+    "description": "District ID"
+  },
+  "student_detail_information_dob": {
+    "message": "DOB",
+    "description": "DOB"
+  },
+  "student_detail_information_school": {
+    "message": "School",
+    "description": "School"
+  },
+  "student_detail_information_student": {
+    "message": "Student",
+    "description": "Student"
+  },
+  "student_detail_learn_more_description": {
+    "message": "Use this Ride Registration feature to let us know if you would like to register your student for school bus transportation for the upcoming period. We use the information collected through this app (the student’s location prior to going to the pick-up location and/or where the student will go after arrival at the drop-off location) to determine whether your student is eligible for district-provided transportation and if so, to assign pick-up and drop-off locations. We may not be able to honor all requests for registration. We further reserve the right to revise any determinations made on the basis of information submitted through the app after further consideration if additional information is made available to us.",
+    "description": "Use this Ride Registration feature to let us know if you would like to register your student for school bus transportation for the upcoming period. We use the information collected through this app (the student’s location prior to going to the pick-up location and/or where the student will go after arrival at the drop-off location) to determine whether your student is eligible for district-provided transportation and if so, to assign pick-up and drop-off locations. We may not be able to honor all requests for registration. We further reserve the right to revise any determinations made on the basis of information submitted through the app after further consideration if additional information is made available to us."
+  },
+  "student_detail_learn_more_title": {
+    "message": "Ride Registration Request Information",
+    "description": "Ride Registration Request Information"
+  },
+  "student_detail_ride_registration_action_request": {
+    "message": "REQUEST RIDE",
+    "description": "REQUEST RIDE"
+  },
+  "student_detail_ride_registration_action_view": {
+    "message": "VIEW STATUS",
+    "description": "VIEW STATUS"
+  },
+  "student_detail_ride_registration_description": {
+    "message": "Use this feature to request that your child be registered for transportation to/from school. \nLearn more",
+    "description": "Use this feature to request that your child be registered for transportation to/from school. \nLearn more"
+  },
+  "student_detail_ride_registration_need_help_action": {
+    "message": "Learn more",
+    "description": "Learn more"
+  },
+  "student_detail_ride_registration_no_transportation_request": {
+    "message": "There is no transportation request.",
+    "description": "There is no transportation request."
+  },
+  "student_detail_ride_registration_status_approved": {
+    "message": "approved",
+    "description": "approved"
+  },
+  "student_detail_ride_registration_status_init": {
+    "message": "Create a transportation request for your student.",
+    "description": "Create a transportation request for your student."
+  },
+  "student_detail_ride_registration_status_in_progress": {
+    "message": "in progress",
+    "description": "in progress"
+  },
+  "student_detail_ride_registration_status_processing_description": {
+    "message": "Your ride registration has been processing. We will provide the detail of the transportation service in a forthcoming notification.",
+    "description": "Your ride registration has been processing. We will provide the detail of the transportation service in a forthcoming notification."
+  },
+  "student_detail_ride_registration_status_received": {
+    "message": "received",
+    "description": "received"
+  },
+  "student_detail_ride_registration_status_received_description": {
+    "message": "Your ride registration has been received. We will provide the detail of the transportation service in a forthcoming notification.",
+    "description": "Your ride registration has been received. We will provide the detail of the transportation service in a forthcoming notification."
+  },
+  "student_detail_ride_registration_status_rejected": {
+    "message": "rejected",
+    "description": "rejected"
+  },
+  "student_detail_ride_registration_status_tentatively_approved": {
+    "message": "tentatively approved",
+    "description": "tentatively approved"
+  },
+  "student_detail_ride_registration_title": {
+    "message": "Ride Registration",
+    "description": "Ride Registration"
+  },
+  "student_detail_ride_request_approvement_title": {
+    "message": "When is the request approved?",
+    "description": "When is the request approved?"
+  },
+  "student_detail_ride_request_define_title": {
+    "message": "What is Ride Request?",
+    "description": "What is Ride Request?"
+  },
+  "student_detail_ride_request_help_title": {
+    "message": "Help Centre",
+    "description": "Help Centre"
+  },
+  "student_detail_scan_history": {
+    "message": "Scan History",
+    "description": "Scan History"
+  },
+  "student_detail_school_name": {
+    "message": "School: %1$s",
+    "description": "School: %1$s"
+  },
+  "student_detail_student_id": {
+    "message": "Student ID: %1$s",
+    "description": "Student ID: %1$s"
+  },
+  "student_detail_student_id_no_param": {
+    "message": "Student ID",
+    "description": "Student ID"
+  },
+  "student_detail_title": {
+    "message": "Student Detail",
+    "description": "Student Detail"
+  },
+  "student_detail_transportation_approved": {
+    "message": "The Ride Registration Request for your child has been approved.",
+    "description": "The Ride Registration Request for your child has been approved."
+  },
+  "student_detail_transportation_cancel_button": {
+    "message": "Cancel",
+    "description": "Cancel"
+  },
+  "student_detail_transportation_cancel_message": {
+    "message": "Are you sure you want to cancel this Ride Registration Request?",
+    "description": "Are you sure you want to cancel this Ride Registration Request?"
+  },
+  "student_detail_transportation_confirm_header": {
+    "message": "Enter the Home Pickup/Drop-Off Address or current bus stop location. If your student is eligible for transportation, a bus stop will be assigned by the district. You may also select a location from the map using the map icon.",
+    "description": "Enter the Home Pickup/Drop-Off Address or current bus stop location. If your student is eligible for transportation, a bus stop will be assigned by the district. You may also select a location from the map using the map icon."
+  },
+  "student_detail_transportation_description": {
+    "message": "Register your child for transportation",
+    "description": "Register your child for transportation"
+  },
+  "student_detail_transportation_empty": {
+    "message": "Unable to connect to the server at this moment.",
+    "description": "Unable to connect to the server at this moment."
+  },
+  "student_detail_transportation_history": {
+    "message": "Transportation History",
+    "description": "Transportation History"
+  },
+  "student_detail_transportation_received": {
+    "message": "The Ride Registration Request for your Student has been received. Approved requests will result in bus stop assignments that can be seen under TRANSPORTATION SCHEDULE.",
+    "description": "The Ride Registration Request for your Student has been received. Approved requests will result in bus stop assignments that can be seen under TRANSPORTATION SCHEDULE."
+  },
+  "student_detail_transportation_rejected": {
+    "message": "The Ride Registration Request for your child has been rejected.",
+    "description": "The Ride Registration Request for your child has been rejected."
+  },
+  "student_detail_transportation_request": {
+    "message": "Ride Registration",
+    "description": "Ride Registration"
+  },
+  "student_detail_transportation_request_button": {
+    "message": "Request registration",
+    "description": "Request registration"
+  },
+  "student_detail_transportation_request_description": {
+    "message": "Use this feature to request that your student be registered for transportation to/from school. \nLearn more",
+    "description": "Use this feature to request that your student be registered for transportation to/from school. \nLearn more"
+  },
+  "student_detail_transportation_request_need_help_action": {
+    "message": "Learn more",
+    "description": "Learn more"
+  },
+  "student_detail_transportation_request_title": {
+    "message": "Ride Registration",
+    "description": "Ride Registration"
+  },
+  "student_detail_transportation_schedule": {
+    "message": "Transportation Schedule",
+    "description": "Transportation Schedule"
+  },
+  "student_detail_warning_no_current_transportation": {
+    "message": "There is no scheduled transportation for %1$s now.",
+    "description": "There is no scheduled transportation for %1$s now."
+  },
+  "student_detail_where_is_my_bus": {
+    "message": "Where's my Bus?",
+    "description": "Where's my Bus?"
+  },
+  "student_detail_where_is_my_child": {
+    "message": "Where's my Child?",
+    "description": "Where's my Child?"
+  },
+  "student_list_active": {
+    "message": "Active",
+    "description": "Active"
+  },
+  "student_list_approved": {
+    "message": "Approved",
+    "description": "Approved"
+  },
+  "student_list_default": {
+    "message": "Unknown",
+    "description": "Unknown"
+  },
+  "student_list_delete": {
+    "message": "Are you sure you wish to remove this student from your account?",
+    "description": "Are you sure you wish to remove this student from your account?"
+  },
+  "student_list_delete_title": {
+    "message": "Remove student",
+    "description": "Remove student"
+  },
+  "student_list_denied": {
+    "message": "Denied",
+    "description": "Denied"
+  },
+  "student_list_no_approved_student_title": {
+    "message": "No approved students to display.",
+    "description": "No approved students to display."
+  },
+  "student_list_no_child_add_student": {
+    "message": "Add Student",
+    "description": "Add Student"
+  },
+  "student_list_no_child_message": {
+    "message": "Tap \"Add Student\" below to request access to your student's data.",
+    "description": "Tap \"Add Student\" below to request access to your student's data."
+  },
+  "student_list_no_child_title": {
+    "message": "No child to display.",
+    "description": "No child to display."
+  },
+  "student_list_pending": {
+    "message": "Pending",
+    "description": "Pending"
+  },
+  "student_list_rejected": {
+    "message": "Rejected",
+    "description": "Rejected"
+  },
+  "student_list_student_id": {
+    "message": "Student ID: %1$s",
+    "description": "Student ID: %1$s"
+  },
+  "student_list_title": {
+    "message": "STUDENT LIST",
+    "description": "STUDENT LIST"
+  },
+  "student_list_un_active": {
+    "message": "Inactive",
+    "description": "Inactive"
+  },
+  "student_list_warning_waiting_approved": {
+    "message": "Approval for %1$s is pending.",
+    "description": "Approval for %1$s is pending."
+  },
+  "student_scan_history_bus_time_title": {
+    "message": "Time",
+    "description": "Time"
+  },
+  "student_scan_history_bus_title": {
+    "message": "Bus",
+    "description": "Bus"
+  },
+  "student_scan_history_message_empty": {
+    "message": "%1$s's scan history is empty.",
+    "description": "%1$s's scan history is empty."
+  },
+  "student_scan_history_swipe_history": {
+    "message": "Scan History",
+    "description": "Scan History"
+  },
+  "student_scan_history_time_range_limit": {
+    "message": "You can only search over a range of three months.",
+    "description": "You can only search over a range of three months."
+  },
+  "student_scan_history_title": {
+    "message": "Scan History",
+    "description": "Scan History"
+  },
+  "student_unable_to_schedule": {
+    "message": "Unable to schedule",
+    "description": "Unable to schedule"
+  },
+  "tap": {
+    "message": "Select Profile Photo",
+    "description": "Select Profile Photo"
+  },
+  "title_new_version": {
+    "message": "New version available",
+    "description": "New version available"
+  },
+  "title_none": {
+    "message": "Parent Portal is up to date.",
+    "description": "Parent Portal is up to date."
+  },
+  "title_optional": {
+    "message": "New version available: %1$s",
+    "description": "New version available: %1$s"
+  },
+  "title_parent_portal": {
+    "message": "EDULOG PARENT PORTAL",
+    "description": "EDULOG PARENT PORTAL"
+  },
+  "today_trip_alert_off": {
+    "message": "OFF",
+    "description": "OFF"
+  },
+  "today_trip_alert_on": {
+    "message": "ON",
+    "description": "ON"
+  },
+  "today_trip_bus_distance": {
+    "message": "Bus is %1$s away.",
+    "description": "Bus is %1$s away."
+  },
+  "today_trip_bus_distance_away": {
+    "message": "away",
+    "description": "away"
+  },
+  "today_trip_bus_distance_home": {
+    "message": "Bus is",
+    "description": "Bus is"
+  },
+  "today_trip_date": {
+    "message": "Date: %1$s",
+    "description": "Date: %1$s"
+  },
+  "today_trip_route_code": {
+    "message": "Route code",
+    "description": "Route code"
+  },
+  "today_trip_scheduled_drop_off": {
+    "message": "Scheduled drop-off in",
+    "description": "Scheduled drop-off in"
+  },
+  "today_trip_scheduled_drop_off_no_in": {
+    "message": "Scheduled drop-off",
+    "description": "Scheduled drop-off"
+  },
+  "today_trip_scheduled_pickup": {
+    "message": "Scheduled pick-up in",
+    "description": "Scheduled pick-up in"
+  },
+  "today_trip_scheduled_pickup_no_in": {
+    "message": "Scheduled pick-up",
+    "description": "Scheduled pick-up"
+  },
+  "today_trip_status": {
+    "message": "%1$s's %2$s trip",
+    "description": "%1$s's %2$s trip"
+  },
+  "today_trip_title": {
+    "message": "%1$s trip",
+    "description": "%1$s trip"
+  },
+  "today_trip_vehicle_information": {
+    "message": "Vehicle information",
+    "description": "Vehicle information"
+  },
+  "to_school_schedule_btn_look_up": {
+    "message": "Look up nearby pickup stops.",
+    "description": "Look up nearby pickup stops."
+  },
+  "to_school_schedule_error_no_nearby_stops": {
+    "message": "There are no stops nearby!",
+    "description": "There are no stops nearby!"
+  },
+  "to_school_schedule_instruction": {
+    "message": "To School schedule for %1$s on %2$s.",
+    "description": "To School schedule for %1$s on %2$s."
+  },
+  "to_school_schedule_pick_up_stops": {
+    "message": "Nearby pickup stops",
+    "description": "Nearby pickup stops"
+  },
+  "to_school_schedule_select_pickup_stops": {
+    "message": "Select pickup stops",
+    "description": "Select pickup stops"
+  },
+  "to_school_schedule_title": {
+    "message": "To School Schedule",
+    "description": "To School Schedule"
+  },
+  "transportation_cancel_request_confirm_message": {
+    "message": "Do you wish to cancel this request?",
+    "description": "Do you wish to cancel this request?"
+  },
+  "transportation_confirm_address_hint": {
+    "message": "Address search",
+    "description": "Address search"
+  },
+  "transportation_create_district": {
+    "message": "Student ID: ",
+    "description": "Student ID: "
+  },
+  "transportation_create_school_name": {
+    "message": "School: ",
+    "description": "School: "
+  },
+  "transportation_create_title": {
+    "message": "Request transportation for %1$s",
+    "description": "Request transportation for %1$s"
+  },
+  "transportation_create_title_without_student": {
+    "message": "Request transportation",
+    "description": "Request transportation"
+  },
+  "transportation_detail_title": {
+    "message": "REQUEST DETAILS",
+    "description": "REQUEST DETAILS"
+  },
+  "transportation_list_empty_view_message": {
+    "message": "Tap \"Request Transportation\" to create a new transportation request.",
+    "description": "Tap \"Request Transportation\" to create a new transportation request."
+  },
+  "transportation_list_empty_view_title": {
+    "message": "You have not created any transportation requests.",
+    "description": "You have not created any transportation requests."
+  },
+  "transportation_request_address_map_title": {
+    "message": "ADDRESS MAP",
+    "description": "ADDRESS MAP"
+  },
+  "transportation_request_archive": {
+    "message": "Archive",
+    "description": "Archive"
+  },
+  "transportation_request_archived_empty_message": {
+    "message": "You have no archived transportation request",
+    "description": "You have no archived transportation request"
+  },
+  "transportation_request_archived_title": {
+    "message": "Archived Requests",
+    "description": "Archived Requests"
+  },
+  "transportation_request_archive_pending_message": {
+    "message": "Unable to archive a pending request",
+    "description": "Unable to archive a pending request"
+  },
+  "transportation_request_restore": {
+    "message": "Restore",
+    "description": "Restore"
+  },
+  "transportation_request_search_place_holder": {
+    "message": "Search",
+    "description": "Search"
+  },
+  "transportation_request_select_student_empty": {
+    "message": "No approved students to display.",
+    "description": "No approved students to display."
+  },
+  "transportation_request_tab_title": {
+    "message": "Request",
+    "description": "Request"
+  },
+  "transportation_request_title": {
+    "message": "Transportation Request",
+    "description": "Transportation Request"
+  },
+  "transportation_schedule_add_button": {
+    "message": "REQUEST",
+    "description": "REQUEST"
+  },
+  "transportation_schedule_add_review_title": {
+    "message": "Request Review",
+    "description": "Request Review"
+  },
+  "transportation_schedule_cancel_request": {
+    "message": "CANCEL REQUEST",
+    "description": "CANCEL REQUEST"
+  },
+  "transportation_schedule_confirm_cancel": {
+    "message": "Do you wish to cancel this request?",
+    "description": "Do you wish to cancel this request?"
+  },
+  "transportation_schedule_detail_bus_id": {
+    "message": "Bus:",
+    "description": "Bus:"
+  },
+  "transportation_schedule_detail_driver_id": {
+    "message": "Drier ID:",
+    "description": "Drier ID:"
+  },
+  "transportation_schedule_detail_last": {
+    "message": "Schedule",
+    "description": "Schedule"
+  },
+  "transportation_schedule_detail_no_data_conversation": {
+    "message": "There are no comments to display.",
+    "description": "There are no comments to display."
   },
   "transportation_schedule_detail_setting": {
     "message": "Notify when the bus is within",
-    "description": "transportation_schedule_detail_setting"
+    "description": "Notify when the bus is within"
   },
   "transportation_schedule_detail_setting_alert_retry_button": {
     "message": "Retry",
-    "description": "transportation_schedule_detail_setting_alert_retry_button"
+    "description": "Retry"
   },
   "transportation_schedule_detail_setting_alert_retry_msg": {
     "message": "The application has encountered an error processing your request. Please try again.",
-    "description": "transportation_schedule_detail_setting_alert_retry_msg"
+    "description": "The application has encountered an error processing your request. Please try again."
   },
   "transportation_schedule_detail_setting_alert_time": {
     "message": "Alert in",
-    "description": "transportation_schedule_detail_setting_alert_time"
+    "description": "Alert in"
   },
   "transportation_schedule_detail_setting_disable": {
     "message": "Notifications for this trip are disabled.",
-    "description": "transportation_schedule_detail_setting_disable"
-  },
-  "transportation_schedule_detail_title": {
-    "message": "MAP VIEW",
-    "description": "transportation_schedule_detail_title"
-  },
-  "transportation_schedule_detail_title_conversation": {
-    "message": "Comments",
-    "description": "transportation_schedule_detail_title_conversation"
-  },
-  "transportation_schedule_detail_title_with_name": {
-    "message": "%1$s's Trip %2$s",
-    "description": "transportation_schedule_detail_title_with_name"
-  },
-  "transportation_schedule_detail_title_without_trip_Type": {
-    "message": "%1$s's Trip",
-    "description": "transportation_schedule_detail_title_without_trip_Type"
+    "description": "Notifications for this trip are disabled."
   },
   "transportation_schedule_details_message_empty": {
     "message": "You have no transportation requests.",
-    "description": "transportation_schedule_details_message_empty"
+    "description": "You have no transportation requests."
+  },
+  "transportation_schedule_detail_title": {
+    "message": "MAP VIEW",
+    "description": "MAP VIEW"
+  },
+  "transportation_schedule_detail_title_conversation": {
+    "message": "Comments",
+    "description": "Comments"
+  },
+  "transportation_schedule_detail_title_with_name": {
+    "message": "%1$s's Trip %2$s",
+    "description": "%1$s's Trip %2$s"
+  },
+  "transportation_schedule_detail_title_without_trip_Type": {
+    "message": "%1$s's Trip",
+    "description": "%1$s's Trip"
   },
   "transportation_schedule_empty_view_add_button": {
     "message": "REQUEST TRANSPORTATION",
-    "description": "transportation_schedule_empty_view_add_button"
+    "description": "REQUEST TRANSPORTATION"
   },
   "transportation_schedule_fri": {
     "message": "Fri",
-    "description": "transportation_schedule_fri"
+    "description": "Fri"
   },
   "transportation_schedule_item_tv_view_detail": {
     "message": "View Details",
-    "description": "transportation_schedule_item_tv_view_detail"
+    "description": "View Details"
   },
   "transportation_schedule_list_empty_view_message": {
     "message": "Tap \"Request Transportation\" to create a new transportation request.",
-    "description": "transportation_schedule_list_empty_view_message"
+    "description": "Tap \"Request Transportation\" to create a new transportation request."
   },
   "transportation_schedule_list_empty_view_title": {
     "message": "You have not created any transportation requests.",
-    "description": "transportation_schedule_list_empty_view_title"
+    "description": "You have not created any transportation requests."
   },
   "transportation_schedule_mon": {
     "message": "Mon",
-    "description": "transportation_schedule_mon"
+    "description": "Mon"
   },
   "transportation_schedule_popup_menu_tv_delete": {
     "message": "Delete",
-    "description": "transportation_schedule_popup_menu_tv_delete"
+    "description": "Delete"
   },
   "transportation_schedule_popup_menu_tv_edit": {
     "message": "Edit",
-    "description": "transportation_schedule_popup_menu_tv_edit"
+    "description": "Edit"
   },
   "transportation_schedule_sat": {
     "message": "Sat",
-    "description": "transportation_schedule_sat"
+    "description": "Sat"
   },
   "transportation_schedule_sun": {
     "message": "Sun",
-    "description": "transportation_schedule_sun"
+    "description": "Sun"
   },
   "transportation_schedule_thu": {
     "message": "Thu",
-    "description": "transportation_schedule_thu"
+    "description": "Thu"
   },
   "transportation_schedule_title": {
     "message": "Transportation Schedule",
-    "description": "transportation_schedule_title"
+    "description": "Transportation Schedule"
   },
   "transportation_schedule_title_alert_dialog": {
     "message": "Do you wish to delete this transportation request?",
-    "description": "transportation_schedule_title_alert_dialog"
+    "description": "Do you wish to delete this transportation request?"
   },
   "transportation_schedule_title_map": {
     "message": "Map",
-    "description": "transportation_schedule_title_map"
+    "description": "Map"
   },
   "transportation_schedule_tue": {
     "message": "Tue",
-    "description": "transportation_schedule_tue"
+    "description": "Tue"
   },
   "transportation_schedule_wed": {
     "message": "Wed",
-    "description": "transportation_schedule_wed"
+    "description": "Wed"
   },
   "trip_type_from_school": {
     "message": "From School",
-    "description": "trip_type_from_school"
+    "description": "From School"
   },
   "trip_type_round_trip": {
     "message": "Round Trip",
-    "description": "trip_type_round_trip"
+    "description": "Round Trip"
   },
   "trip_type_to_school": {
     "message": "To School",
-    "description": "trip_type_to_school"
+    "description": "To School"
   },
   "trip_type_to_school_trip": {
     "message": "trip to school",
-    "description": "trip_type_to_school_trip"
+    "description": "trip to school"
   },
   "trip_type_trip_from_school": {
     "message": "trip from school",
-    "description": "trip_type_trip_from_school"
+    "description": "trip from school"
   },
   "turn_on_gps_message": {
     "message": "Allow access to GPS.",
-    "description": "turn_on_gps_message"
+    "description": "Allow access to GPS."
   },
   "validate_email_invalid": {
     "message": "E-mail address is invalid.",
-    "description": "validate_email_invalid"
+    "description": "E-mail address is invalid."
   },
   "validate_field_required": {
     "message": "is required.",
-    "description": "validate_field_required"
+    "description": "is required."
   },
   "validate_network": {
     "message": "Cannot connect to server. Please check your connection and try again.",
-    "description": "validate_network"
+    "description": "Cannot connect to server. Please check your connection and try again."
   },
   "validate_password_not_match": {
     "message": "Passwords do not match.",
-    "description": "validate_password_not_match"
+    "description": "Passwords do not match."
   },
   "vehicle_list_back_to_district": {
     "message": "District",
-    "description": "vehicle_list_back_to_district"
+    "description": "District"
   },
   "vehicle_list_hint_search_bus": {
     "message": "Search for vehicles...",
-    "description": "vehicle_list_hint_search_bus"
+    "description": "Search for vehicles..."
   },
   "vehicle_list_message_empty": {
     "message": "No vehicles found.",
-    "description": "vehicle_list_message_empty"
+    "description": "No vehicles found."
   },
   "version_checking_optional_message": {
     "message": "There is a new version of Parent Portal. Please update to use new features.",
-    "description": "version_checking_optional_message"
+    "description": "There is a new version of Parent Portal. Please update to use new features."
   },
   "version_checking_required_message": {
     "message": "A newer version is available. Please update the app to continue.",
-    "description": "version_checking_required_message"
+    "description": "A newer version is available. Please update the app to continue."
   },
   "version_checking_title": {
     "message": "New version available",
-    "description": "version_checking_title"
+    "description": "New version available"
+  },
+  "warning_feature_where_my_bus_is_unavailable": {
+    "message": "Where's my bus is not available for %1$s. Please contact the school admin to get more information.",
+    "description": "Where's my bus is not available for %1$s. Please contact the school admin to get more information."
   },
   "where_is_bus_bus_id": {
     "message": "Bus:",
-    "description": "where_is_bus_bus_id"
+    "description": "Bus:"
   },
   "where_is_bus_bus_status_has_arrived": {
     "message": "The bus has arrived at",
-    "description": "where_is_bus_bus_status_has_arrived"
+    "description": "The bus has arrived at"
   },
   "where_is_bus_bus_status_not_boarded": {
     "message": "The bus has not begun boarding.",
-    "description": "where_is_bus_bus_status_not_boarded"
+    "description": "The bus has not begun boarding."
   },
   "where_is_bus_bus_status_will_arrived": {
     "message": "The bus will arrive at",
-    "description": "where_is_bus_bus_status_will_arrived"
+    "description": "The bus will arrive at"
   },
   "where_is_bus_contact_school": {
     "message": "Contact School",
-    "description": "where_is_bus_contact_school"
+    "description": "Contact School"
   },
   "where_is_bus_distance": {
     "message": "Distance",
-    "description": "where_is_bus_distance"
+    "description": "Distance"
   },
   "where_is_bus_driver": {
     "message": "Driver:",
-    "description": "where_is_bus_driver"
+    "description": "Driver:"
   },
   "where_is_bus_driver_id": {
     "message": "Driver ID:",
-    "description": "where_is_bus_driver_id"
+    "description": "Driver ID:"
   },
   "where_is_bus_followed_bus_list_empty_view": {
     "message": "You are not currently following any vehicles.",
-    "description": "where_is_bus_followed_bus_list_empty_view"
+    "description": "You are not currently following any vehicles."
   },
   "where_is_bus_followed_bus_list_loading_vehicle": {
     "message": "Loading vehicles...",
-    "description": "where_is_bus_followed_bus_list_loading_vehicle"
+    "description": "Loading vehicles..."
   },
   "where_is_bus_pickup": {
     "message": "Pickup:",
-    "description": "where_is_bus_pickup"
+    "description": "Pickup:"
   },
   "where_is_bus_student_name": {
     "message": "Student: %1$s",
-    "description": "where_is_bus_student_name"
+    "description": "Student: %1$s"
   },
   "where_is_bus_student_status_disembark_wrong_stop": {
     "message": "has disembarked at the wrong stop.",
-    "description": "where_is_bus_student_status_disembark_wrong_stop"
+    "description": "has disembarked at the wrong stop."
   },
   "where_is_bus_student_trip": {
     "message": "%1$s's %2$s trip",
-    "description": "where_is_bus_student_trip"
+    "description": "%1$s's %2$s trip"
   },
   "where_is_bus_title": {
     "message": "WHERE'S MY BUS?",
-    "description": "where_is_bus_title"
+    "description": "WHERE'S MY BUS?"
   },
   "where_is_my_child_date": {
     "message": "Date:",
-    "description": "where_is_my_child_date"
+    "description": "Date:"
   },
   "where_is_my_child_driver_id": {
     "message": "Driver ID:",
-    "description": "where_is_my_child_driver_id"
+    "description": "Driver ID:"
   },
   "where_my_bus_not_found_location": {
     "message": "GPS for this vehicle is currently unavailable.",
-    "description": "where_my_bus_not_found_location"
+    "description": "GPS for this vehicle is currently unavailable."
   },
   "where_my_bus_out_side": {
     "message": "GPS for this vehicle is currently unavailable.",
-    "description": "where_my_bus_out_side"
+    "description": "GPS for this vehicle is currently unavailable."
   },
   "where_my_child_empty_event_view": {
     "message": "%1$s has not scanned yet today.",
-    "description": "where_my_child_empty_event_view"
+    "description": "%1$s has not scanned yet today."
   },
   "where_my_child_linked_bus_label": {
     "message": "Linked Bus:",
-    "description": "where_my_child_linked_bus_label"
+    "description": "Linked Bus:"
   },
   "where_my_child_linked_event_label": {
     "message": "Event",
-    "description": "where_my_child_linked_event_label"
+    "description": "Event"
   },
   "where_my_child_trip_empty": {
     "message": "Student has no trip.",
-    "description": "where_my_child_trip_empty"
+    "description": "Student has no trip."
   }
 }
