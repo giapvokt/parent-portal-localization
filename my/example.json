@@ -1,71 +1,167 @@
 {
-  "PL:DT": {
-    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
-    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  "add_schedule_apply_from_schedule_address": {
+    "message": "မွစသည္",
+    "description": "မွစသည္"
   },
-  "PPL": {
-    "message": "WMB:UAZ,ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
-    "description": "WMB:UAZ,ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  "add_schedule_description": {
+    "message": "အတြက္ေက်ာင္းကားေတာင္းသည္",
+    "description": "အတြက္ေက်ာင္းကားေတာင္းသည္"
+  },
+  "add_schedule_desired_schedule_address": {
+    "message": "ပုိ၍ႏွစ္သက္ေသာလိပ္စာ",
+    "description": "ပုိ၍ႏွစ္သက္ေသာလိပ္စာ"
+  },
+  "add_schedule_frequency_schedule_address": {
+    "message": "မၾကာခဏ",
+    "description": "မၾကာခဏ"
+  },
+  "add_schedule_frequency_schedule_created_on": {
+    "message": "ေပၚတြင္ဖန္တီးသည္",
+    "description": "ေပၚတြင္ဖန္တီးသည္"
+  },
+  "add_schedule_next": {
+    "message": "ေနာက္တခု",
+    "description": "ေနာက္တခု"
+  },
+  "add_schedule_radio_button_from_school": {
+    "message": "ေက်ာင္းမွ",
+    "description": "ေက်ာင္းမွ"
+  },
+  "add_schedule_radio_button_repeat": {
+    "message": "အပတ္တုိင္းလုပ္ပါ",
+    "description": "အပတ္တုိင္းလုပ္ပါ"
+  },
+  "add_schedule_radio_button_round_trip": {
+    "message": "အသြား၊အျပန္",
+    "description": "အသြား၊အျပန္"
+  },
+  "add_schedule_radio_button_specific_date": {
+    "message": "ေန႔စြဲအတိအက်",
+    "description": "ေန႔စြဲအတိအက်"
+  },
+  "add_schedule_radio_button_to_school": {
+    "message": "ေက်ာင္းသုိ႔",
+    "description": "ေက်ာင္းသုိ႔"
+  },
+  "add_schedule_review": {
+    "message": "ျပန္စစ္ပါ",
+    "description": "ျပန္စစ္ပါ"
+  },
+  "add_schedule_schedule_from_school_trip_address": {
+    "message": "အိမ္သုိ႔ပုိ႔ေပးရန္ပုိ၍ႏွစ္သက္ေသာလိပ္စာ",
+    "description": "အိမ္သုိ႔ပုိ႔ေပးရန္ပုိ၍ႏွစ္သက္ေသာလိပ္စာ"
+  },
+  "add_schedule_schedule_hint_enter_address": {
+    "message": "လိပ္စာထဲ့ပါ",
+    "description": "လိပ္စာထဲ့ပါ"
+  },
+  "add_schedule_schedule_hint_notes_schedule": {
+    "message": "မွတ္ခ်က္ထဲ့ပါ",
+    "description": "မွတ္ခ်က္ထဲ့ပါ"
+  },
+  "add_schedule_schedule_notes_schedule": {
+    "message": "မွတ္ခ်က္",
+    "description": "မွတ္ခ်က္"
+  },
+  "add_schedule_schedule_round_trip_address": {
+    "message": "ပုိ၍ႏွစ္သက္ေသာၾကိဳရန္ႏွင့္ပုိ႔ရန္လိပ္စာ",
+    "description": "ပုိ၍ႏွစ္သက္ေသာၾကိဳရန္ႏွင့္ပုိ႔ရန္လိပ္စာ"
+  },
+  "add_schedule_schedule_to_school_trip_address": {
+    "message": "ပုိ၍ႏွစ္သက္ေသာၾကိဳရန္လိပ္စာ",
+    "description": "ပုိ၍ႏွစ္သက္ေသာၾကိဳရန္လိပ္စာ"
+  },
+  "add_schedule_schedule_type": {
+    "message": "အခ်ိန္ဇယား",
+    "description": "အခ်ိန္ဇယား"
+  },
+  "add_schedule_schedule_type_apply_schedule": {
+    "message": "စတင္မည့္ေန႔စြဲ",
+    "description": "စတင္မည့္ေန႔စြဲ"
+  },
+  "add_schedule_schedule_type_repeat": {
+    "message": "အျမဲတမ္းထပ္လုပ္ပါ",
+    "description": "အျမဲတမ္းထပ္လုပ္ပါ"
+  },
+  "add_schedule_student_title": {
+    "message": "ေက်ာင္းသား",
+    "description": "ေက်ာင္းသား"
+  },
+  "add_schedule_title": {
+    "message": "ဘတ္စ္ေတာင္းသည္",
+    "description": "ဘတ္စ္ေတာင္းသည္"
+  },
+  "add_schedule_trip_type": {
+    "message": "ခရီးစဥ္အမ်ဳိးအစား",
+    "description": "ခရီးစဥ္အမ်ဳိးအစား"
+  },
+  "add_schedule_tv_select_date": {
+    "message": "ေန႔စြဲေရြးပါ",
+    "description": "ေန႔စြဲေရြးပါ"
+  },
+  "add_schedule_warning_select_schedule_type": {
+    "message": "အခ်ိန္ဇယားအမ်ဳိးအစားတခုေရြးပါ",
+    "description": "အခ်ိန္ဇယားအမ်ဳိးအစားတခုေရြးပါ"
+  },
+  "add_schedule_warning_select_specific_date": {
+    "message": "ေန႔စဲြတခုေရြးပါ",
+    "description": "ေန႔စဲြတခုေရြးပါ"
+  },
+  "add_schedule_warning_select_start_date": {
+    "message": "စတင္သည့္ေန႔စဲြတခုေရြးပါ",
+    "description": "စတင္သည့္ေန႔စဲြတခုေရြးပါ"
+  },
+  "add_schedule_warning_select_trip_type": {
+    "message": "ခရီးစဥ္အမ်ဳိးအစားတခုေရြးပါ",
+    "description": "ခရီးစဥ္အမ်ဳိးအစားတခုေရြးပါ"
   },
   "add_student_change_profile_photo": {
-    "message": "သင့္ပရုိဖုိင္း ဓာတ္ပုံကုိေရြးပါ",
-    "description": "သင့္ပရုိဖုိင္း ဓာတ္ပုံကုိေရြးပါ"
+    "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ",
+    "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ"
   },
   "add_student_dob": {
     "message": "ေမြးေန႔",
     "description": "ေမြးေန႔"
   },
   "add_student_first_name": {
-    "message": "ေက်ာင္းသား ပထမအမည္",
-    "description": "ေက်ာင္းသား ပထမအမည္"
-  },
-  "add_student_hint_district_id": {
-    "message": "ျမိဳ ႔နယ္အုိင္ဒီ",
-    "description": "ျမိဳ ႔နယ္အုိင္ဒီ"
-  },
-  "add_student_hint_dob": {
-    "message": "ေန႔စြဲေရြးပါ",
-    "description": "ေန႔စြဲေရြးပါ"
-  },
-  "add_student_hint_first_name": {
     "message": "ပထမအမည္",
     "description": "ပထမအမည္"
   },
+  "add_student_gender": {
+    "message": "က်ား/မ",
+    "description": "က်ား/မ"
+  },
+  "add_student_hint_first_name": {
+    "message": "ေက်ာင္းသား၏ပထမအမည္",
+    "description": "ေက်ာင္းသား၏ပထမအမည္"
+  },
   "add_student_hint_last_name": {
+    "message": "ေက်ာင္းသား၏ေနာက္ဆုံးအမည္",
+    "description": "ေက်ာင္းသား၏ေနာက္ဆုံးအမည္"
+  },
+  "add_student_last_name": {
     "message": "ေနာက္ဆုံးအမည္",
     "description": "ေနာက္ဆုံးအမည္"
   },
-  "add_student_hint_student_id": {
-    "message": "ေက်ာင္းသား၏ျမဳိ ႔နယ္အုိင္ဒီ",
-    "description": "ေက်ာင္းသား၏ျမဳိ ႔နယ္အုိင္ဒီ"
-  },
-  "add_student_hint_tenant": {
-    "message": "အိမ္ငွားကုိေရြးပါ",
-    "description": "အိမ္ငွားကုိေရြးပါ"
-  },
-  "add_student_hint_type_comment_here": {
-    "message": "မွတ္ခ်က္တခုထဲ့ပါ",
-    "description": "မွတ္ခ်က္တခုထဲ့ပါ"
-  },
-  "add_student_last_name": {
-    "message": "ေက်ာင္းသားေနာက္ဆုံးအမည္",
-    "description": "ေက်ာင္းသားေနာက္ဆုံးအမည္"
-  },
-  "add_student_message_add_error": {
-    "message": "သင္၀င္ရန္ေတာင္းဆုိျခင္းကုိတင္၍မရပါ၊ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
-    "description": "သင္၀င္ရန္ေတာင္းဆုိျခင္းကုိတင္၍မရပါ၊ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
-  },
   "add_student_message_add_failed": {
-    "message": "ေန႔စြဲမမွန္ပါ၊ ျပန္စစ္ျပီး ေနာင္တၾကိမ္က်ဳိးစားၾကည့္ပါ!",
-    "description": "ေန႔စြဲမမွန္ပါ၊ ျပန္စစ္ျပီး ေနာင္တၾကိမ္က်ဳိးစားၾကည့္ပါ!"
+    "message": "ထည့္သြင္းေသာကိန္းဂဏန္းမ်ားမွားေနသည္၊ ျပန္စစ္ျပီးထပ္ေနာက္ တၾကိမပ္က်ဳိးစားၾကည့္ပါ!",
+    "description": "ထည့္သြင္းေသာကိန္းဂဏန္းမ်ားမွားေနသည္၊ ျပန္စစ္ျပီးထပ္ေနာက္ တၾကိမပ္က်ဳိးစားၾကည့္ပါ!"
   },
   "add_student_message_add_successfully": {
     "message": "သင့္ေတာင္းဆုိခ်က္ကုိတင္ခဲ့သည္",
     "description": "သင့္ေတာင္းဆုိခ်က္ကုိတင္ခဲ့သည္"
   },
-  "add_student_pick_image_intent_text": {
-    "message": "ပုံတခုကုိေရြးပါ",
-    "description": "ပုံတခုကုိေရြးပါ"
+  "add_student_qr_code_camera": {
+    "message": "ကင္မရာမွ စကင္ QR ကုဒ္",
+    "description": "ကင္မရာမွ စကင္ QR ကုဒ္"
+  },
+  "add_student_qr_code_description": {
+    "message": "QRကုဒ္ကုိစကင္လုပ္ရန္ဖုံးကင္မရာမွဓာတ္ပုံရုိက္ပါ (သုိ႔) QRကုဒ္ကုိဖုံးဂယ္လာရီမွေရြးခ်ယ္ပါ",
+    "description": "QRကုဒ္ကုိစကင္လုပ္ရန္ဖုံးကင္မရာမွဓာတ္ပုံရုိက္ပါ (သုိ႔) QRကုဒ္ကုိဖုံးဂယ္လာရီမွေရြးခ်ယ္ပါ"
+  },
+  "add_student_qr_code_gallery": {
+    "message": "QR ကုဒ္ကုိ ဂယ္လာရီမွ ေရြးခ်ယ္ပါ",
+    "description": "QR ကုဒ္ကုိ ဂယ္လာရီမွ ေရြးခ်ယ္ပါ"
   },
   "add_student_qr_code_or": {
     "message": "သုိ႔မဟုတ္",
@@ -75,297 +171,141 @@
     "message": "ဤေနရာကုိႏွိပ္ပါ",
     "description": "ဤေနရာကုိႏွိပ္ပါ"
   },
-  "add_student_school_district_place_holder": {
-    "message": "ေက်ာင္း၏ျမိဳ ႔နယ္",
-    "description": "ေက်ာင္း၏ျမိဳ ႔နယ္"
+  "add_student_qr_code_title": {
+    "message": "QR ကုဒ္ကုိရျပီးျပီလား?",
+    "description": "QR ကုဒ္ကုိရျပီးျပီလား?"
   },
-  "add_student_select_district": {
-    "message": "ျမိဳ ႔နယ္ ကုိေရြးပါ",
-    "description": "ျမိဳ ႔နယ္ ကုိေရြးပါ"
+  "add_student_school": {
+    "message": "ေက်ာင္း",
+    "description": "ေက်ာင္း"
   },
   "add_student_student_id": {
-    "message": "ေက်ာင္းသား၏ျမဳိ ႔နယ္အုိင္ဒီ",
-    "description": "ေက်ာင္းသား၏ျမဳိ ႔နယ္အုိင္ဒီ"
+    "message": "ေက်ာင္းသားအုိင္ဒီ",
+    "description": "ေက်ာင္းသားအုိင္ဒီ"
   },
-  "add_student_tenant": {
-    "message": "ေက်ာင္း၏ျမိဳ ႔နယ္",
-    "description": "ေက်ာင္း၏ျမိဳ ႔နယ္"
-  },
-  "add_student_tenant_required": {
-    "message": "ေက်ာင္း၏ျမိဳ ႔နယ္လုိအပ္သည္",
-    "description": "ေက်ာင္း၏ျမိဳ ႔နယ္လုိအပ္သည္"
+  "add_student_success_pending": {
+    "message": "သင့္ေတာင္းဆုိခ်က္ကုိတင္ခဲ့သည္၊ခြင့္ျပဳခ်က္ေစာင့္ပါ",
+    "description": "သင့္ေတာင္းဆုိခ်က္ကုိတင္ခဲ့သည္၊ခြင့္ျပဳခ်က္ေစာင့္ပါ"
   },
   "add_student_title": {
     "message": "ေက်ာင္းသားထဲ့ပါ",
     "description": "ေက်ာင္းသားထဲ့ပါ"
   },
+  "add_student_turn_on_error": {
+    "message": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊ ကြ်ႏ္ုပ္တုိ႔ဆာဗာမွာအခက္အ ခဲရွိေန၍အသိေပးခ်က္မရေသးပါ၊ အခင္းအက်င္းမ်ားတြင္ ခြင္ျ့ပဳ သည္ကုိေရြးပါ",
+    "description": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊ ကြ်ႏ္ုပ္တုိ႔ဆာဗာမွာအခက္အ ခဲရွိေန၍အသိေပးခ်က္မရေသးပါ၊ အခင္းအက်င္းမ်ားတြင္ ခြင္ျ့ပဳ သည္ကုိေရြးပါ"
+  },
+  "add_student_turn_on_no_trip": {
+    "message": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊ သုိ႔ေသာ္ ေက်ာင္းသား၌ ခရီးစဥ္အခ်ိန္ဇယားမရွိေသး၍ အသိေပးခ်က္မရေသးပါ",
+    "description": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊ သုိ႔ေသာ္ ေက်ာင္းသား၌ ခရီးစဥ္အခ်ိန္ဇယားမရွိေသး၍ အသိေပးခ်က္မရေသးပါ"
+  },
+  "add_student_turn_on_success": {
+    "message": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊",
+    "description": "သင့္ကေလးကုိေအာင္ျမင္စြာထဲ့ခဲ့သည္၊"
+  },
   "alert_zone_added_success_message": {
     "message": "သတိေပးဇုံကုိသိမ္းခဲ့သည္",
     "description": "သတိေပးဇုံကုိသိမ္းခဲ့သည္"
-  },
-  "alert_zone_address_placeholder": {
-    "message": "လိပ္စာထဲ့ပါ",
-    "description": "လိပ္စာထဲ့ပါ"
   },
   "alert_zone_autocomplete_address_empty": {
     "message": "လိပ္စာမေတြ႔ပါ",
     "description": "လိပ္စာမေတြ႔ပါ"
   },
   "alert_zone_card_radius_label": {
-    "message": " %.1f  ပတ္လည္မုိင္အတြင္း",
-    "description": " %.1f  ပတ္လည္မုိင္အတြင္း"
+    "message": " %.1f ပတ္လည္မုိင္အတြင္း",
+    "description": " %.1f ပတ္လည္မုိင္အတြင္း"
   },
   "alert_zone_card_time_label": {
-    "message": "အခ်ိန္- %1$s  မွ   %2$s",
-    "description": "အခ်ိန္- %1$s  မွ   %2$s"
+    "message": "အခ်ိန္ %1$s သုိ႔ %2$s",
+    "description": "အခ်ိန္ %1$s သုိ႔ %2$s"
+  },
+  "alert_zone_delete_success_message": {
+    "message": "သတိေပးဇုံကုိပယ္ဖ်က္ခဲ့သည္",
+    "description": "သတိေပးဇုံကုိပယ္ဖ်က္ခဲ့သည္"
   },
   "alert_zone_deleted_success_message": {
     "message": "သတိေပးဇုံကုိပယ္ဖ်က္ခဲ့သည္",
     "description": "သတိေပးဇုံကုိပယ္ဖ်က္ခဲ့သည္"
   },
   "alert_zone_edited_success_message": {
-    "message": "သတိေပးဇုံကုိသိမ္းခဲ့သည္",
-    "description": "သတိေပးဇုံကုိသိမ္းခဲ့သည္"
-  },
-  "alert_zone_editor_address_label": {
-    "message": "လိပ္စာ",
-    "description": "လိပ္စာ"
-  },
-  "alert_zone_editor_confirm_quit_message": {
-    "message": "သတိေပးဇုံကုိ ျပင္ဆင္ျခင္းမွထြက္မလား? ေျပာင္းလဲျခင္းကုိမသိမ္းလွ်င္ေျပာင္းလဲျပင္ဆင္ေျပာင္းလဲျခင္းမ်ားေပ်ာက္ဆုံးမည္",
-    "description": "သတိေပးဇုံကုိ ျပင္ဆင္ျခင္းမွထြက္မလား? ေျပာင္းလဲျခင္းကုိမသိမ္းလွ်င္ေျပာင္းလဲျပင္ဆင္ေျပာင္းလဲျခင္းမ်ားေပ်ာက္ဆုံးမည္"
-  },
-  "alert_zone_editor_end_time": {
-    "message": "ျပီးဆုံးခ်ိန္",
-    "description": "ျပီးဆုံးခ်ိန္"
-  },
-  "alert_zone_editor_error_invalid_time_range": {
-    "message": "စတင္သည့္အခ်ိန္သည္ ျပီးဆုံးသည့္အခ်ိန္ထက္ေစာရမည္",
-    "description": "စတင္သည့္အခ်ိန္သည္ ျပီးဆုံးသည့္အခ်ိန္ထက္ေစာရမည္"
-  },
-  "alert_zone_editor_error_maximum": {
-    "message": "ကားတစိီးအတြက္ သတိေပးဇုံ(၆)ဇုံသာရမည္",
-    "description": "ကားတစိီးအတြက္ သတိေပးဇုံ(၆)ဇုံသာရမည္"
-  },
-  "alert_zone_editor_hint_geofence_address": {
-    "message": "သတိေပးဇုံ လိပ္စာ",
-    "description": "သတိေပးဇုံ လိပ္စာ"
-  },
-  "alert_zone_editor_hint_geofence_name": {
-    "message": "သတိေပးဇုံ အမည္",
-    "description": "သတိေပးဇုံ အမည္"
-  },
-  "alert_zone_editor_name_label": {
-    "message": "အမည္",
-    "description": "အမည္"
-  },
-  "alert_zone_editor_radius": {
-    "message": "%.1f ပတ္လည္မုိင္အတြင္း",
-    "description": "%.1f ပတ္လည္မုိင္အတြင္း"
-  },
-  "alert_zone_editor_radius_label": {
-    "message": "ပတ္လည္မုိင္အတြင္း",
-    "description": "ပတ္လည္မုိင္အတြင္း"
-  },
-  "alert_zone_editor_require_name": {
-    "message": "သင့္သတိေပးဇုံမ်ားကုိအမည္ေပးပါ",
-    "description": "သင့္သတိေပးဇုံမ်ားကုိအမည္ေပးပါ"
-  },
-  "alert_zone_editor_start_time": {
-    "message": "စတင္သည့္အခ်ိန္",
-    "description": "စတင္သည့္အခ်ိန္"
-  },
-  "alert_zone_editor_time_am": {
-    "message": "မနက္",
-    "description": "မနက္"
-  },
-  "alert_zone_editor_time_label": {
-    "message": "အခ်ိန္",
-    "description": "အခ်ိန္"
-  },
-  "alert_zone_editor_time_pm": {
-    "message": "ညေန/ည",
-    "description": "ညေန/ည"
-  },
-  "alert_zone_editor_toolbar_add_title": {
-    "message": "သတိေပးဇုံ ထဲ့ပါ",
-    "description": "သတိေပးဇုံ ထဲ့ပါ"
-  },
-  "alert_zone_editor_toolbar_edit_title": {
-    "message": "သတိေပးဇုံ ကုိျပင္ဆင္ပါ",
-    "description": "သတိေပးဇုံ ကုိျပင္ဆင္ပါ"
+    "message": "သတိေပးဇုံကုိေျပာင္းျပီးသိမ္းသည္",
+    "description": "သတိေပးဇုံကုိေျပာင္းျပီးသိမ္းသည္"
   },
   "alert_zone_from_time_to_time": {
-    "message": "%1$s မွ %2$s",
-    "description": "%1$s မွ %2$s"
-  },
-  "alert_zone_list_bus_label": {
-    "message": "ဘတ္စ္ကား",
-    "description": "ဘတ္စ္ကား"
-  },
-  "alert_zone_list_confirm_delete": {
-    "message": "ဤသတိေပးဇုံကုိဖ်က္ပစ္မွာေသခ်ာသလား?",
-    "description": "ဤသတိေပးဇုံကုိဖ်က္ပစ္မွာေသခ်ာသလား?"
-  },
-  "alert_zone_list_empty_view_button": {
-    "message": "သတိေပးဇုံထဲ့ပါ",
-    "description": "သတိေပးဇုံထဲ့ပါ"
-  },
-  "alert_zone_list_empty_view_message": {
-    "message": "သတိေပးဇုံမ်ားထဲ့မထားပါ၊ သတိေပးဇုံအသစ္လုပ္ပါဆုိသည့္ေအာက္တြင္ “သတိေပးဇုံထဲ့ပါ”ဆုိသည့္ တက္ပ္ခလုပ္ကုိႏွိပ္ပါ",
-    "description": "သတိေပးဇုံမ်ားထဲ့မထားပါ၊ သတိေပးဇုံအသစ္လုပ္ပါဆုိသည့္ေအာက္တြင္ “သတိေပးဇုံထဲ့ပါ”ဆုိသည့္ တက္ပ္ခလုပ္ကုိႏွိပ္ပါ"
-  },
-  "alert_zone_list_not_found": {
-    "message": "သတိေပးဇုံကုိမေတြ႔ပါ",
-    "description": "သတိေပးဇုံကုိမေတြ႔ပါ"
+    "message": "%1$s မွ %2$s သုိ႔ အသက္၀င္ခဲ့သည္",
+    "description": "%1$s မွ %2$s သုိ႔ အသက္၀င္ခဲ့သည္"
   },
   "alert_zone_modal_radius_title": {
-    "message": "%.01f  မုိင္မ်ား",
-    "description": "%.01f  မုိင္မ်ား"
+    "message": "%.01f မုိင္ေပါင္း",
+    "description": "%.01f မုိင္ေပါင္း"
   },
-  "alert_zone_name_placeholder": {
-    "message": "အမည္ထဲ့ပါ",
-    "description": "အမည္ထဲ့ပါ"
+  "alert_zone_name_required_message": {
+    "message": "သင့္သတိေပးဇုံကုိ အမည္ေပးပါ",
+    "description": "သင့္သတိေပးဇုံကုိ အမည္ေပးပါ"
   },
   "app_name": {
-    "message": "အက္ဂ်ဳေလာ့ခ္မိဘမ်ား၀က္ဆုိက္",
-    "description": "အက္ဂ်ဳေလာ့ခ္မိဘမ်ား၀က္ဆုိက္"
+    "message": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္",
+    "description": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္"
   },
-  "change_password_back": {
-    "message": "အေနာက္သုိ႔",
-    "description": "အေနာက္သုိ႔"
+  "approved": {
+    "message": "ခြင့္ျပဳသည္",
+    "description": "ခြင့္ျပဳသည္"
   },
-  "change_password_new_password": {
-    "message": "သင့္လႈိ႔၀ွက္နံပါတ္အသစ္ထဲ့ပါ",
-    "description": "သင့္လႈိ႔၀ွက္နံပါတ္အသစ္ထဲ့ပါ"
+  "btn_add_transportation_request": {
+    "message": "ေက်ာင္းကားေတာင္းသည္",
+    "description": "ေက်ာင္းကားေတာင္းသည္"
   },
-  "change_password_old_password": {
-    "message": "လႈိ႔၀ွက္နံပါတ္အေဟာင္းထဲ့ပါ",
-    "description": "လႈိ႔၀ွက္နံပါတ္အေဟာင္းထဲ့ပါ"
+  "camera_permission_denied_description": {
+    "message": "မိဘ၀က္ဆုိက္သုိ႔၀င္ရန္ သင့္ဖုံးကင္မရာျဖင့္ဓာတ္ပုံရုိက္ပါ၊ ျပီးလွ်င္(Settings > Privacy > Camera,  and enable Parent Portal) သုိ႔အဆင့္ဆင့္၀င္ပါ",
+    "description": "မိဘ၀က္ဆုိက္သုိ႔၀င္ရန္ သင့္ဖုံးကင္မရာျဖင့္ဓာတ္ပုံရုိက္ပါ၊ ျပီးလွ်င္(Settings > Privacy > Camera,  and enable Parent Portal) သုိ႔အဆင့္ဆင့္၀င္ပါ"
   },
-  "change_password_re_type_new_password": {
-    "message": "သင့္လႈိ႔၀ွက္နံပါတ္အသစ္ထပ္ထဲ့ပါ",
-    "description": "သင့္လႈိ႔၀ွက္နံပါတ္အသစ္ထပ္ထဲ့ပါ"
+  "camera_permission_not_now": {
+    "message": "အခုမဟုတ္ပါ",
+    "description": "အခုမဟုတ္ပါ"
+  },
+  "camera_permission_required_title": {
+    "message": "ခြင့္ျပဳခ်က္လုိသည္",
+    "description": "ခြင့္ျပဳခ်က္လုိသည္"
+  },
+  "camera_permission_settings": {
+    "message": "ဖြင့္ထားေသာအခင္းအက်င္းမ်ား",
+    "description": "ဖြင့္ထားေသာအခင္းအက်င္းမ်ား"
   },
   "change_password_saml_message_string": {
-    "message": "လႈိ႔၀ွက္နံပါတ္ကုိ ျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထားသည္",
-    "description": "လႈိ႔၀ွက္နံပါတ္ကုိ ျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထားသည္"
+    "message": "လႈိ႔၀ွက္နံပါတ္ကုိ ျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထား  သည္",
+    "description": "လႈိ႔၀ွက္နံပါတ္ကုိ ျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထား  သည္"
   },
-  "change_password_title": {
-    "message": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ",
-    "description": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ"
+  "check_for_update_settings": {
+    "message": "ေနာက္ဆုံးအေၾကာင္းအရာသစ္မ်ားကုိၾကည့္ပါ",
+    "description": "ေနာက္ဆုံးအေၾကာင္းအရာသစ္မ်ားကုိၾကည့္ပါ"
   },
   "checking_update_title": {
-    "message": "ေနာက္ဆုံးအခ်က္အလက္မ်ားကုိစစ္ေဆးပါ",
-    "description": "ေနာက္ဆုံးအခ်က္အလက္မ်ားကုိစစ္ေဆးပါ"
+    "message": "ေနာက္ဆုံးအေၾကာင္းအရာသစ္မ်ားကုိၾကည့္ပါ",
+    "description": "ေနာက္ဆုံးအေၾကာင္းအရာသစ္မ်ားကုိၾကည့္ပါ"
   },
-  "create_student_error_7000": {
-    "message": "ေက်ာင္းသား  %1$s  သည္ကားတစီးႏွင့္ခ်ိတ္ဆက္ျပီးျဖစ္သည္",
-    "description": "ေက်ာင္းသား  %1$s  သည္ကားတစီးႏွင့္ခ်ိတ္ဆက္ျပီးျဖစ္သည္"
+  "confirm_schedule_add_request_successfully": {
+    "message": "သင့္ေတာင္းဆုိခ်က္မ်ားကုိတင္ခဲ့သည္",
+    "description": "သင့္ေတာင္းဆုိခ်က္မ်ားကုိတင္ခဲ့သည္"
   },
   "description_none": {
-    "message": "ပုံစံ   %1$s",
-    "description": "ပုံစံ   %1$s"
+    "message": "ပုံစံ %1$s",
+    "description": "ပုံစံ %1$s"
   },
-  "district_list_code_already_added": {
-    "message": "သင္သည္ စာရင္းသြင္းကုဒ္  %1$s  ကုိစာရင္းသြင္းျပီးခဲ့သည္",
-    "description": "သင္သည္ စာရင္းသြင္းကုဒ္  %1$s  ကုိစာရင္းသြင္းျပီးခဲ့သည္"
-  },
-  "district_list_district_already_been_added": {
-    "message": "သင္သည္ စာရင္းသြင္းကုဒ္   %1$s ကုိစာရင္းသြင္းျပီးခဲ့သည္",
-    "description": "သင္သည္ စာရင္းသြင္းကုဒ္   %1$s ကုိစာရင္းသြင္းျပီးခဲ့သည္"
-  },
-  "district_list_empty_view_add_button": {
-    "message": "ျမိဳ ႔နယ္တြင္စာရင္းသြင္းပါ",
-    "description": "ျမိဳ ႔နယ္တြင္စာရင္းသြင္းပါ"
-  },
-  "district_list_empty_view_message": {
-    "message": "သင့္ျမိဳ ႔နယ္မွအေၾကာင္းအရာမ်ားကုိ၀င္ေရာက္ၾကည့္ရႈ ႔ရန္ “ျမိဳ ႔နယ္တြင္စာရင္း သြင္းပါ” ဆုိသည့္ တက္ပ္ခလုပ္ေပၚတြင္ႏိွပ္ပါ",
-    "description": "သင့္ျမိဳ ႔နယ္မွအေၾကာင္းအရာမ်ားကုိ၀င္ေရာက္ၾကည့္ရႈ ႔ရန္ “ျမိဳ ႔နယ္တြင္စာရင္း သြင္းပါ” ဆုိသည့္ တက္ပ္ခလုပ္ေပၚတြင္ႏိွပ္ပါ"
-  },
-  "district_list_empty_view_title": {
-    "message": "သင္သည္မည္သည့္ျမိဳ ႔နယ္တြင္မွစာရင္းမသြင္းရေသးပါ",
-    "description": "သင္သည္မည္သည့္ျမိဳ ႔နယ္တြင္မွစာရင္းမသြင္းရေသးပါ"
-  },
-  "district_list_error_invalid_code": {
-    "message": "စာရင္းသြင္းကုဒ္  %1$s မမွန္ပါ",
-    "description": "စာရင္းသြင္းကုဒ္  %1$s မမွန္ပါ"
-  },
-  "district_list_hint_subscribe_new_district": {
-    "message": "စာရင္းသြင္းကုဒ္",
-    "description": "စာရင္းသြင္းကုဒ္"
-  },
-  "district_list_item_bus_followed_plural": {
-    "message": "ဘတ္စ္ကားမ်ားေနာက္ကုိလုိက္သည္",
-    "description": "ဘတ္စ္ကားမ်ားေနာက္ကုိလုိက္သည္"
-  },
-  "district_list_item_bus_followed_single": {
-    "message": "ဘတ္စ္ကားေနာက္ကုိလုိက္သည္",
-    "description": "ဘတ္စ္ကားေနာက္ကုိလုိက္သည္"
-  },
-  "district_list_item_expired": {
-    "message": "ရက္လြန္ေနသည္",
-    "description": "ရက္လြန္ေနသည္"
-  },
-  "district_list_item_revoked": {
-    "message": "ပယ္ဖ်က္လုိက္သည္",
-    "description": "ပယ္ဖ်က္လုိက္သည္"
-  },
-  "district_list_loading_message": {
-    "message": "ျမိဳ ႔နယ္မွ ဖုိင္ကုိတင္ေနသည္",
-    "description": "ျမိဳ ႔နယ္မွ ဖုိင္ကုိတင္ေနသည္"
-  },
-  "district_list_message_no_vehicles_district": {
-    "message": "ကားမ်ားကုိမေတြ႔ပါ",
-    "description": "ကားမ်ားကုိမေတြ႔ပါ"
-  },
-  "district_list_message_registration_code_validate": {
-    "message": "သက္တမ္းရွိေနသည့္စာရင္းသြင္းကုဒ္နံပါတ္ကုိထဲ့ပါ",
-    "description": "သက္တမ္းရွိေနသည့္စာရင္းသြင္းကုဒ္နံပါတ္ကုိထဲ့ပါ"
-  },
-  "district_list_message_subscribe_new_district": {
-    "message": "သင့္တြင္စာရင္းသြင္းကုဒ္နံပါတ္မရွိလွ်င္သင့္ေက်ာင္း၏ျမိဳ ႔နယ္ရုံးကုိဆက္သြယ္ရယူပါ",
-    "description": "သင့္တြင္စာရင္းသြင္းကုဒ္နံပါတ္မရွိလွ်င္သင့္ေက်ာင္း၏ျမိဳ ႔နယ္ရုံးကုိဆက္သြယ္ရယူပါ"
-  },
-  "district_list_message_unsubscribe": {
-    "message": "သတင္းမ်ားကုိဤစာရင္းသြင္းကုဒ္နံပါတ္ျဖင့္ လက္မခံလုိဘူးလား?",
-    "description": "သတင္းမ်ားကုိဤစာရင္းသြင္းကုဒ္နံပါတ္ျဖင့္ လက္မခံလုိဘူးလား?"
-  },
-  "district_list_message_unsubscribe_district": {
-    "message": "သတင္းမ်ားကုိဤစာရင္းသြင္းကုဒ္နံပါတ္ျဖင့္ လက္မခံလုိဘူးလား?စာရင္းသြင္းကုဒ္ျဖင့္ဆက္ႏြယ္သည့္အေၾကာင္းအရာမ်ားကုိဖယ္ရွားပစ္မည္",
-    "description": "သတင္းမ်ားကုိဤစာရင္းသြင္းကုဒ္နံပါတ္ျဖင့္ လက္မခံလုိဘူးလား?စာရင္းသြင္းကုဒ္ျဖင့္ဆက္ႏြယ္သည့္အေၾကာင္းအရာမ်ားကုိဖယ္ရွားပစ္မည္"
-  },
-  "district_list_title": {
-    "message": "ျမိဳ ႔နယ္မ်ား",
-    "description": "ျမိဳ ႔နယ္မ်ား"
-  },
-  "district_list_title_confirm_un_subscribe": {
-    "message": "လက္မခံလုိပါ",
-    "description": "လက္မခံလုိပါ"
-  },
-  "district_list_title_subscribe_new_district": {
-    "message": "ျမိဳ ႔နယ္တခုအတြက္လက္ခံပါ",
-    "description": "ျမိဳ ႔နယ္တခုအတြက္လက္ခံပါ"
-  },
-  "district_list_title_unsubscribe_district": {
-    "message": "လက္မခံပါ",
-    "description": "လက္မခံပါ"
-  },
-  "district_list_unsubscribe": {
-    "message": "လက္မခံပါ",
-    "description": "လက္မခံပါ"
+  "desired_pickup_dropoff": {
+    "message": "ၾကိဳပုိ႔ရန္လိပ္စာထဲ့ပါ",
+    "description": "ၾကိဳပုိ႔ရန္လိပ္စာထဲ့ပါ"
   },
   "edit_profile_button_profile_update": {
-    "message": "သိမ္းလုိက္သည္",
-    "description": "သိမ္းလုိက္သည္"
+    "message": "သိ္မ္းသည္",
+    "description": "သိ္မ္းသည္"
   },
   "edit_profile_change_profile_photo": {
     "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ",
     "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ"
   },
   "edit_profile_change_profile_title": {
-    "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္၏ဓာတ္ပုံေရြးပါ",
-    "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္၏ဓာတ္ပုံေရြးပါ"
+    "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္မွ ဓာတ္ပုံကုိေျပာင္းပါ",
+    "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္မွ ဓာတ္ပုံကုိေျပာင္းပါ"
   },
   "edit_profile_dob": {
     "message": "ေမြးေန႔",
@@ -383,81 +323,157 @@
     "message": "ေန႔စြဲေရြးပါ",
     "description": "ေန႔စြဲေရြးပါ"
   },
+  "edit_profile_hint_type_here": {
+    "message": "ဤေနရာတြင္ျဖည့္ပါ",
+    "description": "ဤေနရာတြင္ျဖည့္ပါ"
+  },
   "edit_profile_last_name": {
     "message": "ေနာက္ဆုံးအမည္",
     "description": "ေနာက္ဆုံးအမည္"
   },
   "edit_profile_message_edit_failed": {
-    "message": "သင့္ေတာင္းဆုိခ်က္ကုိျပဳလုပ္၍မရပါ၊ ေနာင္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
-    "description": "သင့္ေတာင္းဆုိခ်က္ကုိျပဳလုပ္၍မရပါ၊ ေနာင္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
+    "message": "သင့္ေတာင္းဆုိခ်က္ကုိထည့္သြင္း၍မရပါ၊ ေနာက္တၾကိမ္က်ဳိးစား ၾကည့္ပါ",
+    "description": "သင့္ေတာင္းဆုိခ်က္ကုိထည့္သြင္း၍မရပါ၊ ေနာက္တၾကိမ္က်ဳိးစား ၾကည့္ပါ"
   },
   "edit_profile_message_edit_successfully": {
-    "message": "သင့္ကုိယ္ေရးေနာက္ဆုံးအေၾကာင္းအရာမ်ားကုိေအာင္ျမင္စြာတင္ခဲ့သည္",
-    "description": "သင့္ကုိယ္ေရးေနာက္ဆုံးအေၾကာင္းအရာမ်ားကုိေအာင္ျမင္စြာတင္ခဲ့သည္"
+    "message": "သင့္ကုိယ္ေရးအေၾကာင္းအရာဖုိင္၏ေနာက္ဆုံးသတင္းအခ်က္အလက္မ်ားေအာင္ျမင္စြာထည့္သြင္းခဲ့သည္",
+    "description": "သင့္ကုိယ္ေရးအေၾကာင္းအရာဖုိင္၏ေနာက္ဆုံးသတင္းအခ်က္အလက္မ်ားေအာင္ျမင္စြာထည့္သြင္းခဲ့သည္"
   },
   "edit_profile_saml_message_string": {
-    "message": "ကုိယ္ေရးအေၾကာင္းအရာပုံစံမ်ားကုိျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထားသည္",
-    "description": "ကုိယ္ေရးအေၾကာင္းအရာပုံစံမ်ားကုိျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္းႏုိင္ရန္ျပဳလုပ္ထားသည္"
-  },
-  "edit_profile_select_gender": {
-    "message": "က်ား/မ ေရြးပါ",
-    "description": "က်ား/မ ေရြးပါ"
+    "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္ကုိျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္း ႏုိင္ရန္ျပဳလုပ္ထားသည္",
+    "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္ကုိျပင္ပမွေထာက္ပံ့သူမ်ား၀င္၍မေျပာင္း ႏုိင္ရန္ျပဳလုပ္ထားသည္"
   },
   "edit_profile_title": {
     "message": "ကုိယ္ေရးအေၾကာင္းအရာမ်ား",
     "description": "ကုိယ္ေရးအေၾကာင္းအရာမ်ား"
   },
+  "edit_to_school_schedule_title": {
+    "message": " “ေက်ာင္းသုိ႔” အခ်ိန္ဇယားကုိ ျပင္ဆင္သည္",
+    "description": " “ေက်ာင္းသုိ႔” အခ်ိန္ဇယားကုိ ျပင္ဆင္သည္"
+  },
   "error_email_invalid": {
-    "message": "အီးေမးလ္လိပ္စာမမွန္ပါ",
-    "description": "အီးေမးလ္လိပ္စာမမွန္ပါ"
+    "message": "အိီးေမးလ္လိပ္စာမမွန္ပါ",
+    "description": "အိီးေမးလ္လိပ္စာမမွန္ပါ"
   },
   "error_environment_not_found": {
     "message": "ပတ္၀န္းက်င္ကုိမေတြ႔ပါ",
     "description": "ပတ္၀န္းက်င္ကုိမေတြ႔ပါ"
   },
-  "error_field_required": {
-    "message": "သည္လုိအပ္သည္",
-    "description": "သည္လုိအပ္သည္"
-  },
   "error_network_not_available": {
-    "message": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရးလုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ",
-    "description": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရးလုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ"
+    "message": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရးလုိင္း  ကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ",
+    "description": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရးလုိင္း  ကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ"
+  },
+  "error_regex_email_tma": {
+    "message": "အိီးေမးလ္မမွန္ပါ၊",
+    "description": "အိီးေမးလ္မမွန္ပါ၊"
   },
   "error_something_went_wrong": {
-    "message": "ဒါကုိဘယ္မွာသုံးသလဲ? ဒါကပုိမုိတိက်သင့္သည္",
-    "description": "ဒါကုိဘယ္မွာသုံးသလဲ? ဒါကပုိမုိတိက်သင့္သည္"
+    "message": "တခုခုမွားေနသည္၊ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "တခုခုမွားေနသည္၊ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
   },
-  "error_subscribe": {
-    "message": "လက္ခံ၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "လက္ခံ၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ"
+  "error_user_not_authorized": {
+    "message": "အသုံးျပဳသူကုိ ဤေနရာသုိ႔၀င္ရန္ခြင့္မျပဳဘဲအတိအလင္းျငင္းသည္",
+    "description": "အသုံးျပဳသူကုိ ဤေနရာသုိ႔၀င္ရန္ခြင့္မျပဳဘဲအတိအလင္းျငင္းသည္"
   },
-  "error_un_follow": {
-    "message": "ကားေနာက္ကုိလုိက္၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ကားေနာက္ကုိလုိက္၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ"
+  "every_fri": {
+    "message": "ေသာၾကာေန႔",
+    "description": "ေသာၾကာေန႔"
   },
-  "error_unsubscrible": {
-    "message": "ဤစာရင္းသြင္းကုဒ္ကုိ လက္ခံ၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ဤစာရင္းသြင္းကုဒ္ကုိ လက္ခံ၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ"
+  "every_fri_long": {
+    "message": "ေသာၾကာေန႔တုိင္း",
+    "description": "ေသာၾကာေန႔တုိင္း"
   },
-  "follow_vehicle_error": {
-    "message": "ဤကားေနာက္ကုိလုိက္၍မရပါ၊ အျခားေနာက္ကားတစီးေနာက္ကုိလုိက္ပါ",
-    "description": "ဤကားေနာက္ကုိလုိက္၍မရပါ၊ အျခားေနာက္ကားတစီးေနာက္ကုိလုိက္ပါ"
+  "every_fri_short": {
+    "message": "ေသာၾကာ",
+    "description": "ေသာၾကာ"
+  },
+  "every_mon": {
+    "message": "တနလာၤ",
+    "description": "တနလာၤ"
+  },
+  "every_mon_long": {
+    "message": "တနလာၤေန႔တုိင္း",
+    "description": "တနလာၤေန႔တုိင္း"
+  },
+  "every_mon_short": {
+    "message": "တနလာၤ",
+    "description": "တနလာၤ"
+  },
+  "every_sat": {
+    "message": "စေနေန႔",
+    "description": "စေနေန႔"
+  },
+  "every_sat_long": {
+    "message": "စေနေန႔တုိင္း",
+    "description": "စေနေန႔တုိင္း"
+  },
+  "every_sat_short": {
+    "message": "စေန",
+    "description": "စေန"
+  },
+  "every_sun": {
+    "message": "တနဂၤေႏြ",
+    "description": "တနဂၤေႏြ"
+  },
+  "every_sun_long": {
+    "message": "တနဂၤေႏြေန႔တုိင္း",
+    "description": "တနဂၤေႏြေန႔တုိင္း"
+  },
+  "every_sun_short": {
+    "message": "တနဂၤေႏြ",
+    "description": "တနဂၤေႏြ"
+  },
+  "every_thur": {
+    "message": "ၾကာသာပေတးေန႔",
+    "description": "ၾကာသာပေတးေန႔"
+  },
+  "every_thur_long": {
+    "message": "ၾကာသာပေတးေန႔တုိင္း",
+    "description": "ၾကာသာပေတးေန႔တုိင္း"
+  },
+  "every_thur_short": {
+    "message": "ၾကာသာပေတး",
+    "description": "ၾကာသာပေတး"
+  },
+  "every_tue": {
+    "message": "အဂၤ ါေန႔",
+    "description": "အဂၤ ါေန႔"
+  },
+  "every_tue_long": {
+    "message": "အဂၤ ါေန႔တုိင္း",
+    "description": "အဂၤ ါေန႔တုိင္း"
+  },
+  "every_tue_short": {
+    "message": "အဂၤ ါ",
+    "description": "အဂၤ ါ"
+  },
+  "every_wed": {
+    "message": "ဗုဒၶဟူးေန႔",
+    "description": "ဗုဒၶဟူးေန႔"
+  },
+  "every_wed_long": {
+    "message": "ဗုဒၶဟူးေန႔တုိင္း",
+    "description": "ဗုဒၶဟူးေန႔တုိင္း"
+  },
+  "every_wed_short": {
+    "message": "ဗုဒၶဟူး",
+    "description": "ဗုဒၶဟူး"
   },
   "forgot_password_change_password_title": {
-    "message": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိေျပာင္းပါ",
-    "description": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိေျပာင္းပါ"
+    "message": "သင့့္လႈိ႔၀ွက္နံပါတ္ကုိေျပာင္းပါ",
+    "description": "သင့့္လႈိ႔၀ွက္နံပါတ္ကုိေျပာင္းပါ"
   },
   "forgot_password_description": {
-    "message": "သင့္လႈိ ႔၀ွက္နံပါတ္ကုိအသစ္ျပန္ထဲ့ရန္ ညြန္ၾကားခ်က္အတြက္ သင့္အီးေမးလ္လိပ္စာျဖည့္ပါ",
-    "description": "သင့္လႈိ ႔၀ွက္နံပါတ္ကုိအသစ္ျပန္ထဲ့ရန္ ညြန္ၾကားခ်က္အတြက္ သင့္အီးေမးလ္လိပ္စာျဖည့္ပါ"
+    "message": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းသည့္ညြန္ၾကားခ်က္ကုိရရန္သင့္အီးေမးလ္ကုိေအာက္တြင္ထဲ့ပါ",
+    "description": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းသည့္ညြန္ၾကားခ်က္ကုိရရန္သင့္အီးေမးလ္ကုိေအာက္တြင္ထဲ့ပါ"
   },
   "forgot_password_email_not_exists": {
-    "message": "ကြ်ႏု္ပ္တုိ႔၌ သင့္အီးေမးလ္လိပ္စာမရွိေတာ့ပါ",
-    "description": "ကြ်ႏု္ပ္တုိ႔၌ သင့္အီးေမးလ္လိပ္စာမရွိေတာ့ပါ"
+    "message": "ကြ်ႏု္ပ္တုိ႔စနစ္ထဲတြင္သင့္အီးေမးလ္လိပ္စာမရွိေတာ့ပါ",
+    "description": "ကြ်ႏု္ပ္တုိ႔စနစ္ထဲတြင္သင့္အီးေမးလ္လိပ္စာမရွိေတာ့ပါ"
   },
   "forgot_password_error": {
-    "message": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိျပန္ျပင္ထဲ့၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိျပန္ျပင္ထဲ့၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းျခင္းမေအာင္ျမင္ပါ",
+    "description": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းျခင္းမေအာင္ျမင္ပါ"
   },
   "forgot_password_login": {
     "message": "၀င္ပါ",
@@ -472,44 +488,60 @@
     "description": "ေနာက္တခုပုိ႔ပါ"
   },
   "forgot_password_sent_successfully": {
-    "message": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိမည္သုိ႔ျပန္ျပင္ရန္ညြန္ၾကားခ်က္ကုိအီးေမးလ္ပုိ႔လုိက္သည္",
-    "description": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိမည္သုိ႔ျပန္ျပင္ရန္ညြန္ၾကားခ်က္ကုိအီးေမးလ္ပုိ႔လုိက္သည္"
+    "message": "လႈိ႔၀ွက္နံပါတ္အသစ္ မည္သုိ႔ျပန္ထဲ့ရမည္ဆုိသည့္ညြန္ၾကားခ်က္မ်ားကုိ  %1$s ၏ အီးေမးလ္သုိ႔ပုိ႔လုိက္သည္",
+    "description": "လႈိ႔၀ွက္နံပါတ္အသစ္ မည္သုိ႔ျပန္ထဲ့ရမည္ဆုိသည့္ညြန္ၾကားခ်က္မ်ားကုိ  %1$s ၏ အီးေမးလ္သုိ႔ပုိ႔လုိက္သည္"
   },
   "forgot_password_submit_button": {
-    "message": "တင္သည္",
-    "description": "တင္သည္"
+    "message": "တင္ပါ",
+    "description": "တင္ပါ"
   },
   "forgot_password_title": {
     "message": "သင္၏လႈိ႔၀ွက္နံပါတ္ကုိေမ့သြားသလား?",
     "description": "သင္၏လႈိ႔၀ွက္နံပါတ္ကုိေမ့သြားသလား?"
   },
-  "general_alert": {
-    "message": "သတိေပးခ်က္",
-    "description": "သတိေပးခ်က္"
+  "from_school_schedule_btn_look_up": {
+    "message": "အနီးဆုံးျပန္ပုိ႔သည့္ေနရာမ်ားကုိၾကည့္ပါ",
+    "description": "အနီးဆုံးျပန္ပုိ႔သည့္ေနရာမ်ားကုိၾကည့္ပါ"
+  },
+  "from_school_schedule_select_drop_off_stops": {
+    "message": "ျပန္ပုိ႔ေပးရမည့္ေနရာမ်ားကုိေရြးပါ",
+    "description": "ျပန္ပုိ႔ေပးရမည့္ေနရာမ်ားကုိေရြးပါ"
+  },
+  "from_school_schedule_title": {
+    "message": "ေက်ာင္းအခ်ိန္ဇယားမွ",
+    "description": "ေက်ာင္းအခ်ိန္ဇယားမွ"
+  },
+  "general_ago": {
+    "message": "ခဲ့ျပီ",
+    "description": "ခဲ့ျပီ"
   },
   "general_back": {
-    "message": "ေနာက္ျပန္သြားပါ",
-    "description": "ေနာက္ျပန္သြားပါ"
+    "message": "အေနာက္သုိ႔",
+    "description": "အေနာက္သုိ႔"
   },
   "general_bus_id_label": {
-    "message": "ဘတ္စ္ကား %1$s",
-    "description": "ဘတ္စ္ကား %1$s"
+    "message": "ဘတ္စ္ကားအုိင္ဒီ",
+    "description": "ဘတ္စ္ကားအုိင္ဒီ"
   },
   "general_cancel": {
-    "message": "ပယ္ဖ်က္လုိက္သည္",
-    "description": "ပယ္ဖ်က္လုိက္သည္"
+    "message": "ပယ္ဖ်က္သည္",
+    "description": "ပယ္ဖ်က္သည္"
   },
   "general_clear": {
     "message": "ရွင္းသည္",
     "description": "ရွင္းသည္"
   },
   "general_delete": {
-    "message": "ဖ်က္ပစ္လုိက္သည္",
-    "description": "ဖ်က္ပစ္လုိက္သည္"
+    "message": "ဖ်က္သည္",
+    "description": "ဖ်က္သည္"
   },
   "general_done": {
-    "message": "ျပီးပါျပီ",
-    "description": "ျပီးပါျပီ"
+    "message": "ျပီးျပီ",
+    "description": "ျပီးျပီ"
+  },
+  "general_drop_off": {
+    "message": "အျပန္",
+    "description": "အျပန္"
   },
   "general_error": {
     "message": "အမွား",
@@ -519,17 +551,61 @@
     "message": "အမ်ဳိးသမီး",
     "description": "အမ်ဳိးသမီး"
   },
+  "general_hour": {
+    "message": "အခ်ိန္",
+    "description": "အခ်ိန္"
+  },
+  "general_hours": {
+    "message": "အခ်ိန္မ်ား",
+    "description": "အခ်ိန္မ်ား"
+  },
+  "general_id": {
+    "message": "ID",
+    "description": "ID"
+  },
+  "general_imperial": {
+    "message": "အတုိင္းအတာ",
+    "description": "အတုိင္းအတာ"
+  },
+  "general_in": {
+    "message": "အထဲ",
+    "description": "အထဲ"
+  },
+  "general_kilometers": {
+    "message": "ကီလုိမီတာ",
+    "description": "ကီလုိမီတာ"
+  },
+  "general_km_params": {
+    "message": "%1$s  ကီလုိမီတာ",
+    "description": "%1$s  ကီလုိမီတာ"
+  },
   "general_library": {
-    "message": "စာၾကည့္တုိက္",
-    "description": "စာၾကည့္တုိက္"
+    "message": "စာၾကည့္တုိက္",
+    "description": "စာၾကည့္တုိက္"
   },
   "general_male": {
     "message": "အမ်ဳိးသား",
     "description": "အမ်ဳိးသား"
   },
+  "general_metric": {
+    "message": "မက္ထရစ္",
+    "description": "မက္ထရစ္"
+  },
   "general_miles": {
     "message": "မုိင္မ်ား",
     "description": "မုိင္မ်ား"
+  },
+  "general_miles_params": {
+    "message": "%1$s  မုိင္မ်ား",
+    "description": "%1$s  မုိင္မ်ား"
+  },
+  "general_minute": {
+    "message": "မိနစ္",
+    "description": "မိနစ္"
+  },
+  "general_minutes": {
+    "message": "မိနစ္မ်ား",
+    "description": "မိနစ္မ်ား"
   },
   "general_no": {
     "message": "မဟုတ္ပါ",
@@ -540,8 +616,12 @@
     "description": "အင္တာနက္လုိင္းမရွိပါ"
   },
   "general_no_network_message": {
-    "message": "သင္၏အင္တာနက္လုိင္းကုိျပန္စစ္ပါ",
-    "description": "သင္၏အင္တာနက္လုိင္းကုိျပန္စစ္ပါ"
+    "message": "အင္တာနက္လုိင္းဆက္သည့္ေနရာကုိစစ္ပါ",
+    "description": "အင္တာနက္လုိင္းဆက္သည့္ေနရာကုိစစ္ပါ"
+  },
+  "general_not_available": {
+    "message": "N/A",
+    "description": "N/A"
   },
   "general_ok": {
     "message": "အုိေက",
@@ -551,161 +631,297 @@
     "message": "ဓာတ္ပုံေရြးပါ",
     "description": "ဓာတ္ပုံေရြးပါ"
   },
-  "general_remove": {
-    "message": "ဖယ္လုုိက္သည္",
-    "description": "ဖယ္လုုိက္သည္"
+  "general_pickup": {
+    "message": "ၾကိဳသည္",
+    "description": "ၾကိဳသည္"
   },
   "general_restart": {
     "message": "ျပန္စပါ",
     "description": "ျပန္စပါ"
   },
+  "general_route_code": {
+    "message": "လမ်းကြောင်းကုဒ်",
+    "description": "လမ်းကြောင်းကုဒ်"
+  },
+  "general_route_number_label": {
+    "message": "လမ္းေၾကာင္းနံပါတ္",
+    "description": "လမ္းေၾကာင္းနံပါတ္"
+  },
   "general_save": {
-    "message": "သိမ္းပါ",
-    "description": "သိမ္းပါ"
+    "message": "သိမ္းသည္",
+    "description": "သိမ္းသည္"
+  },
+  "general_short_kilometers": {
+    "message": "ကီလုိမီတာ",
+    "description": "ကီလုိမီတာ"
+  },
+  "general_student": {
+    "message": "ေက်ာင္းသား",
+    "description": "ေက်ာင္းသား"
   },
   "general_take_photo": {
     "message": "ဓာတ္ပုံရုိက္ပါ",
     "description": "ဓာတ္ပုံရုိက္ပါ"
   },
-  "general_unfollow": {
-    "message": "မလုိက္ပါ",
-    "description": "မလုိက္ပါ"
+  "general_trip_type": {
+    "message": "%1$s's ၏ ခရီးစဥ္",
+    "description": "%1$s's ၏ ခရီးစဥ္"
+  },
+  "general_units": {
+    "message": "ယူနစ္",
+    "description": "ယူနစ္"
+  },
+  "general_unknown": {
+    "message": "မသိသာသော",
+    "description": "မသိသာသော"
   },
   "general_update": {
-    "message": "ေနာက္ဆုံးအေၾကာင္းအရာ",
-    "description": "ေနာက္ဆုံးအေၾကာင္းအရာ"
+    "message": "အေၾကာင္းအရာအသစ္ထဲ့ပါ",
+    "description": "အေၾကာင္းအရာအသစ္ထဲ့ပါ"
   },
   "general_update_now": {
-    "message": "ေနာက္ဆုံးအေၾကာင္းအရာထဲ့ပါ",
-    "description": "ေနာက္ဆုံးအေၾကာင္းအရာထဲ့ပါ"
-  },
-  "general_vehicle_name_label": {
-    "message": "ကား %1$s",
-    "description": "ကား %1$s"
-  },
-  "general_yes": {
-    "message": "ဟုတ္ပါသည္",
-    "description": "ဟုတ္ပါသည္"
+    "message": "အေၾကာင္းအရာအသစ္ယခုထဲ့ပါ",
+    "description": "အေၾကာင္းအရာအသစ္ယခုထဲ့ပါ"
   },
   "general_vehicle_information": {
     "message": "ယာဉ်အချက်အလက်",
     "description": "ယာဉ်အချက်အလက်"
   },
-  "general_route_code": {
-    "message": "လမ်းကြောင်းကုဒ်",
-    "description": "လမ်းကြောင်းကုဒ်"
+  "general_vehicle_name_label": {
+    "message": "ကားအမည္",
+    "description": "ကားအမည္"
   },
-  "home_card_bus_title": {
-    "message": "ဘတ္စ္ကား %1$s",
-    "description": "ဘတ္စ္ကား %1$s"
+  "general_yes": {
+    "message": "ဟုတ္ကဲ့",
+    "description": "ဟုတ္ကဲ့"
   },
-  "home_card_entered": {
-    "message": "ထဲ့ထားသည္",
-    "description": "ထဲ့ထားသည္"
+  "geofence_editor_address_label": {
+    "message": "လိပ္စာ",
+    "description": "လိပ္စာ"
   },
-  "home_card_vehicle_title": {
-    "message": "ကား %1$s",
-    "description": "ကား %1$s"
+  "geofence_editor_confirm_quit_message": {
+    "message": "သတိေပးအယ္ဒီတာမွသင္ထြက္ခ်င္သလား? မသိမ္းရေသးေသာသတင္းအခ်က္အလက္မ်ားေပ်ာက္ဆုံးမည္",
+    "description": "သတိေပးအယ္ဒီတာမွသင္ထြက္ခ်င္သလား? မသိမ္းရေသးေသာသတင္းအခ်က္အလက္မ်ားေပ်ာက္ဆုံးမည္"
   },
-  "home_cards_alert_zones_label": {
-    "message": "သတိေပးဇုံ",
-    "description": "သတိေပးဇုံ"
+  "geofence_editor_end_time": {
+    "message": "ျပီးဆုံးခ်ိန္",
+    "description": "ျပီးဆုံးခ်ိန္"
   },
-  "home_cards_bus_title": {
+  "geofence_editor_error_invalid_time_range": {
+    "message": "စတင္သည့္အခ်ိန္သည္ျပီးဆုံးသည့္အခ်ိန္ထက္ေစာရမည္",
+    "description": "စတင္သည့္အခ်ိန္သည္ျပီးဆုံးသည့္အခ်ိန္ထက္ေစာရမည္"
+  },
+  "geofence_editor_error_maximum": {
+    "message": "ကားတစီးလွ်င္သတိေပးဇုံ(၃)ခုသာသင္ရႏုိင္သည္",
+    "description": "ကားတစီးလွ်င္သတိေပးဇုံ(၃)ခုသာသင္ရႏုိင္သည္"
+  },
+  "geofence_editor_hint_geofence_address": {
+    "message": "သတိေပးဇုံလိပ္စာ",
+    "description": "သတိေပးဇုံလိပ္စာ"
+  },
+  "geofence_editor_hint_geofence_name": {
+    "message": "သတိေပးဇုံအမည္",
+    "description": "သတိေပးဇုံအမည္"
+  },
+  "geofence_editor_name_label": {
+    "message": "အမည္",
+    "description": "အမည္"
+  },
+  "geofence_editor_radius_label": {
+    "message": "%.1f  ပတ္လည္မုိင္မ်ား",
+    "description": "%.1f  ပတ္လည္မုိင္မ်ား"
+  },
+  "geofence_editor_require_name": {
+    "message": "သင့္သတိေပးဇုံကုိအမည္ေပးပါ",
+    "description": "သင့္သတိေပးဇုံကုိအမည္ေပးပါ"
+  },
+  "geofence_editor_start_time": {
+    "message": "စသည့္အခ်ိန္",
+    "description": "စသည့္အခ်ိန္"
+  },
+  "geofence_editor_time_am": {
+    "message": "မနက္",
+    "description": "မနက္"
+  },
+  "geofence_editor_time_label": {
+    "message": "သတိေပးခ်ိန္",
+    "description": "သတိေပးခ်ိန္"
+  },
+  "geofence_editor_time_pm": {
+    "message": "ညေန/ည",
+    "description": "ညေန/ည"
+  },
+  "geofence_editor_toolbar_add_title": {
+    "message": "သတိေပးဇုံ ထဲ့ပါ",
+    "description": "သတိေပးဇုံ ထဲ့ပါ"
+  },
+  "geofence_editor_toolbar_edit_title": {
+    "message": "သတိေပးဇုံကုိျပင္ဆင္ပါ",
+    "description": "သတိေပးဇုံကုိျပင္ဆင္ပါ"
+  },
+  "geofence_list_bus_label": {
     "message": "ဘတ္စ္ကား",
     "description": "ဘတ္စ္ကား"
   },
-  "home_cards_code_name_label": {
-    "message": "ကုဒ္",
-    "description": "ကုဒ္"
+  "geofence_list_confirm_delete": {
+    "message": "သင္ သတိေပးဇုံကုိဖ်က္ခ်င္တာေသခ်ာသလား?",
+    "description": "သင္ သတိေပးဇုံကုိဖ်က္ခ်င္တာေသခ်ာသလား?"
+  },
+  "geofence_list_empty_view_button": {
+    "message": "သတိေပးဇုံကုိထဲ့ပါ",
+    "description": "သတိေပးဇုံကုိထဲ့ပါ"
+  },
+  "geofence_list_empty_view_message": {
+    "message": "သတိေပးဇုံကုိမျပဳလုပ္ရေသးပါ၊ “သတိေပးဇုံကုိထဲ့ပါ”ဆုိသည့္ခလုပ္အေပၚတြင္ႏိွပ္ျပီးအသစ္ထဲ့ပါ",
+    "description": "သတိေပးဇုံကုိမျပဳလုပ္ရေသးပါ၊ “သတိေပးဇုံကုိထဲ့ပါ”ဆုိသည့္ခလုပ္အေပၚတြင္ႏိွပ္ျပီးအသစ္ထဲ့ပါ"
+  },
+  "geofence_list_not_found": {
+    "message": "သတိေပးဇုံကုိမေတြ႔ပါ",
+    "description": "သတိေပးဇုံကုိမေတြ႔ပါ"
+  },
+  "hint_dob": {
+    "message": "ေန႔စြဲေရြးပါ",
+    "description": "ေန႔စြဲေရြးပါ"
+  },
+  "hint_edt_password": {
+    "message": "လွႈိ႔၀ွက္နံပါတ္အေဟာင္းထဲ့ပါ",
+    "description": "လွႈိ႔၀ွက္နံပါတ္အေဟာင္းထဲ့ပါ"
+  },
+  "hint_first_name": {
+    "message": "ပထမအမည္",
+    "description": "ပထမအမည္"
+  },
+  "hint_gender": {
+    "message": "ေရြးပါ",
+    "description": "ေရြးပါ"
+  },
+  "hint_last_name": {
+    "message": "ေနာက္ဆုံးအမည္",
+    "description": "ေနာက္ဆုံးအမည္"
+  },
+  "hint_school": {
+    "message": "ေက်ာင္းေရြးပါ",
+    "description": "ေက်ာင္းေရြးပါ"
+  },
+  "hint_student_id": {
+    "message": "ေက်ာင္းသားအုိင္ဒီ",
+    "description": "ေက်ာင္းသားအုိင္ဒီ"
+  },
+  "hint_type_comment_here": {
+    "message": "မွတ္ခ်က္တခုထဲ့ပါ",
+    "description": "မွတ္ခ်က္တခုထဲ့ပါ"
+  },
+  "hint_type_here": {
+    "message": "ဤအရာသည္မသဲကြဲမထင္ရွားပါ၊ ဘယ္ေနရာတြင္သုံးသလဲ?",
+    "description": "ဤအရာသည္မသဲကြဲမထင္ရွားပါ၊ ဘယ္ေနရာတြင္သုံးသလဲ?"
+  },
+  "home_cards_bus_title": {
+    "message": "ဘတ္စ္ကား  %s",
+    "description": "ဘတ္စ္ကား  %s"
   },
   "home_cards_title": {
     "message": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္",
     "description": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္"
   },
-  "home_cards_vehicle_title": {
-    "message": "ကား",
-    "description": "ကား"
+  "home_loading_trips": {
+    "message": "ခရီးစဥ္မ်ားကုိတင္ေနသည္",
+    "description": "ခရီးစဥ္မ်ားကုိတင္ေနသည္"
+  },
+  "home_trip_detail_menu": {
+    "message": "ခရီးစဥ္အေသးစိတ္မ်ား",
+    "description": "ခရီးစဥ္အေသးစိတ္မ်ား"
   },
   "idp_sign_in_navigation_title": {
-    "message": "ျမိဳ ႔နယ္မွ အထဲသုိ႔၀င္လုပ္သည္",
-    "description": "ျမိဳ ႔နယ္မွ အထဲသုိ႔၀င္လုပ္သည္"
+    "message": "ျမိဳ ႔နယ္မွ ဆုိင္းအင္လုပ္သည္",
+    "description": "ျမိဳ ႔နယ္မွ ဆုိင္းအင္လုပ္သည္"
   },
   "idp_sign_in_not_found": {
-    "message": "ေဆားရီး၊ သင့္ျမဳိ ႔နယ္ကုိမေတြ႔ပါ၊ သင့္ျမိဳ ႔နယ္အမည္ကုိျပန္စစ္ေဆးျပီး ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ေဆားရီး၊ သင့္ျမဳိ ႔နယ္ကုိမေတြ႔ပါ၊ သင့္ျမိဳ ႔နယ္အမည္ကုိျပန္စစ္ေဆးျပီး ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "ေဆာရီး၊သင့္ျမိဳ ႔နယ္ကုိကြ်ႏု္ပ္တုိ႔ရွာမေတြ ႔ပါ၊ ျမိဳ ႔နယ္အမည္ကို ျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "ေဆာရီး၊သင့္ျမိဳ ႔နယ္ကုိကြ်ႏု္ပ္တုိ႔ရွာမေတြ ႔ပါ၊ ျမိဳ ႔နယ္အမည္ကို ျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
   },
   "idp_sign_in_required_message": {
-    "message": "ျမိဳ ႔နယ္အမည္လုိအပ္သည္",
-    "description": "ျမိဳ ႔နယ္အမည္လုိအပ္သည္"
+    "message": "ျမိဳ ႔နယ္၏အမည္လုိအပ္သည္",
+    "description": "ျမိဳ ႔နယ္၏အမည္လုိအပ္သည္"
   },
   "idp_sign_in_title": {
-    "message": "ျမိဳ ႔နယ္အမည္လုိအပ္သည္",
-    "description": "ျမိဳ ႔နယ္အမည္လုိအပ္သည္"
+    "message": "ျမိဳ ႔နယ္၏အမည္အျပည့္အစုံ",
+    "description": "ျမိဳ ႔နယ္၏အမည္အျပည့္အစုံ"
+  },
+  "image_qr_code_selected_invalid": {
+    "message": "သင္ေရြးခ်ယ္ေသာပံုရိပ္မွ QR ကုဒ္ကုိဖ်က္၍မရႏုိင္ပါ၊ ေနာက္တခုေရြးပါ",
+    "description": "သင္ေရြးခ်ယ္ေသာပံုရိပ္မွ QR ကုဒ္ကုိဖ်က္၍မရႏုိင္ပါ၊ ေနာက္တခုေရြးပါ"
+  },
+  "inbox_detail_empty_description": {
+    "message": "မၾကာခင္ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "မၾကာခင္ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
+  },
+  "inbox_detail_empty_title": {
+    "message": "အထဲမွအေၾကာင္းအရာမ်ားကုိတင္၍မရပါ",
+    "description": "အထဲမွအေၾကာင္းအရာမ်ားကုိတင္၍မရပါ"
   },
   "inbox_notification_cannot_connect_server": {
-    "message": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊",
-    "description": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊"
+    "message": "ဆာဗာကုိဆက္သြယ္၍မရပါ",
+    "description": "ဆာဗာကုိဆက္သြယ္၍မရပါ"
   },
   "inbox_notification_cannot_connect_server_try_again": {
-    "message": "သင့္အင္တာနက္လုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားၾကည့္ပါ",
-    "description": "သင့္အင္တာနက္လုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားၾကည့္ပါ"
+    "message": "အင္တာနက္လုိင္းကိုျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "အင္တာနက္လုိင္းကိုျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
   },
   "inbox_notification_confirm_all_message": {
-    "message": "“အင္ေဗာက္စ္” ႏွင့္ သတိေပးခ်က္ထဲမွ မက္ေဆ့မ်ားအားလုံးကုိဖ်က္ပစ္ဖုိ႔ သင္ေသခ်ာသလား?",
-    "description": "“အင္ေဗာက္စ္” ႏွင့္ သတိေပးခ်က္ထဲမွ မက္ေဆ့မ်ားအားလုံးကုိဖ်က္ပစ္ဖုိ႔ သင္ေသခ်ာသလား?"
+    "message": "အင္ေဘာက္ထဲမွမက္ေဆ့မ်ားႏွင့္အသိေပးခ်က္မ်ားအားလုံး ကုိိသင္ဖ်က္ပစ္ခ်င္တာေသခ်ာသလား?",
+    "description": "အင္ေဘာက္ထဲမွမက္ေဆ့မ်ားႏွင့္အသိေပးခ်က္မ်ားအားလုံး ကုိိသင္ဖ်က္ပစ္ခ်င္တာေသခ်ာသလား?"
   },
   "inbox_notification_confirm_all_system_message": {
-    "message": "“အင္ေဘာက္စ္”ထဲမွသတိေပးခ်က္မ်ားအားလုံးကုိသင္ဖ်က္ပစ္ရန္ေသခ်ာသလား?",
-    "description": "“အင္ေဘာက္စ္”ထဲမွသတိေပးခ်က္မ်ားအားလုံးကုိသင္ဖ်က္ပစ္ရန္ေသခ်ာသလား?"
+    "message": "အင္ေဘာက္ထဲမွအသိေပးခ်က္မ်ားအားလုံးကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?",
+    "description": "အင္ေဘာက္ထဲမွအသိေပးခ်က္မ်ားအားလုံးကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?"
+  },
+  "inbox_notification_confirm_all_user_message": {
+    "message": "အင္ေဘာက္ထဲမွမက္ေဆ့မ်ားအားလုံးကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?",
+    "description": "အင္ေဘာက္ထဲမွမက္ေဆ့မ်ားအားလုံးကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?"
   },
   "inbox_notification_confirm_delete_a_message": {
-    "message": "ဤမက္ေဆ့ကုိသင္ဖ်က္ပစ္ရန္ေသခ်ာသလား?",
-    "description": "ဤမက္ေဆ့ကုိသင္ဖ်က္ပစ္ရန္ေသခ်ာသလား?"
+    "message": "ဤမက္ေဆ့ကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?",
+    "description": "ဤမက္ေဆ့ကုိိ သင္ဖ်က္ပစ္ခ်င္တာ ေသခ်ာသလား?"
   },
   "inbox_notification_delete_all": {
-    "message": "အားလုံးကုိဖ်က္ပစ္ပါ",
-    "description": "အားလုံးကုိဖ်က္ပစ္ပါ"
+    "message": "အားလုံးကုိဖ်က္ပစ္သည္",
+    "description": "အားလုံးကုိဖ်က္ပစ္သည္"
   },
   "inbox_notification_delete_message_fails": {
-    "message": "ဆာဗာကုိ၀င္ရန္အခက္အခဲရွိေန၍မက္ေဆ့ကုိဖ်က္၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ဆာဗာကုိ၀င္ရန္အခက္အခဲရွိေန၍မက္ေဆ့ကုိဖ်က္၍မရပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "ဆာဗားကုိ၀င္ရန္အခက္အခဲရွိေန၍မက္ေဆ့ကုိ မဖ်က္ႏုိင္ပါ၊ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "ဆာဗားကုိ၀င္ရန္အခက္အခဲရွိေန၍မက္ေဆ့ကုိ မဖ်က္ႏုိင္ပါ၊ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
   },
   "inbox_notification_details_date_title": {
     "message": "ေန႔စြဲ",
     "description": "ေန႔စြဲ"
   },
   "inbox_notification_details_empty": {
-    "message": "ပါ၀င္ေသာအေၾကာင္းအရာမ်ားကုိဆြဲယူ၍မရပါ",
-    "description": "ပါ၀င္ေသာအေၾကာင္းအရာမ်ားကုိဆြဲယူ၍မရပါ"
+    "message": "အထဲမွအေၾကာင္းအရာမ်ားကုိတင္၍မရပါ",
+    "description": "အထဲမွအေၾကာင္းအရာမ်ားကုိတင္၍မရပါ"
   },
   "inbox_notification_details_try_later": {
-    "message": "ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "မၾကာခင္ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "မၾကာခင္ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
   },
   "inbox_notification_message_empty": {
-    "message": "အင္ေဗာက္ထဲမွာဘာမွမရွိပါ",
-    "description": "အင္ေဗာက္ထဲမွာဘာမွမရွိပါ"
+    "message": "အင္ေဘာက္ထဲမွာဘာမွမရွိပါ",
+    "description": "အင္ေဘာက္ထဲမွာဘာမွမရွိပါ"
   },
   "inbox_notification_message_empty_content": {
-    "message": "မက္ေဆ့မ်ား ယခုေလာေလာဆယ္မရွိပါ",
-    "description": "မက္ေဆ့မ်ား ယခုေလာေလာဆယ္မရွိပါ"
+    "message": "မက္ေဆ့ကိုယခုမေဖာ္ျပႏုိင္ပါ",
+    "description": "မက္ေဆ့ကိုယခုမေဖာ္ျပႏုိင္ပါ"
   },
   "inbox_notification_message_from_admin": {
-    "message": "ေက်ာင္းအုပ္ခ်ဳပ္ေရးမွမက္ေဆ့",
-    "description": "ေက်ာင္းအုပ္ခ်ဳပ္ေရးမွမက္ေဆ့"
+    "message": "ေက်ာင္းအုပ္ခ်ဳပ္ေရးမွမက္ေဆ့မ်ား",
+    "description": "ေက်ာင္းအုပ္ခ်ဳပ္ေရးမွမက္ေဆ့မ်ား"
   },
   "inbox_notification_message_from_system": {
-    "message": "ေက်ာင္းစနစ္ထဲမွမက္ေဆ့",
-    "description": "ေက်ာင္းစနစ္ထဲမွမက္ေဆ့"
-  },
-  "inbox_notification_retry_button": {
-    "message": "ျပန္က်ဳိးစားပါ",
-    "description": "ျပန္က်ဳိးစားပါ"
+    "message": "ေက်ာင္းစနစ္မွမက္ေဆ့မ်ား",
+    "description": "ေက်ာင္းစနစ္မွမက္ေဆ့မ်ား"
   },
   "inbox_notification_title": {
-    "message": "အင္ေဗာက္စ္",
-    "description": "အင္ေဗာက္စ္"
+    "message": "အင္ေဘာက္",
+    "description": "အင္ေဘာက္"
   },
   "inbox_notification_title_from_message": {
     "message": "မက္ေဆ့",
@@ -715,109 +931,265 @@
     "message": "စနစ္",
     "description": "စနစ္"
   },
+  "information_qr_code": {
+    "message": "အေၾကာင္းအရာ",
+    "description": "အေၾကာင္းအရာ"
+  },
+  "item_filter_last_month": {
+    "message": "ျပီးခဲ့ေသာလ",
+    "description": "ျပီးခဲ့ေသာလ"
+  },
+  "item_filter_last_year": {
+    "message": "မႏွစ္က",
+    "description": "မႏွစ္က"
+  },
+  "item_filter_time_range": {
+    "message": "အခ်ိန္ကာလအကြာအေ၀း",
+    "description": "အခ်ိန္ကာလအကြာအေ၀း"
+  },
   "item_filter_today": {
-    "message": "ယေန႕",
-    "description": "ယေန႕"
+    "message": "ယေန႔",
+    "description": "ယေန႔"
   },
   "item_filter_yesterday": {
     "message": "မေန႔က",
     "description": "မေန႔က"
   },
-  "linked_bus_title": {
-    "message": "ဘတ္စ္ကားႏွင့္ဆက္ထားသည္",
-    "description": "ဘတ္စ္ကားႏွင့္ဆက္ထားသည္"
+  "item_header_schedule_number_1": {
+    "message": "1",
+    "description": "1"
+  },
+  "item_header_schedule_number_2": {
+    "message": "2",
+    "description": "2"
+  },
+  "item_header_schedule_number_3": {
+    "message": "3",
+    "description": "3"
+  },
+  "item_header_schedule_to_school": {
+    "message": "ေက်ာင္းသုိ႔",
+    "description": "ေက်ာင္းသုိ႔"
+  },
+  "item_header_transportation_request_status_reject": {
+    "message": "လက္မခံခဲ့ပါ",
+    "description": "လက္မခံခဲ့ပါ"
+  },
+  "item_header_transportation_request_tv_created_on": {
+    "message": "ျပဳလုပ္ပါ",
+    "description": "ျပဳလုပ္ပါ"
+  },
+  "login_button_title": {
+    "message": "၀င္ပါ",
+    "description": "၀င္ပါ"
+  },
+  "login_email": {
+    "message": "အီးေမးလ္",
+    "description": "အီးေမးလ္"
   },
   "login_error_email_not_confirmed": {
-    "message": "အီးေမးလ္လိပ္စာရွိေသာ္လဲအီးေမးလ္အေကာင့္အလုပ္မလုပ္ေသးပါ",
-    "description": "အီးေမးလ္လိပ္စာရွိေသာ္လဲအီးေမးလ္အေကာင့္အလုပ္မလုပ္ေသးပါ"
+    "message": "ဤအီးေမးလ္လိပ္စာမွာရွိျပီးျဖစ္ေသာ္လဲအေကာင့္မွာအလုပ္မလုပ္ေသးပါ",
+    "description": "ဤအီးေမးလ္လိပ္စာမွာရွိျပီးျဖစ္ေသာ္လဲအေကာင့္မွာအလုပ္မလုပ္ေသးပါ"
+  },
+  "login_error_email_pass_incorrect": {
+    "message": "အုိ႔ပ္စ္! ထဲ့သြင္းေသာအေၾကာင္းအရာမ်ားႏွင့္တူညီေသာအေကာင့္မရွိပါ",
+    "description": "အုိ႔ပ္စ္! ထဲ့သြင္းေသာအေၾကာင္းအရာမ်ားႏွင့္တူညီေသာအေကာင့္မရွိပါ"
+  },
+  "login_error_locked_account": {
+    "message": "ဤအေကာင့္ထဲသုိ႔၀င္ရန္ အၾကိမ္မ်ားစြာက်ဳိးစားခဲ့ျပီးမေအာင္ျမင္ သည့္အတြက္ ဤအေကာင့္ကုိယာယီပိတ္ဆုိ႔ရပ္ဆုိင္းထားသည္",
+    "description": "ဤအေကာင့္ထဲသုိ႔၀င္ရန္ အၾကိမ္မ်ားစြာက်ဳိးစားခဲ့ျပီးမေအာင္ျမင္ သည့္အတြက္ ဤအေကာင့္ကုိယာယီပိတ္ဆုိ႔ရပ္ဆုိင္းထားသည္"
   },
   "login_error_network_not_available": {
-    "message": "ဆာဗာကုိဆက္သြယ္၍မရပါ၊ အင္တာနက္လုိင္းကုိျပန္စစ္ျပီး ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ဆာဗာကုိဆက္သြယ္၍မရပါ၊ အင္တာနက္လုိင္းကုိျပန္စစ္ျပီး ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရး လုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ",
+    "description": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္ဆက္သြယ္ေရး လုိင္းကုိျပန္စစ္ျပီးျပန္က်ုဳိးစားပါ"
+  },
+  "login_example_name": {
+    "message": "jsmith@mail.com",
+    "description": "jsmith@mail.com"
+  },
+  "login_forgot_password": {
+    "message": "လႈိ႔၀ွက္နံပါတ္ကုိေမ့သြားသလား?",
+    "description": "လႈိ႔၀ွက္နံပါတ္ကုိေမ့သြားသလား?"
+  },
+  "login_name": {
+    "message": "အေကာင့္",
+    "description": "အေကာင့္"
+  },
+  "login_password": {
+    "message": "လႈိ႔၀ွက္နံပါတ္",
+    "description": "လႈိ႔၀ွက္နံပါတ္"
+  },
+  "login_remember_id": {
+    "message": "ကြ်ႏု္ပ္အေကာင့္ကုိမွတ္ထားပါ",
+    "description": "ကြ်ႏု္ပ္အေကာင့္ကုိမွတ္ထားပါ"
   },
   "login_resend_email_success": {
-    "message": "ဤအီးေမးလ္  %1$s သုိ႔ အီးေမးလ္စတင္အသုံးျပဳႏုိင္ရန္လင့္ပုိ႔လုိက္သည္၊     သင့္အီးေမးလ္ကုိစစ္ျပီးလ်ွင္ညြန္ၾကားခ်က္မ်ားအတုိင္းသင့္အိီးေမးလ္ အလုပ္လုပ္ရန္ျပဳလုပ္ပါ",
-    "description": "ဤအီးေမးလ္  %1$s သုိ႔ အီးေမးလ္စတင္အသုံးျပဳႏုိင္ရန္လင့္ပုိ႔လုိက္သည္၊     သင့္အီးေမးလ္ကုိစစ္ျပီးလ်ွင္ညြန္ၾကားခ်က္မ်ားအတုိင္းသင့္အိီးေမးလ္ အလုပ္လုပ္ရန္ျပဳလုပ္ပါ"
+    "message": "ဤအီးေမးလ္  %1$s သုိ႔ အီးေမးလ္စတင္အသုံးျပဳႏုိင္ရန္လင့္ပုိ႔လုိက္သည္၊ သင့္အီးေမးလ္ကုိစစ္ျပီးလ်ွင္ညြန္ၾကားခ်က္မ်ားအတုိင္းသင့္အိီးေမးလ္အလုပ္လုပ္ရန္ျပဳလုပ္ပါ",
+    "description": "ဤအီးေမးလ္  %1$s သုိ႔ အီးေမးလ္စတင္အသုံးျပဳႏုိင္ရန္လင့္ပုိ႔လုိက္သည္၊ သင့္အီးေမးလ္ကုိစစ္ျပီးလ်ွင္ညြန္ၾကားခ်က္မ်ားအတုိင္းသင့္အိီးေမးလ္အလုပ္လုပ္ရန္ျပဳလုပ္ပါ"
+  },
+  "login_signup_title": {
+    "message": "စာရင္းသြင္းပါ",
+    "description": "စာရင္းသြင္းပါ"
   },
   "main_tabs_district_list": {
-    "message": "ျမိဳ ႔နယ္မ်ား",
-    "description": "ျမိဳ ႔နယ္မ်ား"
+    "message": "ျမိဳ ႔နယ္",
+    "description": "ျမိဳ ႔နယ္"
   },
   "main_tabs_home": {
     "message": "အိမ္",
     "description": "အိမ္"
   },
   "main_tabs_setting": {
-    "message": "ေနရာမ်ား",
-    "description": "ေနရာမ်ား"
-  },
-  "main_tabs_student_list": {
-    "message": "ေက်ာင္းသားမ်ား",
-    "description": "ေက်ာင္းသားမ်ား"
+    "message": "ေနရာအခင္းအက်င္းမ်ား",
+    "description": "ေနရာအခင္းအက်င္းမ်ား"
   },
   "main_tabs_where_my_bus": {
-    "message": "ဘတ္စ္",
-    "description": "ဘတ္စ္"
+    "message": "ကြ်ႏု္ပ္၏ဘတ္စ္ကားမ်ား",
+    "description": "ကြ်ႏု္ပ္၏ဘတ္စ္ကားမ်ား"
   },
   "message_alert_zones_migrate_loading": {
-    "message": "ေနရာေျပာင္းေရြ ႔ျခင္းလုပ္ေနဆဲျဖစ္သည္",
-    "description": "ေနရာေျပာင္းေရြ ႔ျခင္းလုပ္ေနဆဲျဖစ္သည္"
+    "message": "သတ္ိေပးဇုံေျပာင္းေရႊ ႔ေနသည္",
+    "description": "သတ္ိေပးဇုံေျပာင္းေရႊ ႔ေနသည္"
   },
   "message_empty_scan_history": {
-    "message": "%1$s သည္ယေန႔ စကင္မလုပ္ပါ",
-    "description": "%1$s သည္ယေန႔ စကင္မလုပ္ပါ"
+    "message": "%1$s သည္ ယေန႔ စကင္မလုပ္ေသးပါ",
+    "description": "%1$s သည္ ယေန႔ စကင္မလုပ္ေသးပါ"
   },
   "message_empty_vehicle": {
     "message": "ကားမ်ားကုိမေတြ႔ပါ",
     "description": "ကားမ်ားကုိမေတြ႔ပါ"
   },
+  "message_new_version_force": {
+    "message": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ အက္ပ္(App)အသစ္ျဖင့္ ဆက္လုပ္ရန္အေၾကာင္းအရာသစ္မ်ားထဲ့ပါ",
+    "description": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ အက္ပ္(App)အသစ္ျဖင့္ ဆက္လုပ္ရန္အေၾကာင္းအရာသစ္မ်ားထဲ့ပါ"
+  },
+  "message_new_version_optional": {
+    "message": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ အက္ပ္(App)ကုိအသစ္လုုပ္ျပီး ရွိျပီးေသာ ပုံစံအသစ္မ်ားျဖင့္၀င္ေရာက္ပါ!",
+    "description": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ အက္ပ္(App)ကုိအသစ္လုုပ္ျပီး ရွိျပီးေသာ ပုံစံအသစ္မ်ားျဖင့္၀င္ေရာက္ပါ!"
+  },
   "message_required_dob": {
-    "message": "ေမြးေန႔ထဲ့ရန္လုိသည္",
-    "description": "ေမြးေန႔ထဲ့ရန္လုိသည္"
+    "message": "ေမြးေန႔လုိသည္",
+    "description": "ေမြးေန႔လုိသည္"
   },
   "message_required_email": {
-    "message": "အီးေမးလ္ထဲ့ရန္ုလုိသည္",
-    "description": "အီးေမးလ္ထဲ့ရန္ုလုိသည္"
+    "message": "အီးေမးလ္လုိသည္",
+    "description": "အီးေမးလ္လုိသည္"
   },
   "message_required_first_name": {
-    "message": "ပထမအမည္ထဲ့ရန္လုိသည္",
-    "description": "ပထမအမည္ထဲ့ရန္လုိသည္"
+    "message": "ေက်ာင္းသား၏ပထမအမည္လုိသည္",
+    "description": "ေက်ာင္းသား၏ပထမအမည္လုိသည္"
   },
   "message_required_gender": {
-    "message": "က်ား/မ ထဲ့ရန္လုိသည္",
-    "description": "က်ား/မ ထဲ့ရန္လုိသည္"
+    "message": "က်ား/မလုိသည္",
+    "description": "က်ား/မလုိသည္"
   },
   "message_required_last_name": {
-    "message": "ေနာက္ဆုံးအမည္ထဲ့ရန္လုိသည္",
-    "description": "ေနာက္ဆုံးအမည္ထဲ့ရန္လုိသည္"
+    "message": "ေက်ာင္းသား၏ေနာက္ဆုံးအမည္လုိသည္",
+    "description": "ေက်ာင္းသား၏ေနာက္ဆုံးအမည္လုိသည္"
   },
   "message_required_password": {
-    "message": "လႈိ႔၀ွက္နံပါတ္ထဲ့ရန္လုိသည္",
-    "description": "လႈိ႔၀ွက္နံပါတ္ထဲ့ရန္လုိသည္"
+    "message": "လႈိ႔၀ွက္နံပါတ္လုိသည္",
+    "description": "လႈိ႔၀ွက္နံပါတ္လုိသည္"
   },
   "message_student_loading": {
     "message": "ေက်ာင္းသားမ်ားကုိတင္ေနသည္",
     "description": "ေက်ာင္းသားမ်ားကုိတင္ေနသည္"
   },
+  "message_transportation_details_loading": {
+    "message": "တင္ေနသည္",
+    "description": "တင္ေနသည္"
+  },
+  "message_transportation_loading": {
+    "message": "ေက်ာင္းဘတ္စ္ကားအေၾကာင္းအရာမ်ားကုိတင္ေနသည္",
+    "description": "ေက်ာင္းဘတ္စ္ကားအေၾကာင္းအရာမ်ားကုိတင္ေနသည္"
+  },
   "message_vehicles_loading": {
     "message": "ကားမ်ားကုိတင္ေနသည္",
     "description": "ကားမ်ားကုိတင္ေနသည္"
   },
-  "navigation_student_list": {
-    "message": "ေက်ာင္းသား",
-    "description": "ေက်ာင္းသား"
+  "message_warning_compare_date_from_date_to": {
+    "message": "မွေန႔စြဲ သည္ သုိ႔ေန႔စြဲမတုိင္ခင္လာရမည္",
+    "description": "မွေန႔စြဲ သည္ သုိ႔ေန႔စြဲမတုိင္ခင္လာရမည္"
   },
-  "notificaiton_vehicle_dialog_body": {
-    "message": " %1$s သည္   %2$s သုိ႔ ၀င္လာသည္",
-    "description": " %1$s သည္   %2$s သုိ႔ ၀င္လာသည္"
+  "my_child_display_text_when_0_minute_incoming": {
+    "message": "အခုေရာက္ေတာ့မည္",
+    "description": "အခုေရာက္ေတာ့မည္"
   },
-  "notification_alert_zone_title": {
+  "name": {
+    "message": "အမည္",
+    "description": "အမည္"
+  },
+  "nav_check_for_update": {
+    "message": "အေၾကာင္းအရာသစ္မ်ားကုိစစ္ၾကည့္ပါ",
+    "description": "အေၾကာင္းအရာသစ္မ်ားကုိစစ္ၾကည့္ပါ"
+  },
+  "navigation_home": {
+    "message": "အိမ္",
+    "description": "အိမ္"
+  },
+  "navigation_my_bus": {
+    "message": "ဘတ္စ္",
+    "description": "ဘတ္စ္"
+  },
+  "navigation_notification": {
+    "message": "အသိေပးခ်က္မ်ား",
+    "description": "အသိေပးခ်က္မ်ား"
+  },
+  "navigation_setting": {
+    "message": "ေနရာမ်ား",
+    "description": "ေနရာမ်ား"
+  },
+  "navigation_setting_enable": {
+    "message": "အသိေပးခ်က္မ်ားလုပ္ႏုိင္သည္",
+    "description": "အသိေပးခ်က္မ်ားလုပ္ႏုိင္သည္"
+  },
+  "navigation_setting_scan_history_notification": {
+    "message": "စကင္လုပ္သည့္အသိေပးခ်က္မ်ား",
+    "description": "စကင္လုပ္သည့္အသိေပးခ်က္မ်ား"
+  },
+  "navigation_setting_trip_notification": {
     "message": "သတိေပးဇုံမ်ား",
     "description": "သတိေပးဇုံမ်ား"
   },
+  "navigation_student_list": {
+    "message": "ေက်ာင္းသားစာရင္း",
+    "description": "ေက်ာင္းသားစာရင္း"
+  },
+  "navigation_transportation_list": {
+    "message": "ေတာင္းျခင္း",
+    "description": "ေတာင္းျခင္း"
+  },
+  "navigation_your_bus_arriving": {
+    "message": "%1$s's ၏   %3$s ခရီးစဥ္အတြက္ ဘတ္စ္ကားနံပါတ္ %2$s ေရာက္ေတာ့မည္",
+    "description": "%1$s's ၏   %3$s ခရီးစဥ္အတြက္ ဘတ္စ္ကားနံပါတ္ %2$s ေရာက္ေတာ့မည္"
+  },
+  "no_child_on_bus": {
+    "message": "ယေန႔မည္သည့္ေက်ာင္းသားကုိမွ ၾကိဳ/ပုိ႔ရန္ အခ်ိန္ဇယားမရွိပါ",
+    "description": "ယေန႔မည္သည့္ေက်ာင္းသားကုိမွ ၾကိဳ/ပုိ႔ရန္ အခ်ိန္ဇယားမရွိပါ"
+  },
+  "no_schedule_add_request": {
+    "message": "ေက်ာင္းဘတ္စ္ကားေတာင္းသည္",
+    "description": "ေက်ာင္းဘတ္စ္ကားေတာင္းသည္"
+  },
+  "no_schedule_here": {
+    "message": "အခ်ိန္ဇယားမရွိပါ",
+    "description": "အခ်ိန္ဇယားမရွိပါ"
+  },
+  "no_schedule_not_assigned": {
+    "message": "သင့္ကေလးအတြက္မည္သည့္ေက်ာင္းကားကုိမွသတ္မွတ္ေပးထားျခင္းမရွိပါ၊ မၾကာခဏဤသုိ႔ေပၚလာမည္၊..ေက်ာင္းကား၀န္ေဆာင္မႈရွိေသာ္လဲ ၀က္ဆုိက္လုိင္းက်ေန၍ျဖစ္သည္၊ ကြ်ႏု္ပ္တုိ႔အထဲသုိ႔၀င္ၾကည့္ရန္လုိသည္",
+    "description": "သင့္ကေလးအတြက္မည္သည့္ေက်ာင္းကားကုိမွသတ္မွတ္ေပးထားျခင္းမရွိပါ၊ မၾကာခဏဤသုိ႔ေပၚလာမည္၊..ေက်ာင္းကား၀န္ေဆာင္မႈရွိေသာ္လဲ ၀က္ဆုိက္လုိင္းက်ေန၍ျဖစ္သည္၊ ကြ်ႏု္ပ္တုိ႔အထဲသုိ႔၀င္ၾကည့္ရန္လုိသည္"
+  },
+  "notificaiton_vehicle_alert_body": {
+    "message": "ဘတ္စ္ကားနံပါတ္  %1$s  သည္  %2$s  သုိ႔၀င္လာသည္",
+    "description": "ဘတ္စ္ကားနံပါတ္  %1$s  သည္  %2$s  သုိ႔၀င္လာသည္"
+  },
+  "notification_channel_id": {
+    "message": "ဒါကုိျဖည့္ရန္လုိသလား?",
+    "description": "ဒါကုိျဖည့္ရန္လုိသလား?"
+  },
   "notification_dialog_back_to_home": {
-    "message": "အိမ္သုိ႔ျပန္သြားသည္",
-    "description": "အိမ္သုိ႔ျပန္သြားသည္"
+    "message": "အိမ္သုိ႔ုျပန္သည္",
+    "description": "အိမ္သုိ႔ုျပန္သည္"
   },
   "notification_dialog_title": {
     "message": "အသိေပးခ်က္",
@@ -836,156 +1208,364 @@
     "description": "အသိေပးခ်က္"
   },
   "notification_message_bus_entering_geofence": {
-    "message": "ဘတ္စ္ကား  %1$s  သည္  %1$s သုိ႔ ၀င္လာသည္",
-    "description": "ဘတ္စ္ကား  %1$s  သည္  %1$s သုိ႔ ၀င္လာသည္"
+    "message": "ဘတ္စ္ကားနံပါတ္ %1$ သည္ %2$s သုိ႔၀င္လာသည္",
+    "description": "ဘတ္စ္ကားနံပါတ္ %1$ သည္ %2$s သုိ႔၀င္လာသည္"
   },
   "notification_message_bus_entering_geofence_html": {
-    "message": "၀င္လာခဲ့သည္",
-    "description": "၀င္လာခဲ့သည္"
+    "message": "",
+    "description": ""
+  },
+  "notification_setting_alert_message_turn_off": {
+    "message": "",
+    "description": ""
+  },
+  "notification_setting_alert_message_turn_on": {
+    "message": "",
+    "description": ""
+  },
+  "notification_setting_alert_title_turn_off": {
+    "message": "အသိေပးခ်က္မ်ားမရပါ",
+    "description": "အသိေပးခ်က္မ်ားမရပါ"
+  },
+  "notification_setting_alert_title_turn_on": {
+    "message": "အသိေပးခ်က္မ်ားျပဳလုပ္သည္",
+    "description": "အသိေပးခ်က္မ်ားျပဳလုပ္သည္"
+  },
+  "notification_setting_enable": {
+    "message": "အသိေပးျခင္းမ်ားလုပ္သည္",
+    "description": "အသိေပးျခင္းမ်ားလုပ္သည္"
+  },
+  "notification_setting_from_school_trip": {
+    "message": "ေက်ာင္းမွ",
+    "description": "ေက်ာင္းမွ"
   },
   "notification_setting_scan": {
-    "message": "စကင္လုပ္ျခင္းကုိအသိေပးသည္",
-    "description": "စကင္လုပ္ျခင္းကုိအသိေပးသည္"
+    "message": "စကင္လုပ္ေသာအသိေပးခ်က္မ်ား",
+    "description": "စကင္လုပ္ေသာအသိေပးခ်က္မ်ား"
+  },
+  "notification_setting_title": {
+    "message": "အသိေပးခ်က္အခင္းအက်င္းမ်ား",
+    "description": "အသိေပးခ်က္အခင္းအက်င္းမ်ား"
+  },
+  "notification_setting_to_school_trip": {
+    "message": "ေက်ာင္းသုိ႔",
+    "description": "ေက်ာင္းသုိ႔"
+  },
+  "notification_setting_vehicle": {
+    "message": "ဘတ္စ္ကား အသိေပးခ်က္မ်ား",
+    "description": "ဘတ္စ္ကား အသိေပးခ်က္မ်ား"
+  },
+  "notification_settings": {
+    "message": "အသိေပးခ်က္အခင္းအက်င္းမ်ား",
+    "description": "အသိေပးခ်က္အခင္းအက်င္းမ်ား"
+  },
+  "notification_settings_email": {
+    "message": "အီးေမးလ္",
+    "description": "အီးေမးလ္"
   },
   "notification_settings_enable": {
-    "message": "အသိေပးျခင္းလုပ္ႏုိင္သည္",
-    "description": "အသိေပးျခင္းလုပ္ႏုိင္သည္"
+    "message": "အသိေပးျခင္းမ်ားလုပ္သည္",
+    "description": "အသိေပးျခင္းမ်ားလုပ္သည္"
+  },
+  "notification_settings_robotcalls": {
+    "message": "အသံျဖင့္ အသိေပးျခင္းမ်ား",
+    "description": "အသံျဖင့္ အသိေပးျခင္းမ်ား"
   },
   "notification_settings_scan_notification_alert": {
-    "message": "ေအာက္တြင္ေက်ာင္းသားမ်ား တဦးခ်င္း စကင္လုပ္ျပီးအသိေပးသည္ကုိ သင္သည္လုပ္ႏုိင္သည္/မလုပ္ႏုိင္ပါ",
-    "description": "ေအာက္တြင္ေက်ာင္းသားမ်ား တဦးခ်င္း စကင္လုပ္ျပီးအသိေပးသည္ကုိ သင္သည္လုပ္ႏုိင္သည္/မလုပ္ႏုိင္ပါ"
+    "message": "ေအာက္ပါေက်ာင္းသားတဦးခ်င္းစီအတြက္အသိေပးခ်က္မ်ားကုိ သင္လက္ခံျခင္း/လက္မခံျခင္းကုိျပဳလုပ္ႏုိင္သည္",
+    "description": "ေအာက္ပါေက်ာင္းသားတဦးခ်င္းစီအတြက္အသိေပးခ်က္မ်ားကုိ သင္လက္ခံျခင္း/လက္မခံျခင္းကုိျပဳလုပ္ႏုိင္သည္"
   },
-  "notification_settings_subscription_enable": {
-    "message": "လက္ခံျခင္းမ်ားကုိလုပ္ႏုိင္သည္",
-    "description": "လက္ခံျခင္းမ်ားကုိလုပ္ႏုိင္သည္"
+  "notification_settings_scan_notification_label": {
+    "message": "စကင္လုပ္ေသာအသိေပးခ်က္မ်ား",
+    "description": "စကင္လုပ္ေသာအသိေပးခ်က္မ်ား"
+  },
+  "notification_settings_sms": {
+    "message": "အက္စ္အင္အက္စ္",
+    "description": "အက္စ္အင္အက္စ္"
+  },
+  "notification_settings_trip_notification": {
+    "message": "ခရီးစဥ္သတိေပးဇုံသတိေပးခ်က္မ်ား",
+    "description": "ခရီးစဥ္သတိေပးဇုံသတိေပးခ်က္မ်ား"
+  },
+  "notification_settings_trip_notification_item": {
+    "message": "%1$s's  ၏  ခရီးစဥ္   %2$s ",
+    "description": "%1$s's  ၏  ခရီးစဥ္   %2$s "
   },
   "notification_settings_vehicle_notification": {
-    "message": "ေက်ာင္းဘတ္စ္ကားအသိေပးခ်က္",
-    "description": "ေက်ာင္းဘတ္စ္ကားအသိေပးခ်က္"
+    "message": "ဘတ္စ္ကား အသိေပးခ်က္မ်ား",
+    "description": "ဘတ္စ္ကား အသိေပးခ်က္မ်ား"
   },
   "notification_title": {
     "message": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္",
     "description": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္"
   },
+  "notification_vehicle_alert_title": {
+    "message": "မိဘ၀က္ဆုိက္ အသိေပးခ်က္",
+    "description": "မိဘ၀က္ဆုိက္ အသိေပးခ်က္"
+  },
   "notification_vehicle_is_disable_message": {
-    "message": "ကားမ်ားမရႏုိင္ေၾကာင္းအသိေပးခ်က္",
-    "description": "ကားမ်ားမရႏုိင္ေၾကာင္းအသိေပးခ်က္"
+    "message": "ဤကားအတြက္အသိေပးခ်က္မ်ားခြင့္မျပဳပါ",
+    "description": "ဤကားအတြက္အသိေပးခ်က္မ်ားခြင့္မျပဳပါ"
   },
   "notification_vehicle_is_enable_message": {
-    "message": "ကားမ်ားရႏုိင္ေၾကာင္းအသိေပးခ်က္",
-    "description": "ကားမ်ားရႏုိင္ေၾကာင္းအသိေပးခ်က္"
+    "message": "ဤကားအတြက္အသိေပးခ်က္မ်ားခြင့္ျပဳသည္",
+    "description": "ဤကားအတြက္အသိေပးခ်က္မ်ားခြင့္ျပဳသည္"
   },
   "notification_vehicle_list_empty_followed_vehicle": {
-    "message": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ",
-    "description": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ"
+    "message": "သင္သည္ယခုမည္သည့္ကားမ်ားေနာက္ကိုမွမလုိက္ပါ",
+    "description": "သင္သည္ယခုမည္သည့္ကားမ်ားေနာက္ကိုမွမလုိက္ပါ"
   },
   "notification_vehicle_list_empty_vehicle_has_geofence": {
-    "message": "သင္သည္သတိေပးဇုံမ်ားကုိမထဲ့ရေသးပါ",
-    "description": "သင္သည္သတိေပးဇုံမ်ားကုိမထဲ့ရေသးပါ"
+    "message": "အသိေပးဇုံမ်ားကုိေဆာင္ရြက္ႏုိင္ျခင္းမရွိပါ",
+    "description": "အသိေပးဇုံမ်ားကုိေဆာင္ရြက္ႏုိင္ျခင္းမရွိပါ"
   },
   "notification_vehicles_title": {
-    "message": "သတိေပးခ်က္မ်ား",
-    "description": "သတိေပးခ်က္မ်ား"
+    "message": "အသိေပးခ်က္မ်ား",
+    "description": "အသိေပးခ်က္မ်ား"
   },
   "notify_title": {
-    "message": "သတိေပးခ်က္မ်ားခ်မွတ္ျခင္းမ်ား",
-    "description": "သတိေပးခ်က္မ်ားခ်မွတ္ျခင္းမ်ား"
+    "message": "အသိေပးခ်က္အခင္းအက်င္းမ်ား",
+    "description": "အသိေပးခ်က္အခင္းအက်င္းမ်ား"
   },
-  "out_of_time_window_message": {
-    "message": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ",
-    "description": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ"
+  "notoficaiton_from_school_dropoff": {
+    "message": "ေက်ာင္းမွအျပန္ ခ်ေပးသည္",
+    "description": "ေက်ာင္းမွအျပန္ ခ်ေပးသည္"
+  },
+  "notoficaiton_to_school_pickup": {
+    "message": "ေက်ာင္းသုိ႔အသြားၾကိဳသည္",
+    "description": "ေက်ာင္းသုိ႔အသြားၾကိဳသည္"
+  },
+  "pick_image_intent_text": {
+    "message": "ပုံရိပ္မ်ားကုိေရြးပါ",
+    "description": "ပုံရိပ္မ်ားကုိေရြးပါ"
+  },
+  "PP:HOME": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:HOME:TD": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:HOME:WMB": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:SSN": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:SSN:STL": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:AS": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:RS": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:SH": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:TDN": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:TSC": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:WMB": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:ST:WMC": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:STN": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:TR": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:TR:CTR": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:TR:CTRST": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "PP:WMB": {
+    "message": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ",
+    "description": "ဤေနရာတြင္ပုံမ်ားမျမင္ႏုိင္ပါ"
+  },
+  "received": {
+    "message": "ရရွိသည္",
+    "description": "ရရွိသည္"
+  },
+  "regex_error_email_violated_format": {
+    "message": "အိီးေမးလ္လိပ္စာမမွန္ပါ",
+    "description": "အိီးေမးလ္လိပ္စာမမွန္ပါ"
   },
   "regex_error_password_violated_rule": {
-    "message": "လႈိ႔၀ွက္နံပါတ္သည္ (၈)လုံးျဖစ္ရမည္၊ စာလုံးၾကီး၊စာလုံးငယ္၊ နံပါတ္တခုွႏွင့္ အထူးသင္ေကတ တခုပါရမည္",
-    "description": "လႈိ႔၀ွက္နံပါတ္သည္ (၈)လုံးျဖစ္ရမည္၊ စာလုံးၾကီး၊စာလုံးငယ္၊ နံပါတ္တခုွႏွင့္ အထူးသင္ေကတ တခုပါရမည္"
+    "message": "လႈိ႔၀ွက္နံပါတ္မွာ (၈)လုံးရွိရမည္၊ စာလုံးအၾကီးတခု၊စာလုံးအေသးတခုႏွင့္ ဂဏန္းတခုပါရမည္",
+    "description": "လႈိ႔၀ွက္နံပါတ္မွာ (၈)လုံးရွိရမည္၊ စာလုံးအၾကီးတခု၊စာလုံးအေသးတခုႏွင့္ ဂဏန္းတခုပါရမည္"
   },
-  "registration_code_expiration_date": {
-    "message": "ရက္လြန္ေန႔စြဲ - %1$s",
-    "description": "ရက္လြန္ေန႔စြဲ - %1$s"
-  },
-  "registration_code_expired_message": {
-    "message": "ကုဒ္နံပါတ္ %1$s သည္ရက္လြန္ေနသည္၊ ကုဒ္အသစ္ရရန္ေက်ာင္းအုပ္ခ်ဳပ္ေရးသုိ႔ဆက္သြယ္ပါ",
-    "description": "ကုဒ္နံပါတ္ %1$s သည္ရက္လြန္ေနသည္၊ ကုဒ္အသစ္ရရန္ေက်ာင္းအုပ္ခ်ဳပ္ေရးသုိ႔ဆက္သြယ္ပါ"
-  },
-  "registration_code_required": {
-    "message": "စာရင္းသြင္းကုဒ္လုိသည္",
-    "description": "စာရင္းသြင္းကုဒ္လုိသည္"
-  },
-  "registration_code_status_expired": {
-    "message": "ရက္လြန္သည္",
-    "description": "ရက္လြန္သည္"
-  },
-  "registration_code_status_revoked": {
-    "message": "ဖ်က္သိမ္းသည္",
-    "description": "ဖ်က္သိမ္းသည္"
-  },
-  "registration_code_vehicle_notification": {
-    "message": "ကုဒ္နံပါတ္ %1$s",
-    "description": "ကုဒ္နံပါတ္ %1$s"
+  "rejected": {
+    "message": "ျငင္းပယ္သည္",
+    "description": "ျငင္းပယ္သည္"
   },
   "request_server_error": {
     "message": "ဆာဗာကုိဆက္သြယ္၍မရပါ၊ အင္တာနက္လုိင္းကုိျပန္စစ္ျပီး ထပ္က်ဳိးစားၾကည့္ပါ",
     "description": "ဆာဗာကုိဆက္သြယ္၍မရပါ၊ အင္တာနက္လုိင္းကုိျပန္စစ္ျပီး ထပ္က်ဳိးစားၾကည့္ပါ"
   },
-  "required_dob": {
-    "message": "ေမြးေန႔ထဲ့ရန္လုိသည္",
-    "description": "ေမြးေန႔ထဲ့ရန္လုိသည္"
+  "required_address": {
+    "message": "အိမ္လိပ္စာလုိသည္",
+    "description": "အိမ္လိပ္စာလုိသည္"
+  },
+  "required_email": {
+    "message": "အီးေမးလ္လုိသည္",
+    "description": "အီးေမးလ္လုိသည္"
   },
   "required_first_name": {
     "message": "ပထမအမည္လုိသည္",
     "description": "ပထမအမည္လုိသည္"
   },
+  "required_gender": {
+    "message": "က်ား/မ လုိသည္",
+    "description": "က်ား/မ လုိသည္"
+  },
   "required_last_name": {
     "message": "ေနာက္ဆုံးအမည္လုိသည္",
     "description": "ေနာက္ဆုံးအမည္လုိသည္"
   },
+  "required_password": {
+    "message": "လႈိ႔၀ွက္နံပါတ္လုိသည္",
+    "description": "လႈိ႔၀ွက္နံပါတ္လုိသည္"
+  },
+  "required_school": {
+    "message": "ေက်ာင္းအမည္လုိသည္",
+    "description": "ေက်ာင္းအမည္လုိသည္"
+  },
+  "required_selected_date": {
+    "message": "စတင္မည့္ရက္လုိသည္",
+    "description": "စတင္မည့္ရက္လုိသည္"
+  },
+  "required_selected_repeat_day": {
+    "message": "တပတ္အတြင္းရက္လုိအပ္သည္",
+    "description": "တပတ္အတြင္းရက္လုိအပ္သည္"
+  },
+  "required_student": {
+    "message": "ေက်ာင္သားတဦးကုိေရြးပါ",
+    "description": "ေက်ာင္သားတဦးကုိေရြးပါ"
+  },
   "required_student_district_id": {
-    "message": "ေက်ာင္းသား၏ျမိဳ ႔နယ္အုိင္ဒီလုိသည္",
-    "description": "ေက်ာင္းသား၏ျမိဳ ႔နယ္အုိင္ဒီလုိသည္"
+    "message": "ေက်ာင္းသား၏ ျမိဳ ႔နယ္",
+    "description": "ေက်ာင္းသား၏ ျမိဳ ႔နယ္"
   },
-  "required_tenant": {
-    "message": "ေက်ာင္း၏ျမဳိ ႔နယ္လုိသည္",
-    "description": "ေက်ာင္း၏ျမဳိ ႔နယ္လုိသည္"
+  "required_trip_type": {
+    "message": "ခရီးစဥ္အမ်ဳိးအစားလုိသည္",
+    "description": "ခရီးစဥ္အမ်ဳိးအစားလုိသည္"
   },
-  "scan_event_title": {
-    "message": "အခမ္းအနား",
-    "description": "အခမ္းအနား"
+  "reveiew_transportation_request_apply": {
+    "message": "စတင္လုိသည့္ေန႔စြဲလုိသည္",
+    "description": "စတင္လုိသည့္ေန႔စြဲလုိသည္"
+  },
+  "review_schedule_desired_schedule_address": {
+    "message": "လိပ္စာ",
+    "description": "လိပ္စာ"
+  },
+  "ride_registration_details_cancel": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_cancel_confirm": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_date_time": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_data": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_operative_in_progress": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_operative_received": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_operative_rejected": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_operative_status_approved": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_no_operative_tentatively_approved": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_schedule": {
+    "message": "",
+    "description": ""
+  },
+  "ride_registration_details_title": {
+    "message": "",
+    "description": ""
   },
   "scan_history_card_scan_disembarked": {
-    "message": "%1$s   ေနရာတြင္ ခ်ေပး/ဆင္းသည္",
-    "description": "%1$s   ေနရာတြင္ ခ်ေပး/ဆင္းသည္"
+    "message": "%1$s တြင္ ခ်ခဲ့သည္/ပို႔ခဲ့သည္",
+    "description": "%1$s တြင္ ခ်ခဲ့သည္/ပို႔ခဲ့သည္"
   },
   "scan_history_card_scan_disembarked_driver": {
-    "message": "%1$s   ေနရာတြင္ ဘတ္စ္ကားေမာင္းသူက ခ်ေပး/ဆင္းသည္",
-    "description": "%1$s   ေနရာတြင္ ဘတ္စ္ကားေမာင္းသူက ခ်ေပး/ဆင္းသည္"
+    "message": "%1$s တြင္ ဒရုိက္ဘာက ခ်ခဲ့သည္/ပို႔ခဲ့သည္",
+    "description": "%1$s တြင္ ဒရုိက္ဘာက ခ်ခဲ့သည္/ပို႔ခဲ့သည္"
   },
   "scan_history_card_scan_embarked": {
-    "message": "%1$s တြင္ တင္သည္/တက္သည္",
-    "description": "%1$s တြင္ တင္သည္/တက္သည္"
+    "message": "%1$s  တြင္ၾကိဳခဲ့သည္",
+    "description": "%1$s  တြင္ၾကိဳခဲ့သည္"
   },
   "scan_history_card_scan_embarked_driver": {
-    "message": "%1$s တြင္ ဘတ္စ္ကားေမာင္းသူက တင္သည္/ တက္သည္",
-    "description": "%1$s တြင္ ဘတ္စ္ကားေမာင္းသူက တင္သည္/ တက္သည္"
+    "message": "%1$s တြင္ ဒရုိက္ဘာက ၾကိဳခဲ့သည္",
+    "description": "%1$s တြင္ ဒရုိက္ဘာက ၾကိဳခဲ့သည္"
   },
   "scan_history_card_scan_without_type": {
-    "message": "%1$s တြင္ ကဒ္ကုိစကင္လုပ္သည္",
-    "description": "%1$s တြင္ ကဒ္ကုိစကင္လုပ္သည္"
-  },
-  "scan_history_filter_7days": {
-    "message": "(၇) ရက္မ်ား",
-    "description": "(၇) ရက္မ်ား"
+    "message": "ကဒ္ကုိ %1$s တြင္ စကင္လုပ္သည္",
+    "description": "ကဒ္ကုိ %1$s တြင္ စကင္လုပ္သည္"
   },
   "scan_history_filter_30days": {
     "message": "(၃၀) ရက္မ်ား",
     "description": "(၃၀) ရက္မ်ား"
+  },
+  "scan_history_filter_7days": {
+    "message": "၇-ရက္မ်ား",
+    "description": "၇-ရက္မ်ား"
   },
   "scan_history_filter_clear": {
     "message": "ရွင္းသည္",
     "description": "ရွင္းသည္"
   },
   "scan_history_filter_select_day": {
-    "message": "ေန႔စြဲမ်ားေရြးပါ",
-    "description": "ေန႔စြဲမ်ားေရြးပါ"
+    "message": "ရေွးထား",
+    "description": "ရေွးထား"
   },
   "scan_history_filter_select_day_from": {
     "message": "မွ",
@@ -1003,13 +1583,9 @@
     "message": "အခ်ိန္မွ",
     "description": "အခ်ိန္မွ"
   },
-  "scan_history_notification_message_empty": {
-    "message": "ယခင္က စကင္လုပ္ထားသည့္မွတ္တမ္းမရွိပါ",
-    "description": "ယခင္က စကင္လုပ္ထားသည့္မွတ္တမ္းမရွိပါ"
-  },
   "scan_history_search_place_holder": {
-    "message": "ကားမ်ားကုိရွာသည္",
-    "description": "ကားမ်ားကုိရွာသည္"
+    "message": "ကားရွာသည္",
+    "description": "ကားရွာသည္"
   },
   "scan_history_to_time": {
     "message": "အခ်ိန္သုိ႔",
@@ -1024,12 +1600,108 @@
     "description": "မေန႔က"
   },
   "scan_notification_setting_empty_view": {
-    "message": "%1$s သည္ ယေန႔ စကင္မလုပ္ရေသးပါ",
-    "description": "%1$s သည္ ယေန႔ စကင္မလုပ္ရေသးပါ"
+    "message": "စကင္လုပ္သည့္အသိေပးခ်က္အေၾကာင္းအရာမ်ားမရွိပါ",
+    "description": "စကင္လုပ္သည့္အသိေပးခ်က္အေၾကာင္းအရာမ်ားမရွိပါ"
   },
   "scan_notification_setting_recommend": {
-    "message": "ေအာက္တြင္ေက်ာင္းသားမ်ား တဦးခ်င္း စကင္လုပ္ျပီးအသိေပးသည္ကုိ သင္သည္လုပ္ႏုိင္သည္/မလုပ္ႏုိင္ပါ",
-    "description": "ေအာက္တြင္ေက်ာင္းသားမ်ား တဦးခ်င္း စကင္လုပ္ျပီးအသိေပးသည္ကုိ သင္သည္လုပ္ႏုိင္သည္/မလုပ္ႏုိင္ပါ"
+    "message": "ေအာက္ပါေက်ာင္းသားတဦးခ်င္း၏စကင္လုပ္သည့္အသိေပးခ်က္မ်ားကုိသင္သည္ ခြင့္ျပဳႏုိင္သည္/ခြင့္မျပဳႏုိင္ပါ",
+    "description": "ေအာက္ပါေက်ာင္းသားတဦးခ်င္း၏စကင္လုပ္သည့္အသိေပးခ်က္မ်ားကုိသင္သည္ ခြင့္ျပဳႏုိင္သည္/ခြင့္မျပဳႏုိင္ပါ"
+  },
+  "scan_qr_code_description": {
+    "message": "QRကုဒ္ကုိ ေလးေထာင့္အကြက္အေပၚသုိ႔ေရႊ ႔ပါ",
+    "description": "QRကုဒ္ကုိ ေလးေထာင့္အကြက္အေပၚသုိ႔ေရႊ ႔ပါ"
+  },
+  "scan_qr_code_error_expired": {
+    "message": "QR ကုဒ္မွာရက္လြန္ေနသည္။ ေက်ာင္းအုပ္ခ်ဳပ္ေရးကုိဆက္သြယ္ျပီး QR ကုဒ္အသစ္ယူပါ",
+    "description": "QR ကုဒ္မွာရက္လြန္ေနသည္။ ေက်ာင္းအုပ္ခ်ဳပ္ေရးကုိဆက္သြယ္ျပီး QR ကုဒ္အသစ္ယူပါ"
+  },
+  "scan_qr_code_error_invalid_qr_code": {
+    "message": "QR ကုဒ္မွာရက္လြန္ေနသည္၊ ေနာက္တခုေရြးပါ (သုိ႔)ေက်ာင္းအုပ္ခ်ဳပ္ေရးကုိဆက္သြယ္ျပီး QR ကုဒ္အသစ္ယူပါ",
+    "description": "QR ကုဒ္မွာရက္လြန္ေနသည္၊ ေနာက္တခုေရြးပါ (သုိ႔)ေက်ာင္းအုပ္ခ်ဳပ္ေရးကုိဆက္သြယ္ျပီး QR ကုဒ္အသစ္ယူပါ"
+  },
+  "schedule_type_every_week": {
+    "message": "အပတ္စဥ္",
+    "description": "အပတ္စဥ္"
+  },
+  "schedule_type_specific_date": {
+    "message": "တိက်ေသာေန႔စြဲ",
+    "description": "တိက်ေသာေန႔စြဲ"
+  },
+  "school_no_schools": {
+    "message": "မည္သည့္ေက်ာင္းကုိမွ်မေဖာ္ျပပါ",
+    "description": "မည္သည့္ေက်ာင္းကုိမွ်မေဖာ္ျပပါ"
+  },
+  "search_location_hint": {
+    "message": "တည္ေနရာကုိရွာသည္",
+    "description": "တည္ေနရာကုိရွာသည္"
+  },
+  "search_location_warning_not_found": {
+    "message": "တည္ေနရာကုိမေတြ႔ပါ၊ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "တည္ေနရာကုိမေတြ႔ပါ၊ ေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
+  },
+  "search_school_code_tittle": {
+    "message": "ကုဒ္ %1$s",
+    "description": "ကုဒ္ %1$s"
+  },
+  "search_school_map_arena": {
+    "message": "ဤေနရာကုိရွာပါ",
+    "description": "ဤေနရာကုိရွာပါ"
+  },
+  "search_school_no_result": {
+    "message": " %1$s    ႏွင့္တူေသာေက်ာင္းမေတြ႔ပါ",
+    "description": " %1$s    ႏွင့္တူေသာေက်ာင္းမေတြ႔ပါ"
+  },
+  "select_gender": {
+    "message": "က်ား/မေရြးပါ",
+    "description": "က်ား/မေရြးပါ"
+  },
+  "select_school": {
+    "message": "ေက်ာင္းေရြးပါ",
+    "description": "ေက်ာင္းေရြးပါ"
+  },
+  "select_school_instruction": {
+    "message": "သင့္ေက်ာင္းသား၏ေက်ာင္းကုိအတိအက်ျပရန္ ေက်ာင္းေရြးရမည့္  ေနရာကုိႏွိပ္ပါ",
+    "description": "သင့္ေက်ာင္းသား၏ေက်ာင္းကုိအတိအက်ျပရန္ ေက်ာင္းေရြးရမည့္  ေနရာကုိႏွိပ္ပါ"
+  },
+  "select_school_map_view_title": {
+    "message": "ေက်ာင္းေရြးပါ",
+    "description": "ေက်ာင္းေရြးပါ"
+  },
+  "select_school_no_school": {
+    "message": "%1$s ႏွင့္တူေသာေက်ာင္းမေတြ႔ပါ",
+    "description": "%1$s ႏွင့္တူေသာေက်ာင္းမေတြ႔ပါ"
+  },
+  "select_school_no_schools": {
+    "message": "ဤဧရိယာတြင္မည္သည့္ေက်ာင္းကုိမွမေတြ႔ပါ",
+    "description": "ဤဧရိယာတြင္မည္သည့္ေက်ာင္းကုိမွမေတြ႔ပါ"
+  },
+  "select_school_search_area": {
+    "message": "ဤေနရာကုိရွာပါ",
+    "description": "ဤေနရာကုိရွာပါ"
+  },
+  "select_school_show_list": {
+    "message": "ေက်ာင္းစာရင္း",
+    "description": "ေက်ာင္းစာရင္း"
+  },
+  "select_school_too_many": {
+    "message": "ရွာေဖြျခင္းျဖင့္အေျဖမ်ားစြာ၊ ေသးေသာဧရိယာကုိေရြးပါ",
+    "description": "ရွာေဖြျခင္းျဖင့္အေျဖမ်ားစြာ၊ ေသးေသာဧရိယာကုိေရြးပါ"
+  },
+  "select_school_warning_cancel_selection": {
+    "message": "ေက်ာင္းေရြးခ်ယ္ျခင္းကုိပယ္ဖ်က္ခ်င္တာေသခ်ာသလား?",
+    "description": "ေက်ာင္းေရြးခ်ယ္ျခင္းကုိပယ္ဖ်က္ခ်င္တာေသခ်ာသလား?"
+  },
+  "select_school_warning_select": {
+    "message": "ေရွ ႔ကုိဆက္ရန္ေက်ာင္းေရြးခ်ယ္ပါ",
+    "description": "ေရွ ႔ကုိဆက္ရန္ေက်ာင္းေရြးခ်ယ္ပါ"
+  },
+  "select_student_title": {
+    "message": "ေက်ာင္းသားေရြးပါ",
+    "description": "ေက်ာင္းသားေရြးပါ"
+  },
+  "setting_app_version": {
+    "message": "ပုံစံအသစ္",
+    "description": "ပုံစံအသစ္"
   },
   "setting_language": {
     "message": "ဘာသာစကား",
@@ -1039,13 +1711,33 @@
     "message": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ",
     "description": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ"
   },
-  "settings_check_for_update": {
-    "message": "ေနာက္ဆုံးအေၾကာင္းအရာမ်ားကုိစစ္ေနသည္",
-    "description": "ေနာက္ဆုံးအေၾကာင္းအရာမ်ားကုိစစ္ေနသည္"
+  "settings_checking_update": {
+    "message": "ေနာက္ဆုံးသတင္းအေၾကာင္းအရာမ်ားကုိစစ္ေဆးပါ",
+    "description": "ေနာက္ဆုံးသတင္းအေၾကာင္းအရာမ်ားကုိစစ္ေဆးပါ"
+  },
+  "settings_checking_update_current_message": {
+    "message": "မိဘ၀က္ဆုိက္ကုိေနာက္ဆုံးသတင္းမ်ားျဖင့္အသစ္ျဖစ္သည္",
+    "description": "မိဘ၀က္ဆုိက္ကုိေနာက္ဆုံးသတင္းမ်ားျဖင့္အသစ္ျဖစ္သည္"
+  },
+  "settings_checking_update_message": {
+    "message": "မိဘမ်ား၀က္ဆုိက္သည္ပုံစံအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ",
+    "description": "မိဘမ်ား၀က္ဆုိက္သည္ပုံစံအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ"
+  },
+  "settings_checking_update_new_version": {
+    "message": "ပုံစံအသစ္",
+    "description": "ပုံစံအသစ္"
+  },
+  "settings_checking_update_version": {
+    "message": "ပုံစံ",
+    "description": "ပုံစံ"
   },
   "settings_dob": {
     "message": "ေမြးေန႔",
     "description": "ေမြးေန႔"
+  },
+  "settings_faq": {
+    "message": "ေမးခြန္းႏွင့္အေျဖမ်ား",
+    "description": "ေမးခြန္းႏွင့္အေျဖမ်ား"
   },
   "settings_gender": {
     "message": "က်ား/မ",
@@ -1056,52 +1748,72 @@
     "description": "ဘာသာစကား"
   },
   "settings_language_message_empty": {
-    "message": "ဘာသာစကားမ်ားမေတြ႔ပါ",
-    "description": "ဘာသာစကားမ်ားမေတြ႔ပါ"
+    "message": "မည္သည့္ဘာသာစကားမွမေတြ႔ရပါ",
+    "description": "မည္သည့္ဘာသာစကားမွမေတြ႔ရပါ"
   },
   "settings_language_restart_required_confirm": {
-    "message": "အစမွျပန္စပါ",
-    "description": "အစမွျပန္စပါ"
+    "message": "ျပန္စရန္လုိသည္",
+    "description": "ျပန္စရန္လုိသည္"
   },
   "settings_language_restart_required_message": {
-    "message": "ဘာသာစကားမ်ားေျပာင္းရန္၊ မိဘ၀က္ဆုိက္ကုိျပန္စလုပ္ရန္လုိသည္၊ “ျပန္စပါ”  ဆုိသည့္ေနရာကုိႏွိပ္ပါ",
-    "description": "ဘာသာစကားမ်ားေျပာင္းရန္၊ မိဘ၀က္ဆုိက္ကုိျပန္စလုပ္ရန္လုိသည္၊ “ျပန္စပါ”  ဆုိသည့္ေနရာကုိႏွိပ္ပါ"
+    "message": "ဘာသာစကားေျပာင္းရန္ မိဘ၀က္ဆုိက္ကုိျပန္စပါ၊ “ျပန္စပါ”ဆုိသည့္တက္ပ္ကုိႏွိပ္ပါ",
+    "description": "ဘာသာစကားေျပာင္းရန္ မိဘ၀က္ဆုိက္ကုိျပန္စပါ၊ “ျပန္စပါ”ဆုိသည့္တက္ပ္ကုိႏွိပ္ပါ"
   },
   "settings_location": {
-    "message": "ေနရာကုိျပဳလုပ္သည္",
-    "description": "ေနရာကုိျပဳလုပ္သည္"
+    "message": "တည္ေနရာအုပ္ခ်ဳပ္သည္",
+    "description": "တည္ေနရာအုပ္ခ်ဳပ္သည္"
   },
   "settings_log_out": {
-    "message": "ျပန္ထြက္ပါ",
-    "description": "ျပန္ထြက္ပါ"
+    "message": "ထြက္သည္",
+    "description": "ထြက္သည္"
   },
   "settings_notification": {
-    "message": "အသိေပးခ်က္ထားသည့္ေနရာ",
-    "description": "အသိေပးခ်က္ထားသည့္ေနရာ"
+    "message": "အသိေပးခ်က္မ်ားအခင္းအက်င္း",
+    "description": "အသိေပးခ်က္မ်ားအခင္းအက်င္း"
   },
   "settings_payment": {
-    "message": "ေငြေတာင္းခံလႊာ",
-    "description": "ေငြေတာင္းခံလႊာ"
+    "message": "ေငြေပးျခင္း",
+    "description": "ေငြေပးျခင္း"
   },
   "settings_title": {
-    "message": "ေနရာအခင္းအက်င္း",
-    "description": "ေနရာအခင္းအက်င္း"
+    "message": "အခင္းအက်င္းမ်ား",
+    "description": "အခင္းအက်င္းမ်ား"
+  },
+  "side_menu_item_change_password": {
+    "message": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ",
+    "description": "လႈိ႔၀ွက္နံပါတ္ေျပာင္းပါ"
+  },
+  "side_menu_item_followed_bus": {
+    "message": "ဘတ္စ္ကားမ်ားေနာက္ကုိလုိက္သည္",
+    "description": "ဘတ္စ္ကားမ်ားေနာက္ကုိလုိက္သည္"
+  },
+  "side_menu_item_logout": {
+    "message": "ထြက္သည္",
+    "description": "ထြက္သည္"
+  },
+  "side_menu_item_notification_setting": {
+    "message": "အသိေပးခ်က္မ်ားအခင္းအက်င္း",
+    "description": "အသိေပးခ်က္မ်ားအခင္းအက်င္း"
+  },
+  "side_menu_item_student_trip": {
+    "message": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္",
+    "description": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္"
   },
   "sign_in_button_title": {
-    "message": "၀က္ဆုိက္ထဲကုိ၀င္ပါ",
-    "description": "၀က္ဆုိက္ထဲကုိ၀င္ပါ"
+    "message": "၀င္ပါ",
+    "description": "၀င္ပါ"
   },
   "sign_in_by": {
-    "message": "သည္၀က္ဆုိက္ထဲသုိ႔၀င္သည္",
-    "description": "သည္၀က္ဆုိက္ထဲသုိ႔၀င္သည္"
+    "message": "စာရင္းသြင္းသူ",
+    "description": "စာရင္းသြင္းသူ"
   },
   "sign_in_by_external_idp": {
-    "message": "ျပင္ပမွေထာက္ပ့ံသူ၀က္ဆုိက္ထဲသုိ႔၀င္သည္၊ ဤေနရာကုိႏွိပ္ပါ",
-    "description": "ျပင္ပမွေထာက္ပ့ံသူ၀က္ဆုိက္ထဲသုိ႔၀င္သည္၊ ဤေနရာကုိႏွိပ္ပါ"
+    "message": "အျပင္မွေထာက္ပံ့သူမ်ား၀င္ေရာက္သည္၊ ဤေနရာကုိႏိွပ္ပါ",
+    "description": "အျပင္မွေထာက္ပံ့သူမ်ား၀င္ေရာက္သည္၊ ဤေနရာကုိႏိွပ္ပါ"
   },
   "sign_in_click_resend_email": {
-    "message": "အီးေမးလ္အသက္၀င္ရန္ဤေနရာတြင္ ႏိွပ္ျပီးျပန္ပုိ႔ပါ",
-    "description": "အီးေမးလ္အသက္၀င္ရန္ဤေနရာတြင္ ႏိွပ္ျပီးျပန္ပုိ႔ပါ"
+    "message": "အလုပ္လုပ္ေနျပိီျဖစ္ေသာအိီးေမးလ္ကုိျပန္ပုိ႔ရန္ဤေနရာကုိႏွိပ္ပါ",
+    "description": "အလုပ္လုပ္ေနျပိီျဖစ္ေသာအိီးေမးလ္ကုိျပန္ပုိ႔ရန္ဤေနရာကုိႏွိပ္ပါ"
   },
   "sign_in_email": {
     "message": "အီးေမးလ္",
@@ -1120,8 +1832,8 @@
     "description": "အေထာက္အထားမ်ားမျပည့္စုံပါ၊ ထပ္က်ဳိးစားၾကည့္ပါ(သို႔) လွႈိ ႔၀ွက္နံပါတ္ ျပန္လုပ္ရန္ “လႈိ႔၀ွက္နံပါတ္ေမ့သြားသည္” အေပၚကုိ ႏွိပ္ပါ"
   },
   "sign_in_error_locked_account": {
-    "message": "အၾကိမ္ၾကိမ္၀င္ရန္က်ဳိးစားမႈမေအာင္ျမင္၍ ဤအေကာင့္ကုိယာယီပိတ္ထားသည္",
-    "description": "အၾကိမ္ၾကိမ္၀င္ရန္က်ဳိးစားမႈမေအာင္ျမင္၍ ဤအေကာင့္ကုိယာယီပိတ္ထားသည္"
+    "message": "အၾကိမ္ၾကိမ္၀င္ရန္က်ဳိးစားမႈမေအာင္ျမင္၍ ဤအေကာင့္ကုိယာယီ ပိတ္ထားသည္",
+    "description": "အၾကိမ္ၾကိမ္၀င္ရန္က်ဳိးစားမႈမေအာင္ျမင္၍ ဤအေကာင့္ကုိယာယီ ပိတ္ထားသည္"
   },
   "sign_in_example_name": {
     "message": "jsmith@mail.com",
@@ -1132,28 +1844,32 @@
     "description": "လႈိ႔၀ွက္နံပါတ္ေမ့သြားသလား?"
   },
   "sign_in_get_idp_failure": {
-    "message": "ေထာက္ပ့့ံသူမ်ားကုိမျပႏုိင္ပါ၊ မၾကာခင္ထပ္က်ဳိးစားၾကည့္ပါ",
-    "description": "ေထာက္ပ့့ံသူမ်ားကုိမျပႏုိင္ပါ၊ မၾကာခင္ထပ္က်ဳိးစားၾကည့္ပါ"
+    "message": "ေထာက္ပ့ံသူမ်ားကုိမျပႏုိင္ပါ/မၾကာခင္ျပန္က်ဳိးစားၾကည့္ပါ",
+    "description": "ေထာက္ပ့ံသူမ်ားကုိမျပႏုိင္ပါ/မၾကာခင္ျပန္က်ဳိးစားၾကည့္ပါ"
   },
   "sign_in_name": {
-    "message": "အေကာင့္",
-    "description": "အေကာင့္"
+    "message": "အေကာင့္",
+    "description": "အေကာင့္"
+  },
+  "sign_in_new_user": {
+    "message": "အသုံးျပဳသူအသစ္လား?",
+    "description": "အသုံးျပဳသူအသစ္လား?"
   },
   "sign_in_new_user_sign_up": {
-    "message": "အသုံးျပဳသူအသစ္",
-    "description": "အသုံးျပဳသူအသစ္"
+    "message": "အသံုးျပဳသူအသစ္လား? စာရင္းသြင္းပါ",
+    "description": "အသံုးျပဳသူအသစ္လား? စာရင္းသြင္းပါ"
   },
   "sign_in_or": {
-    "message": "(သုိ႔မဟုတ္)",
-    "description": "(သုိ႔မဟုတ္)"
+    "message": "သုိ႔မဟုတ္",
+    "description": "သုိ႔မဟုတ္"
   },
   "sign_in_password": {
     "message": "လႈိ႔၀ွက္နံပါတ္",
     "description": "လႈိ႔၀ွက္နံပါတ္"
   },
   "sign_in_remember_id": {
-    "message": "ကြ်ႏု္ပ္အုိင္ဒီကုိမွတ္ထားပါ",
-    "description": "ကြ်ႏု္ပ္အုိင္ဒီကုိမွတ္ထားပါ"
+    "message": "ကြ်ႏု္ပ္၏အုိင္ဒီကုိမွတ္ထားပါ",
+    "description": "ကြ်ႏု္ပ္၏အုိင္ဒီကုိမွတ္ထားပါ"
   },
   "sign_in_sign_up": {
     "message": "စာရင္းသြင္းပါ",
@@ -1164,12 +1880,12 @@
     "description": "စာရင္းသြင္းပါ"
   },
   "sign_in_tap_here": {
-    "message": "ဤေနရာကုိႏွိပ္ပါ",
-    "description": "ဤေနရာကုိႏွိပ္ပါ"
+    "message": "ဤေနရာကုိႏိွပ္ပါ",
+    "description": "ဤေနရာကုိႏိွပ္ပါ"
   },
   "sign_in_title_provider": {
-    "message": "အျပင္မွေထာက္ပ့ံသူမ်ား စာရင္းသြင္းပါ",
-    "description": "အျပင္မွေထာက္ပ့ံသူမ်ား စာရင္းသြင္းပါ"
+    "message": "အျပင္မွေထာက္ပံ့သူမွ၀င္ေရာက္သည္",
+    "description": "အျပင္မွေထာက္ပံ့သူမွ၀င္ေရာက္သည္"
   },
   "sign_up_back_login": {
     "message": "စာရင္းသြင္းပါ",
@@ -1180,8 +1896,8 @@
     "description": "စာရင္းသြင္းပါ"
   },
   "sign_up_email": {
-    "message": "အိီးေမးလ္",
-    "description": "အိီးေမးလ္"
+    "message": "အီးေမးလ္",
+    "description": "အီးေမးလ္"
   },
   "sign_up_error_email_existed": {
     "message": "ဤအီးေမးလ္မွာရိွျပီးျဖစ္သည္၊ စာရင္းသြင္းရန္အျခားမတူညီေသာအီးေမးလ္ထဲ့ပါ",
@@ -1192,8 +1908,8 @@
     "description": "သင့္အေကာင့္ကုိစာရင္းသြင္း၍မရပါ၊ မၾကာခင္ျပန္၍က်ဳိးစားၾကည့္ပါ"
   },
   "sign_up_error_field_re_password_failed": {
-    "message": "လႈိ႔၀ွက္နံပါတ္မတူပါ",
-    "description": "လႈိ႔၀ွက္နံပါတ္မတူပါ"
+    "message": "လႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ",
+    "description": "လႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ"
   },
   "sign_up_first_name": {
     "message": "ပထမအမည္",
@@ -1204,8 +1920,8 @@
     "description": "ေနာက္ဆုံးအမည္"
   },
   "sign_up_message_successfully": {
-    "message": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီးေသခ်ာေအာင္လုပ္ပါ",
-    "description": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီးေသခ်ာေအာင္လုပ္ပါ"
+    "message": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီး ေသခ်ာေအာင္လုပ္ပါ",
+    "description": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီး ေသခ်ာေအာင္လုပ္ပါ"
   },
   "sign_up_notification_congratulations": {
     "message": "ဂုဏ္ယူပါသည္! သင့္အေကာင့္ကုိ၀င္ႏုိင္ခဲ့သည္",
@@ -1216,216 +1932,328 @@
     "description": "လႈိ႔၀ွက္နံပါတ္"
   },
   "sign_up_re_password": {
-    "message": "ေသခ်ာရန္သင့္လႈိ႔၀ွက္နံပါတ္ထပ္ထဲ့ပါ",
-    "description": "ေသခ်ာရန္သင့္လႈိ႔၀ွက္နံပါတ္ထပ္ထဲ့ပါ"
+    "message": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိအတည္ျပဳပါ",
+    "description": "သင့္လႈိ႔၀ွက္နံပါတ္ကုိအတည္ျပဳပါ"
   },
   "sign_up_validate_field_re_password_failed": {
-    "message": "လႈိ႔၀ွက္နံပါတ္မတူပါ",
-    "description": "လႈိ႔၀ွက္နံပါတ္မတူပါ"
+    "message": "လႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ",
+    "description": "လႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ"
   },
   "sign_up_validate_password_not_match": {
     "message": "လႈိ႔၀ွက္နံပါတ္မွာ(၈)လုံးျဖစ္ရမည္၊ စာလုံးအၾကီးတခု၊စာလုံးအေသးတခုႏွင့္ ဂဏန္းတခုပါရမည္",
     "description": "လႈိ႔၀ွက္နံပါတ္မွာ(၈)လုံးျဖစ္ရမည္၊ စာလုံးအၾကီးတခု၊စာလုံးအေသးတခုႏွင့္ ဂဏန္းတခုပါရမည္"
   },
-  "sign_up_validate_successfully": {
-    "message": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီးေသခ်ာေအာင္လုပ္ပါ",
-    "description": "ေအာင္ျမင္စြာစာရင္းသြင္းခဲ့သည္! သင့္အီးေမးလ္ %1$s  ကုိမွန္မမွန္ျပန္စစ္ျပီးေသခ်ာေအာင္လုပ္ပါ"
-  },
   "specific_date_navigation_title": {
     "message": "ေန႔စြဲေရြးပါ",
     "description": "ေန႔စြဲေရြးပါ"
   },
-  "student_access_details_title": {
-    "message": " %1$s's   ၏အေၾကာင္းအရာအခ်က္အလက္",
-    "description": " %1$s's   ၏အေၾကာင္းအရာအခ်က္အလက္"
+  "state_boarded": {
+    "message": "ကားေပၚတင္ခဲ့သည္",
+    "description": "ကားေပၚတင္ခဲ့သည္"
+  },
+  "state_boarded_early": {
+    "message": "ေစာစြာကားေပၚတင္ခဲ့သည္",
+    "description": "ေစာစြာကားေပၚတင္ခဲ့သည္"
+  },
+  "state_boarded_late": {
+    "message": "ေနာက္က်စြာကားေပၚတင္ခဲ့သည္",
+    "description": "ေနာက္က်စြာကားေပၚတင္ခဲ့သည္"
+  },
+  "state_boarded_wrong": {
+    "message": "ေနရာမွားျပီးရပ္၍ကားေပၚတင္ခဲ့သည္",
+    "description": "ေနရာမွားျပီးရပ္၍ကားေပၚတင္ခဲ့သည္"
+  },
+  "state_disembarked": {
+    "message": "ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္",
+    "description": "ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္"
+  },
+  "state_disembarked_early": {
+    "message": "ေစာစြာ ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္",
+    "description": "ေစာစြာ ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္"
+  },
+  "state_disembarked_late": {
+    "message": "ေနာက္က်စြာ ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္",
+    "description": "ေနာက္က်စြာ ပုိ႔ခဲ့သည္/ခ်ခဲ့သည္"
+  },
+  "state_disembarked_wrong_stop": {
+    "message": "ေနရာမွားျပီးရပ္၍ကားေပၚမွခ်ခဲ့သည္",
+    "description": "ေနရာမွားျပီးရပ္၍ကားေပၚမွခ်ခဲ့သည္"
+  },
+  "state_missed_boarded": {
+    "message": "ရပ္ရမည့္ေနရာကုိလြန္ခဲ့သည္",
+    "description": "ရပ္ရမည့္ေနရာကုိလြန္ခဲ့သည္"
+  },
+  "state_missed_disembarked": {
+    "message": "ခ်ရန္/ပုိ႔ရန္ရပ္ရမည့္ေနရာကုိလြန္ခဲ့သည္",
+    "description": "ခ်ရန္/ပုိ႔ရန္ရပ္ရမည့္ေနရာကုိလြန္ခဲ့သည္"
+  },
+  "state_not_boarded_yet": {
+    "message": "ယခုထိမတင္ရေသး/မၾကိဳရေသးပါ",
+    "description": "ယခုထိမတင္ရေသး/မၾကိဳရေသးပါ"
+  },
+  "student_access_details_my_child": {
+    "message": "ကြ်ႏု္ပ္၏ကေလးဘယ္မွာလဲ?",
+    "description": "ကြ်ႏု္ပ္၏ကေလးဘယ္မွာလဲ?"
   },
   "student_access_scan": {
-    "message": "အေၾကာင္းအရာသမုိင္းေၾကာင္းကုိစကင္လုပ္ပါ",
-    "description": "အေၾကာင္းအရာသမုိင္းေၾကာင္းကုိစကင္လုပ္ပါ"
-  },
-  "student_access_section_linked": {
-    "message": "ဘတ္စ္ကားကုိဆက္သြယ္ပါ",
-    "description": "ဘတ္စ္ကားကုိဆက္သြယ္ပါ"
-  },
-  "student_detail_confirm_remove_link_message": {
-    "message": "%3$s မွ  %1$s  %2$s    သုိ႔ မဆက္သြယ္ရန္ သင္ေသျခာသလား?",
-    "description": "%3$s မွ  %1$s  %2$s    သုိ႔ မဆက္သြယ္ရန္ သင္ေသျခာသလား?"
-  },
-  "student_detail_confirm_remove_link_title": {
-    "message": "အဆက္အသြယ္မရွိျခင္းကုိေသခ်ာပါေစ",
-    "description": "အဆက္အသြယ္မရွိျခင္းကုိေသခ်ာပါေစ"
+    "message": "စကင္လုပ္သည့္မွတ္တမ္း",
+    "description": "စကင္လုပ္သည့္မွတ္တမ္း"
   },
   "student_detail_dob": {
-    "message": "ေမြးေန႔  %1$s",
-    "description": "ေမြးေန႔  %1$s"
+    "message": "ေမြးေန႔ ",
+    "description": "ေမြးေန႔ "
   },
-  "student_detail_student_dob": {
-    "message": "ေမြးေန႔  %1$s",
-    "description": "ေမြးေန႔  %1$s"
+  "student_detail_gender": {
+    "message": "က်ား/မ",
+    "description": "က်ား/မ"
+  },
+  "student_detail_information_district_id": {
+    "message": "ျမဳိ ႔နယ္အုိင္ဒီ",
+    "description": "ျမဳိ ႔နယ္အုိင္ဒီ"
+  },
+  "student_detail_information_dob": {
+    "message": "ေမြးေန႔",
+    "description": "ေမြးေန႔"
+  },
+  "student_detail_information_school": {
+    "message": "ေက်ာင္း",
+    "description": "ေက်ာင္း"
+  },
+  "student_detail_information_student": {
+    "message": "ေက်ာင္းသား",
+    "description": "ေက်ာင္းသား"
+  },
+  "student_detail_learn_more_description": {
+    "message": "နောင်တွင်ကျောင်းဘတ်စ်ကားသယ်ယူပို့ဆောင်ရေးအတွက်သင်၏ကျောင်းသားအားသင်မှတ်ပုံတင်ရန်လိုမလိုသိရန်ဤ Ride မှတ်ပုံတင်ခြင်းအင်္ဂါရပ်ကိုအသုံးပြုပါ။ ဤလျှောက်လွှာတွင်စုဆောင်းထားသောသတင်းအချက်အလက်ကို အသုံးပြု၍ သင်၏ကျောင်းသားသည်ခရိုင်မှစီစဉ်ပေးသောသယ်ယူပို့ဆောင်ရေးအတွက်အရည်အချင်းပြည့်မီမှုရှိမရှိဆုံးဖြတ်ရန် (ထွက်ခွာခြင်းမပြုမီကျောင်းသား၏တည်နေရာနှင့် / သို့မဟုတ်ကျောင်းသားသည်ကျောင်းသို့အဘယ်မှာသွားမည်) ကိုဆုံးဖြတ်ရန်။ ရှိပါကရွေးချယ်စရာများနှင့်နေရာချထားပေးပါ။ မှတ်ပုံတင်ခြင်းတောင်းခံချက်အားလုံးကိုကျွန်ုပ်တို့လက်ခံမည်မဟုတ်ပါ။ နောက်ထပ်သတင်းအချက်အလက်များကျွန်ုပ်တို့အားရရှိပါကလျှောက်လွှာတွင်ပါရှိသောအချက်အလက်များအပေါ် အခြေခံ၍ ကျွန်ုပ်တို့၏ဆုံးဖြတ်ချက်ကိုပြန်လည်စဉ်းစားနိုင်သည်။",
+    "description": "နောင်တွင်ကျောင်းဘတ်စ်ကားသယ်ယူပို့ဆောင်ရေးအတွက်သင်၏ကျောင်းသားအားသင်မှတ်ပုံတင်ရန်လိုမလိုသိရန်ဤ Ride မှတ်ပုံတင်ခြင်းအင်္ဂါရပ်ကိုအသုံးပြုပါ။ ဤလျှောက်လွှာတွင်စုဆောင်းထားသောသတင်းအချက်အလက်ကို အသုံးပြု၍ သင်၏ကျောင်းသားသည်ခရိုင်မှစီစဉ်ပေးသောသယ်ယူပို့ဆောင်ရေးအတွက်အရည်အချင်းပြည့်မီမှုရှိမရှိဆုံးဖြတ်ရန် (ထွက်ခွာခြင်းမပြုမီကျောင်းသား၏တည်နေရာနှင့် / သို့မဟုတ်ကျောင်းသားသည်ကျောင်းသို့အဘယ်မှာသွားမည်) ကိုဆုံးဖြတ်ရန်။ ရှိပါကရွေးချယ်စရာများနှင့်နေရာချထားပေးပါ။ မှတ်ပုံတင်ခြင်းတောင်းခံချက်အားလုံးကိုကျွန်ုပ်တို့လက်ခံမည်မဟုတ်ပါ။ နောက်ထပ်သတင်းအချက်အလက်များကျွန်ုပ်တို့အားရရှိပါကလျှောက်လွှာတွင်ပါရှိသောအချက်အလက်များအပေါ် အခြေခံ၍ ကျွန်ုပ်တို့၏ဆုံးဖြတ်ချက်ကိုပြန်လည်စဉ်းစားနိုင်သည်။"
+  },
+  "student_detail_learn_more_title": {
+    "message": "မှတ်ပုံတင်ခြင်းတောင်းဆိုမှုသတင်းအချက်အလက်စီးနင်း",
+    "description": "မှတ်ပုံတင်ခြင်းတောင်းဆိုမှုသတင်းအချက်အလက်စီးနင်း"
+  },
+  "student_detail_ride_registration_action_request": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_action_view": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_description": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_need_help_action": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_no_transportation_request": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_approved": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_in_progress": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_init": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_processing_description": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_received": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_received_description": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_rejected": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_status_tentatively_approved": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_registration_title": {
+    "message": "",
+    "description": ""
+  },
+  "student_detail_ride_request_approvement_title": {
+    "message": "တောင်းဆိုမှုကိုဘယ်အချိန်မှာအတည်ပြုသလဲ။",
+    "description": "တောင်းဆိုမှုကိုဘယ်အချိန်မှာအတည်ပြုသလဲ။"
+  },
+  "student_detail_ride_request_define_title": {
+    "message": "စီးနင်တောင်းဆိုမှုကဘာလဲ?",
+    "description": "စီးနင်တောင်းဆိုမှုကဘာလဲ?"
+  },
+  "student_detail_ride_request_help_title": {
+    "message": "အကူအညီစင်တာ",
+    "description": "အကူအညီစင်တာ"
+  },
+  "student_detail_scan_history": {
+    "message": "စကင္လုပ္သည့္မွတ္တမ္း",
+    "description": "စကင္လုပ္သည့္မွတ္တမ္း"
+  },
+  "student_detail_school_name": {
+    "message": "ေက်ာင္း  %1$s",
+    "description": "ေက်ာင္း  %1$s"
   },
   "student_detail_student_id": {
-    "message": "ေက်ာင္းသားအုိင္ဒီ   %1$s",
-    "description": "ေက်ာင္းသားအုိင္ဒီ   %1$s"
+    "message": "အုိင္ဒီ  %1$s",
+    "description": "အုိင္ဒီ  %1$s"
   },
-  "student_detail_student_school_dictrict": {
-    "message": "ေက်ာင္း၏ျမိဳ ႔နယ္  %1$s",
-    "description": "ေက်ာင္း၏ျမိဳ ႔နယ္  %1$s"
+  "student_detail_student_id_no_param": {
+    "message": "ေက်ာင္းသားအုိင္ဒီ",
+    "description": "ေက်ာင္းသားအုိင္ဒီ"
   },
-  "student_details_choose_bus": {
-    "message": "ဘတ္စ္ကားတစီးေရြးရန္ ခလုပ္ကုိႏွိပ္ပါ",
-    "description": "ဘတ္စ္ကားတစီးေရြးရန္ ခလုပ္ကုိႏွိပ္ပါ"
+  "student_detail_title": {
+    "message": "ေက်ာင္းသားအေၾကာင္းအေသးစိတ္",
+    "description": "ေက်ာင္းသားအေၾကာင္းအေသးစိတ္"
   },
-  "student_details_dob": {
-    "message": "ေမြးေန႔  %1$s",
-    "description": "ေမြးေန႔  %1$s"
+  "student_detail_transportation_approved": {
+    "message": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိခြင့္ျပဳသည္",
+    "description": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိခြင့္ျပဳသည္"
   },
-  "student_details_link_choose_bus_title": {
-    "message": "ဘတ္စ္ကားတစီးေရြးပါ",
-    "description": "ဘတ္စ္ကားတစီးေရြးပါ"
+  "student_detail_transportation_cancel_button": {
+    "message": "ပယ္ဖ်က္သည္ ",
+    "description": "ပယ္ဖ်က္သည္ "
   },
-  "student_details_linked_bus": {
-    "message": "ဘတ္စ္ကားႏွင့္ဆက္သြယ္ထားသည္",
-    "description": "ဘတ္စ္ကားႏွင့္ဆက္သြယ္ထားသည္"
+  "student_detail_transportation_cancel_message": {
+    "message": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းဆုိျခင္းကုိသင္ပယ္ဖ်က္တာေသခ်ာ  သလား?",
+    "description": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းဆုိျခင္းကုိသင္ပယ္ဖ်က္တာေသခ်ာ  သလား?"
   },
-  "student_details_remove_bus": {
-    "message": "ဖယ္သည္",
-    "description": "ဖယ္သည္"
+  "student_detail_transportation_confirm_header": {
+    "message": "လိပ္စာကုိအတည္ျပဳပါ",
+    "description": "လိပ္စာကုိအတည္ျပဳပါ"
   },
-  "student_details_remove_confirm_bus": {
-    "message": "ဘတ္စ္ကား",
-    "description": "ဘတ္စ္ကား"
+  "student_detail_transportation_description": {
+    "message": "သင့္ေက်ာင္းသားအတြက္ေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ",
+    "description": "သင့္ေက်ာင္းသားအတြက္ေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ"
   },
-  "student_details_remove_confirm_vehicle": {
-    "message": "ကား",
-    "description": "ကား"
+  "student_detail_transportation_empty": {
+    "message": "ဆာဗာကုိယခုဆက္သြယ္၍မရပါ ",
+    "description": "ဆာဗာကုိယခုဆက္သြယ္၍မရပါ "
   },
-  "student_details_remove_link_bus_title": {
-    "message": "အဆက္အသြယ္မရွိျခင္းကုိေသခ်ာပါေစ",
-    "description": "အဆက္အသြယ္မရွိျခင္းကုိေသခ်ာပါေစ"
+  "student_detail_transportation_history": {
+    "message": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ မွတ္တမ္း",
+    "description": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ မွတ္တမ္း"
   },
-  "student_details_remove_link_message_bus": {
-    "message": "သင္ဘတ္စ္ကားႏွင့္အဆက္အသြယ္မရွိတာေသခ်ာသလား",
-    "description": "သင္ဘတ္စ္ကားႏွင့္အဆက္အသြယ္မရွိတာေသခ်ာသလား"
+  "student_detail_transportation_received": {
+    "message": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိရရွိသည္ ",
+    "description": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိရရွိသည္ "
   },
-  "student_details_remove_link_message_bus_out": {
-    "message": "မွ",
-    "description": "မွ"
+  "student_detail_transportation_rejected": {
+    "message": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိျငင္းဆိုသည္",
+    "description": "သင္၏ေက်ာင္းကားေတာင္းဆုိျခင္းကုိျငင္းဆိုသည္"
   },
-  "student_details_remove_link_message_vehicle": {
-    "message": "သင္ကားႏွွင့္မဆက္သြယ္ခ်င္တာေသခ်ာသလား",
-    "description": "သင္ကားႏွွင့္မဆက္သြယ္ခ်င္တာေသခ်ာသလား"
+  "student_detail_transportation_request": {
+    "message": "ဘတ္စ္ေတာင္းသည္",
+    "description": "ဘတ္စ္ေတာင္းသည္"
   },
-  "student_details_remove_message1": {
-    "message": "သင္မဆက္သြယ္ခ်င္တာေသခ်ာသလား",
-    "description": "သင္မဆက္သြယ္ခ်င္တာေသခ်ာသလား"
+  "student_detail_transportation_request_button": {
+    "message": "ေတာင္းသည္",
+    "description": "ေတာင္းသည္"
   },
-  "student_details_remove_message2": {
-    "message": "ေက်ာင္းသားႏွင့္အဆက္အသြယ္မရပါ",
-    "description": "ေက်ာင္းသားႏွင့္အဆက္အသြယ္မရပါ"
+  "student_detail_transportation_request_description": {
+    "message": "လူတုိင္း သေဘာေပါက္သည္မွာ အမ်ားသံုး ဘာသာစကားကုိ ပုိမုိလုိလာသည္၊ တဦးကတန္ဖုိးၾကိီးေသာ စကားျပန္မ်ားကုိေပး ၇န္ျငင္းဆုိသည္ ၊ အကူအညီလုိသလား?",
+    "description": "လူတုိင္း သေဘာေပါက္သည္မွာ အမ်ားသံုး ဘာသာစကားကုိ ပုိမုိလုိလာသည္၊ တဦးကတန္ဖုိးၾကိီးေသာ စကားျပန္မ်ားကုိေပး ၇န္ျငင္းဆုိသည္ ၊ အကူအညီလုိသလား?"
   },
-  "student_details_student_id": {
-    "message": "ေက်ာင္းသားအုိင္ဒီ  %1$s",
-    "description": "ေက်ာင္းသားအုိင္ဒီ  %1$s"
+  "student_detail_transportation_request_need_help_action": {
+    "message": "အကူအညီလုိသလား?",
+    "description": "အကူအညီလုိသလား?"
   },
-  "student_details_tenant_name": {
-    "message": "ေက်ာင္းျမဳိ ႔နယ္အမည္  %1$s",
-    "description": "ေက်ာင္းျမဳိ ႔နယ္အမည္  %1$s"
+  "student_detail_transportation_request_title": {
+    "message": "ကားစီးရန္ေတာင္းဆုိသည္",
+    "description": "ကားစီးရန္ေတာင္းဆုိသည္"
   },
-  "student_details_title": {
-    "message": "%1$s   ၏ အေၾကာင္းအရာမ်ား",
-    "description": "%1$s   ၏ အေၾကာင္းအရာမ်ား"
+  "student_detail_transportation_schedule": {
+    "message": "ေက်ာင္းကားအခ်ိန္ဇယား",
+    "description": "ေက်ာင္းကားအခ်ိန္ဇယား"
   },
-  "student_details_where_my_child": {
-    "message": "ကြ်ႏု္ပ္ကေလးဘယ္မွာလဲ",
-    "description": "ကြ်ႏု္ပ္ကေလးဘယ္မွာလဲ"
+  "student_detail_warning_no_current_transportation": {
+    "message": "%1$s အတြက္ယခုေက်ာင္းကားအခ်ိန္ဇယားမရွိပါ",
+    "description": "%1$s အတြက္ယခုေက်ာင္းကားအခ်ိန္ဇယားမရွိပါ"
   },
-  "student_link_bus_choose_bus_already_link_bus": {
-    "message": "ေက်ာင္းသားႏွင့္ကားအဆက္အသြယ္ရခဲ့သည္",
-    "description": "ေက်ာင္းသားႏွင့္ကားအဆက္အသြယ္ရခဲ့သည္"
+  "student_detail_where_is_my_bus": {
+    "message": "က်ေနာ့္ကားဘယ္မွာလဲ?",
+    "description": "က်ေနာ့္ကားဘယ္မွာလဲ?"
   },
-  "student_link_bus_vehicle_title_expired": {
-    "message": "ရက္လြန္ေနေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ၊ %1$s ဘတ္စ္ကားေနာက္သုိ႔မလုိက္မွာသင္ေသခ်ာသလား?",
-    "description": "ရက္လြန္ေနေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ၊ %1$s ဘတ္စ္ကားေနာက္သုိ႔မလုိက္မွာသင္ေသခ်ာသလား?"
-  },
-  "student_link_bus_vehicle_title_revoked": {
-    "message": "ပယ္ဖ်က္လုိက္ေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ၊ %1$s ဘတ္စ္ကားေနာက္သုိ႔မလုိက္မွာသင္ေသခ်ာသလား?",
-    "description": "ပယ္ဖ်က္လုိက္ေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ၊ %1$s ဘတ္စ္ကားေနာက္သုိ႔မလုိက္မွာသင္ေသခ်ာသလား?"
+  "student_detail_where_is_my_child": {
+    "message": "ကြ်ႏု္ပ္၏ကေလးဘယ္မွာလဲ?",
+    "description": "ကြ်ႏု္ပ္၏ကေလးဘယ္မွာလဲ?"
   },
   "student_list_active": {
-    "message": "အလုပ္လုပ္ေနေသးေသာ",
-    "description": "အလုပ္လုပ္ေနေသးေသာ"
+    "message": "အလုပ္လုပ္ေနေသာ",
+    "description": "အလုပ္လုပ္ေနေသာ"
   },
   "student_list_approved": {
-    "message": "ခြင့္ျပဳခဲ့သည္",
-    "description": "ခြင့္ျပဳခဲ့သည္"
+    "message": "ခြင့္ျပဳသည္",
+    "description": "ခြင့္ျပဳသည္"
   },
   "student_list_default": {
     "message": "မသိပါ",
     "description": "မသိပါ"
   },
   "student_list_delete": {
-    "message": "သင္ ဤေက်ာင္းသားကုိဖယ္ရွားခ်င္တာေသခ်ာသလား?",
-    "description": "သင္ ဤေက်ာင္းသားကုိဖယ္ရွားခ်င္တာေသခ်ာသလား?"
+    "message": "သင့္အေကာင့္မွဤေက်ာင္းသားကုိပယ္ဖ်က္ခ်င္တာေသခ်ာသလား ?",
+    "description": "သင့္အေကာင့္မွဤေက်ာင္းသားကုိပယ္ဖ်က္ခ်င္တာေသခ်ာသလား ?"
   },
   "student_list_delete_title": {
-    "message": "ေက်ာင္းသားကုိဖယ္ရွားပါ",
-    "description": "ေက်ာင္းသားကုိဖယ္ရွားပါ"
+    "message": "ေက်ာင္းသားကုိဖယ္လုိက္သည္",
+    "description": "ေက်ာင္းသားကုိဖယ္လုိက္သည္"
   },
   "student_list_denied": {
     "message": "ျငင္းဆုိသည္",
     "description": "ျငင္းဆုိသည္"
   },
-  "student_list_error_delete_student_failed": {
-    "message": "ေက်ာင္းသားကုိပယ္ဖ်က္၍မရပါ၊ ထပ္၍စားၾကည့္ပါ (သုိ႔) စာရင္းကုိ ရီဖရက္ရွ္လုပ္ပါ",
-    "description": "ေက်ာင္းသားကုိပယ္ဖ်က္၍မရပါ၊ ထပ္၍စားၾကည့္ပါ (သုိ႔) စာရင္းကုိ ရီဖရက္ရွ္လုပ္ပါ"
-  },
-  "student_list_in_active": {
-    "message": "အလုပ္မလုပ္ေတာ့ပါ",
-    "description": "အလုပ္မလုပ္ေတာ့ပါ"
-  },
   "student_list_no_approved_student_title": {
-    "message": "ေက်ာင္းသားမ်ားကုိျပရန္ခြင့္မျပဳပါ",
-    "description": "ေက်ာင္းသားမ်ားကုိျပရန္ခြင့္မျပဳပါ"
+    "message": "ခြင့္ျပဳသည့္ေက်ာင္းသားမ်ားကုိမေတြ႔ရပါ",
+    "description": "ခြင့္ျပဳသည့္ေက်ာင္းသားမ်ားကုိမေတြ႔ရပါ"
   },
   "student_list_no_child_add_student": {
-    "message": "ေက်ာင္းသားထပ္ထဲ့ပါ",
-    "description": "ေက်ာင္းသားထပ္ထဲ့ပါ"
+    "message": "ေက်ာင္းသားထဲ့ပါ",
+    "description": "ေက်ာင္းသားထဲ့ပါ"
   },
   "student_list_no_child_message": {
-    "message": "“ေက်ာင္းသားထပ္ထဲ့ပါ”ဆုိသည့္ ခလုပ္ကုိႏွိပ္ျပိးသင့္ေက်ာင္းသား၏အေၾကာင္းအရာမ်ားကုိဆီသုိ႔၀င္ရန္ေတာင္းပါ",
-    "description": "“ေက်ာင္းသားထပ္ထဲ့ပါ”ဆုိသည့္ ခလုပ္ကုိႏွိပ္ျပိးသင့္ေက်ာင္းသား၏အေၾကာင္းအရာမ်ားကုိဆီသုိ႔၀င္ရန္ေတာင္းပါ"
+    "message": "ေက်ာင္းသား၏အေၾကာင္းအရာမ်ားဆီသုိ႔၀င္ရန္ေအာက္တြင္ “ေက်ာင္းသားထဲ့ရန္” ဆုိသည့္ခလုပ္တြင္ႏွိပ္ပါ",
+    "description": "ေက်ာင္းသား၏အေၾကာင္းအရာမ်ားဆီသုိ႔၀င္ရန္ေအာက္တြင္ “ေက်ာင္းသားထဲ့ရန္” ဆုိသည့္ခလုပ္တြင္ႏွိပ္ပါ"
   },
   "student_list_no_child_title": {
-    "message": "ေက်ာင္းသားမ်ားကုိျပရန္ခြင့္မျပဳပါ",
-    "description": "ေက်ာင္းသားမ်ားကုိျပရန္ခြင့္မျပဳပါ"
+    "message": "ကေလးတဦးမွမေတြ႔ပါ",
+    "description": "ကေလးတဦးမွမေတြ႔ပါ"
   },
   "student_list_pending": {
-    "message": "ဆုိင္းင့ံထားေသာ",
-    "description": "ဆုိင္းင့ံထားေသာ"
+    "message": "ေစာင့္ေနသည္",
+    "description": "ေစာင့္ေနသည္"
   },
   "student_list_rejected": {
-    "message": "ပယ္ခ်သည္",
-    "description": "ပယ္ခ်သည္"
+    "message": "ခြင့္မျပဳပါ",
+    "description": "ခြင့္မျပဳပါ"
   },
-  "student_list_student_tenant": {
-    "message": "အိမ္ငွား",
-    "description": "အိမ္ငွား"
-  },
-  "student_list_tenant_name": {
-    "message": "အိမ္ငွား   %1$s",
-    "description": "အိမ္ငွား   %1$s"
+  "student_list_student_id": {
+    "message": "ေက်ာင္းသားအုိင္ဒီ %1$s",
+    "description": "ေက်ာင္းသားအုိင္ဒီ %1$s"
   },
   "student_list_title": {
-    "message": "ေက်ာင္းသားမ်ား",
-    "description": "ေက်ာင္းသားမ်ား"
+    "message": "ေက်ာင္းသားစရင္း",
+    "description": "ေက်ာင္းသားစရင္း"
+  },
+  "student_list_un_active": {
+    "message": "အလုပ္မလုပ္ေသာ",
+    "description": "အလုပ္မလုပ္ေသာ"
   },
   "student_list_warning_waiting_approved": {
-    "message": "%1$s သည္ခြင့္ျပဳခ်က္ကုိေစာင့္ေနသည္",
-    "description": "%1$s သည္ခြင့္ျပဳခ်က္ကုိေစာင့္ေနသည္"
-  },
-  "student_scan_history_bus_location_title": {
-    "message": "တည္ေနရာ",
-    "description": "တည္ေနရာ"
+    "message": "%1$s အတြက္ခြင့္ျပဳခ်က္ကုိေစာင့္ေနသည္",
+    "description": "%1$s အတြက္ခြင့္ျပဳခ်က္ကုိေစာင့္ေနသည္"
   },
   "student_scan_history_bus_time_title": {
     "message": "အခ်ိန္",
@@ -1435,160 +2263,508 @@
     "message": "ဘတ္စ္ကား",
     "description": "ဘတ္စ္ကား"
   },
-  "student_scan_history_filler_specific": {
-    "message": "တိက်ေသာေန႔စြဲ",
-    "description": "တိက်ေသာေန႔စြဲ"
-  },
   "student_scan_history_message_empty": {
-    "message": "%1$s’s ၏ စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာမ်ားမရွိပါ",
-    "description": "%1$s’s ၏ စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာမ်ားမရွိပါ"
+    "message": "%1$s's ၏ စကင္လုပ္မွတ္တမ္းတြင္ဘာမွမရွိပါ",
+    "description": "%1$s's ၏ စကင္လုပ္မွတ္တမ္းတြင္ဘာမွမရွိပါ"
   },
   "student_scan_history_swipe_history": {
-    "message": "စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာ",
-    "description": "စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာ"
+    "message": "စကင္မွတ္တမ္း",
+    "description": "စကင္မွတ္တမ္း"
   },
   "student_scan_history_time_range_limit": {
-    "message": "သင္သည္အမ်ားဆုံး (၃)လစာကုိသာသင္ရွာေဖြႏုိင္သည္",
-    "description": "သင္သည္အမ်ားဆုံး (၃)လစာကုိသာသင္ရွာေဖြႏုိင္သည္"
+    "message": "သင္သည္(၃)လအတြင္းရွာေဖြႏုိင္သည္",
+    "description": "သင္သည္(၃)လအတြင္းရွာေဖြႏုိင္သည္"
   },
   "student_scan_history_title": {
-    "message": "စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာ",
-    "description": "စကင္လုပ္ထားေသာသမုိင္းအေၾကာင္းအရာ"
+    "message": "စကင္မွတ္တမ္း",
+    "description": "စကင္မွတ္တမ္း"
   },
-  "student_vehicle_link_choose_bus": {
-    "message": "ဘတ္စ္ကားေရြးပါ",
-    "description": "ဘတ္စ္ကားေရြးပါ"
+  "student_unable_to_schedule": {
+    "message": "အခ်ိန္ဇယားမေပးနုိင္ပါ",
+    "description": "အခ်ိန္ဇယားမေပးနုိင္ပါ"
+  },
+  "tap": {
+    "message": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ",
+    "description": "ကုိယ္ေရးအေၾကာင္းအရာဖုိင္အတြက္ဓာတ္ပုံေရြးပါ"
+  },
+  "title_new_version": {
+    "message": "ပုံစံအသစ္ကုိရႏုိင္ျပီ",
+    "description": "ပုံစံအသစ္ကုိရႏုိင္ျပီ"
+  },
+  "title_none": {
+    "message": "မိဘမ်ား၀က္ဆုိက္မွအေၾကာင္းအရာမ်ားမွာအသစ္ျဖစ္သည္",
+    "description": "မိဘမ်ား၀က္ဆုိက္မွအေၾကာင္းအရာမ်ားမွာအသစ္ျဖစ္သည္"
   },
   "title_optional": {
-    "message": "ပုံစံအသစ္ %1$s",
-    "description": "ပုံစံအသစ္ %1$s"
+    "message": "ပုံစံအသစ္ကုိရႏုိင္ျပီ  %1$s",
+    "description": "ပုံစံအသစ္ကုိရႏုိင္ျပီ  %1$s"
   },
-  "unfollow_vehicle_confirm_message_string": {
-    "message": "သင္သည္ %1$s  ေနာက္ကုိမလုိက္ခ်င္တာေသခ်ာသလား?",
-    "description": "သင္သည္ %1$s  ေနာက္ကုိမလုိက္ခ်င္တာေသခ်ာသလား?"
+  "title_parent_portal": {
+    "message": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္",
+    "description": "အက္ဂ်ဳေလာ့မိဘ၀က္ဆုိက္"
   },
-  "update_version_force_message": {
-    "message": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ ဆက္လုပ္ရန္ အက္ပ္ App ကုိ အပ္ဒိတ္လုပ္ပါ",
-    "description": "ပုံစံအသစ္ကုိရႏုိင္သည္၊ ဆက္လုပ္ရန္ အက္ပ္ App ကုိ အပ္ဒိတ္လုပ္ပါ"
+  "to_school_schedule_btn_look_up": {
+    "message": "အနီးဆုံးၾကိဳရန္ေနရာကုိၾကည့္ပါ",
+    "description": "အနီးဆုံးၾကိဳရန္ေနရာကုိၾကည့္ပါ"
   },
-  "update_version_new_version": {
-    "message": "ပုံစံအသစ္",
-    "description": "ပုံစံအသစ္"
+  "to_school_schedule_error_no_nearby_stops": {
+    "message": "အနီးဆုံးၾကိဳရန္ေနရာမရွိပါ",
+    "description": "အနီးဆုံးၾကိဳရန္ေနရာမရွိပါ"
   },
-  "update_version_new_version_available": {
-    "message": "ပုံစံအသစ္ကုိရႏုိင္သည္",
-    "description": "ပုံစံအသစ္ကုိရႏုိင္သည္"
+  "to_school_schedule_instruction": {
+    "message": "%2$s တြင္ %1$s အတြက္ ေက်ာင္းသုိ႔သြားရန္အခ်ိန္ဇယားမရွိပါ",
+    "description": "%2$s တြင္ %1$s အတြက္ ေက်ာင္းသုိ႔သြားရန္အခ်ိန္ဇယားမရွိပါ"
   },
-  "update_version_optional_message": {
-    "message": "မိဘမ်ား၀က္ဆုိက္သည္ဗာရွင္းအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ",
-    "description": "မိဘမ်ား၀က္ဆုိက္သည္ဗာရွင္းအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ"
+  "to_school_schedule_pick_up_stops": {
+    "message": "အနီးဆုံးၾကိဳရန္ေနရာမ်ား",
+    "description": "အနီးဆုံးၾကိဳရန္ေနရာမ်ား"
   },
-  "update_version_up_to_date_message": {
-    "message": "အက္ပ္(App)မွာအသစ္ျဖစ္သည္",
-    "description": "အက္ပ္(App)မွာအသစ္ျဖစ္သည္"
+  "to_school_schedule_select_pickup_stops": {
+    "message": "အနီးဆုံးၾကိဳရန္ေနရာမ်ား",
+    "description": "အနီးဆုံးၾကိဳရန္ေနရာမ်ား"
   },
-  "update_version_update_message": {
-    "message": "မိဘမ်ား၀က္ဆုိက္သည္ပုံစံအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ",
-    "description": "မိဘမ်ား၀က္ဆုိက္သည္ပုံစံအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ"
+  "to_school_schedule_title": {
+    "message": "ေက်ာင္းသုိ႔သြားရန္အခ်ိန္ဇယား",
+    "description": "ေက်ာင္းသုိ႔သြားရန္အခ်ိန္ဇယား"
   },
-  "update_version_version": {
-    "message": "ပုံစံ",
-    "description": "ပုံစံ"
+  "today_trip_alert_off": {
+    "message": "ပိတ္သည္",
+    "description": "ပိတ္သည္"
+  },
+  "today_trip_alert_on": {
+    "message": "ဖြင့္သည္",
+    "description": "ဖြင့္သည္"
+  },
+  "today_trip_bus_distance": {
+    "message": "ဘတ္စ္ကားသည္  %1$s  ၏အေ၀းမွာျဖစ္သည္",
+    "description": "ဘတ္စ္ကားသည္  %1$s  ၏အေ၀းမွာျဖစ္သည္"
+  },
+  "today_trip_bus_distance_away": {
+    "message": "အေ၀းမွာ",
+    "description": "အေ၀းမွာ"
+  },
+  "today_trip_bus_distance_home": {
+    "message": "ဘတ္စ္ကားမွာ",
+    "description": "ဘတ္စ္ကားမွာ"
+  },
+  "today_trip_date": {
+    "message": "ေန႔စြဲ %1$s",
+    "description": "ေန႔စြဲ %1$s"
+  },
+  "today_trip_route_code": {
+    "message": "လမ်းကြောင်းကုဒ်",
+    "description": "လမ်းကြောင်းကုဒ်"
+  },
+  "today_trip_scheduled_drop_off": {
+    "message": "ခ်ေပးရန္/ျပန္ပုိ႔ရန္အခ်ိန္ဇယား",
+    "description": "ခ်ေပးရန္/ျပန္ပုိ႔ရန္အခ်ိန္ဇယား"
+  },
+  "today_trip_scheduled_drop_off_no_in": {
+    "message": "စီစဉ်ထားသည့် drop-off",
+    "description": "စီစဉ်ထားသည့် drop-off"
+  },
+  "today_trip_scheduled_pickup": {
+    "message": "ၾကိဳရန္အခ်ိန္ဇယား",
+    "description": "ၾကိဳရန္အခ်ိန္ဇယား"
+  },
+  "today_trip_scheduled_pickup_no_in": {
+    "message": "စီစဉ်ထား pick-up",
+    "description": "စီစဉ်ထား pick-up"
+  },
+  "today_trip_status": {
+    "message": "%1$s's ၏ %2$s ခရီးစဥ္",
+    "description": "%1$s's ၏ %2$s ခရီးစဥ္"
+  },
+  "today_trip_title": {
+    "message": "ခရီးစဥ္ %1$s ",
+    "description": "ခရီးစဥ္ %1$s "
+  },
+  "today_trip_vehicle_information": {
+    "message": "ယာဉ်အချက်အလက်",
+    "description": "ယာဉ်အချက်အလက်"
+  },
+  "transportation_cancel_request_confirm_message": {
+    "message": "သင့္ေတာင္းဆုိခ်က္ကုိပယ္ဖ်က္ခ်င္သလား?",
+    "description": "သင့္ေတာင္းဆုိခ်က္ကုိပယ္ဖ်က္ခ်င္သလား?"
+  },
+  "transportation_confirm_address_hint": {
+    "message": "လိပ္စာရွာသည္",
+    "description": "လိပ္စာရွာသည္"
+  },
+  "transportation_create_district": {
+    "message": "ေက်ာင္းသားအုိင္ဒီ",
+    "description": "ေက်ာင္းသားအုိင္ဒီ"
+  },
+  "transportation_create_school_name": {
+    "message": "ေက်ာင္း",
+    "description": "ေက်ာင္း"
+  },
+  "transportation_create_title": {
+    "message": "%1$s ကုိ ၾကိဳ ႔ပုိ႔ေတာင္းသည္",
+    "description": "%1$s ကုိ ၾကိဳ ႔ပုိ႔ေတာင္းသည္"
+  },
+  "transportation_create_title_without_student": {
+    "message": "ေက်ာင္းကားေတာင္းဆုိသည္",
+    "description": "ေက်ာင္းကားေတာင္းဆုိသည္"
+  },
+  "transportation_detail_title": {
+    "message": "ေတာင္းဆုိျခင္းအေသးစိိတ္",
+    "description": "ေတာင္းဆုိျခင္းအေသးစိိတ္"
+  },
+  "transportation_list_empty_view_message": {
+    "message": "\"ေက်ာင္းကားေတာင္းဆုိျခင္း\" အေပၚႏိွပ္ျပီးေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ",
+    "description": "\"ေက်ာင္းကားေတာင္းဆုိျခင္း\" အေပၚႏိွပ္ျပီးေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ"
+  },
+  "transportation_list_empty_view_title": {
+    "message": "ဆုိျခင္းကုိျပဳလုပ္ပါေက်ာင္းကားေတာင္းဆုိျခင္းကုိသင္ျပဳလုပ္မထားပါ",
+    "description": "ဆုိျခင္းကုိျပဳလုပ္ပါေက်ာင္းကားေတာင္းဆုိျခင္းကုိသင္ျပဳလုပ္မထားပါ"
+  },
+  "transportation_request_address_map_title": {
+    "message": "လိပ္စာေျမပုံ",
+    "description": "လိပ္စာေျမပုံ"
+  },
+  "transportation_request_search_place_holder": {
+    "message": "ရွာသည္",
+    "description": "ရွာသည္"
+  },
+  "transportation_request_select_student_empty": {
+    "message": "ခြင့္ျပဳသည့္ေက်ာင္းသားမ်ားကုိမေတြ႔ရပါ",
+    "description": "ခြင့္ျပဳသည့္ေက်ာင္းသားမ်ားကုိမေတြ႔ရပါ"
+  },
+  "transportation_request_tab_title": {
+    "message": "ေတာင္းသည္",
+    "description": "ေတာင္းသည္"
+  },
+  "transportation_request_title": {
+    "message": "ေက်ာင္းကားေတာင္းဆုိသည္",
+    "description": "ေက်ာင္းကားေတာင္းဆုိသည္"
+  },
+  "transportation_schedule_add_button": {
+    "message": "ေတာင္းသည္",
+    "description": "ေတာင္းသည္"
+  },
+  "transportation_schedule_add_review_title": {
+    "message": "ေတာင္းဆုိျခင္းျပန္စစ္ေဆးသည္",
+    "description": "ေတာင္းဆုိျခင္းျပန္စစ္ေဆးသည္"
+  },
+  "transportation_schedule_cancel_request": {
+    "message": "ေတာင္းဆုိျခင္းကုိပယ္ဖ်က္သည္",
+    "description": "ေတာင္းဆုိျခင္းကုိပယ္ဖ်က္သည္"
+  },
+  "transportation_schedule_confirm_cancel": {
+    "message": "သင့္ေတာင္းဆုိခ်က္ကုိပယ္ဖ်က္ခ်င္သလား?",
+    "description": "သင့္ေတာင္းဆုိခ်က္ကုိပယ္ဖ်က္ခ်င္သလား?"
+  },
+  "transportation_schedule_detail_bus_id": {
+    "message": "ဘတ္စ္ကား",
+    "description": "ဘတ္စ္ကား"
+  },
+  "transportation_schedule_detail_driver_id": {
+    "message": "ဒရုိက္ဘာအုိင္ဒီ",
+    "description": "ဒရုိက္ဘာအုိင္ဒီ"
+  },
+  "transportation_schedule_detail_last": {
+    "message": "အခ်ိန္ဇယား",
+    "description": "အခ်ိန္ဇယား"
+  },
+  "transportation_schedule_detail_no_data_conversation": {
+    "message": "မွတ္ခ်က္မ်ားေဖာ္ျပရန္မရွိပါ",
+    "description": "မွတ္ခ်က္မ်ားေဖာ္ျပရန္မရွိပါ"
+  },
+  "transportation_schedule_detail_setting": {
+    "message": "ေက်ာင္းကားသည္ အတြင္းေရာက္လွ်င္အသိေပးပါ",
+    "description": "ေက်ာင္းကားသည္ အတြင္းေရာက္လွ်င္အသိေပးပါ"
+  },
+  "transportation_schedule_detail_setting_alert_retry_button": {
+    "message": "ျပန္ၾကိဳးစားပါ",
+    "description": "ျပန္ၾကိဳးစားပါ"
+  },
+  "transportation_schedule_detail_setting_alert_retry_msg": {
+    "message": "သင့္ေတာင္းဆုိမႈကုိေဆာင္ရြက္ေပးရန္ဤေလွ်ာက္လႊာတြင္အမွား မ်ားႏွင့္ေတြ႔ၾကံဳေနသည္",
+    "description": "သင့္ေတာင္းဆုိမႈကုိေဆာင္ရြက္ေပးရန္ဤေလွ်ာက္လႊာတြင္အမွား မ်ားႏွင့္ေတြ႔ၾကံဳေနသည္"
+  },
+  "transportation_schedule_detail_setting_alert_time": {
+    "message": "သတိေပးခ်က္၀င္လာသည္",
+    "description": "သတိေပးခ်က္၀င္လာသည္"
+  },
+  "transportation_schedule_detail_setting_disable": {
+    "message": "ခရီးစဥ္၏အသိေပးခ်က္မ်ားကိုခြင့္မျပဳပါ",
+    "description": "ခရီးစဥ္၏အသိေပးခ်က္မ်ားကိုခြင့္မျပဳပါ"
+  },
+  "transportation_schedule_detail_title": {
+    "message": "ေျမပုံၾကည့္သည္",
+    "description": "ေျမပုံၾကည့္သည္"
+  },
+  "transportation_schedule_detail_title_conversation": {
+    "message": "မွတ္ခ်က္မ်ား",
+    "description": "မွတ္ခ်က္မ်ား"
+  },
+  "transportation_schedule_detail_title_with_name": {
+    "message": "%1$s's ၏ ခရီးစဥ္ %2$s",
+    "description": "%1$s's ၏ ခရီးစဥ္ %2$s"
+  },
+  "transportation_schedule_detail_title_without_trip_Type": {
+    "message": "%1$s's ၏ ခရီးစဥ္",
+    "description": "%1$s's ၏ ခရီးစဥ္"
+  },
+  "transportation_schedule_details_message_empty": {
+    "message": "သင့္တြင္ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းဆုိထားျခင္းမရွိပါ",
+    "description": "သင့္တြင္ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းဆုိထားျခင္းမရွိပါ"
+  },
+  "transportation_schedule_empty_view_add_button": {
+    "message": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းသည္",
+    "description": "ေက်ာင္းကားအၾကိဳ/အပုိ႔ေတာင္းသည္"
+  },
+  "transportation_schedule_fri": {
+    "message": "ေသာၾကာ",
+    "description": "ေသာၾကာ"
+  },
+  "transportation_schedule_item_tv_view_detail": {
+    "message": "အေသးစိတ္ၾကည့္ပါ",
+    "description": "အေသးစိတ္ၾကည့္ပါ"
+  },
+  "transportation_schedule_list_empty_view_message": {
+    "message": "\"ေက်ာင္းကားေတာင္းဆုိျခင္း\" အေပၚႏိွပ္ျပီးေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ",
+    "description": "\"ေက်ာင္းကားေတာင္းဆုိျခင္း\" အေပၚႏိွပ္ျပီးေက်ာင္းကားေတာင္းဆုိျခင္းကုိျပဳလုပ္ပါ"
+  },
+  "transportation_schedule_list_empty_view_title": {
+    "message": "ေက်ာင္းကားေတာင္းဆုိျခင္းကုိသင္ျပဳလုပ္မထားပါ",
+    "description": "ေက်ာင္းကားေတာင္းဆုိျခင္းကုိသင္ျပဳလုပ္မထားပါ"
+  },
+  "transportation_schedule_mon": {
+    "message": "တနလာၤ",
+    "description": "တနလာၤ"
+  },
+  "transportation_schedule_popup_menu_tv_delete": {
+    "message": "ဖ်က္သည္",
+    "description": "ဖ်က္သည္"
+  },
+  "transportation_schedule_popup_menu_tv_edit": {
+    "message": "ျပင္သည္",
+    "description": "ျပင္သည္"
+  },
+  "transportation_schedule_sat": {
+    "message": "စေန",
+    "description": "စေန"
+  },
+  "transportation_schedule_sun": {
+    "message": "တနဂၤေႏြ",
+    "description": "တနဂၤေႏြ"
+  },
+  "transportation_schedule_thu": {
+    "message": "ၾကာသာပေတး",
+    "description": "ၾကာသာပေတး"
+  },
+  "transportation_schedule_title": {
+    "message": "ေက်ာင္းကားအခ်ိန္ဇယား",
+    "description": "ေက်ာင္းကားအခ်ိန္ဇယား"
+  },
+  "transportation_schedule_title_alert_dialog": {
+    "message": "ေက်ာင္းကားေတာင္းဆုိျခင္းကုိ သင္ပယ္ဖ်က္ခ်င္သလား?",
+    "description": "ေက်ာင္းကားေတာင္းဆုိျခင္းကုိ သင္ပယ္ဖ်က္ခ်င္သလား?"
+  },
+  "transportation_schedule_title_map": {
+    "message": "ေျမပုံ",
+    "description": "ေျမပုံ"
+  },
+  "transportation_schedule_tue": {
+    "message": "အဂၤ ါ",
+    "description": "အဂၤ ါ"
+  },
+  "transportation_schedule_wed": {
+    "message": "ဗုဒၶဟူး",
+    "description": "ဗုဒၶဟူး"
+  },
+  "trip_type_from_school": {
+    "message": "ေက်ာင္းမွ",
+    "description": "ေက်ာင္းမွ"
+  },
+  "trip_type_round_trip": {
+    "message": "အသြား/အျပန္ခရီးစဥ္",
+    "description": "အသြား/အျပန္ခရီးစဥ္"
+  },
+  "trip_type_to_school": {
+    "message": "ေက်ာင္းသုိ႔",
+    "description": "ေက်ာင္းသုိ႔"
+  },
+  "trip_type_to_school_trip": {
+    "message": "ေက်ာင္းအသြားခရီးစဥ္",
+    "description": "ေက်ာင္းအသြားခရီးစဥ္"
+  },
+  "trip_type_trip_from_school": {
+    "message": "ေက်ာင္းမွအျပန္ခရီးစဥ္",
+    "description": "ေက်ာင္းမွအျပန္ခရီးစဥ္"
+  },
+  "turn_on_gps_message": {
+    "message": "ဂ်ီပီအက္စ္ကုိ၀င္ရန္ခြင့္ျပဳပါ",
+    "description": "ဂ်ီပီအက္စ္ကုိ၀င္ရန္ခြင့္ျပဳပါ"
+  },
+  "validate_email_invalid": {
+    "message": "အီးေမးလ္လိပ္စာမမွန္ပါ",
+    "description": "အီးေမးလ္လိပ္စာမမွန္ပါ"
+  },
+  "validate_field_required": {
+    "message": "လုိအပ္သည္",
+    "description": "လုိအပ္သည္"
+  },
+  "validate_network": {
+    "message": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္လုိင္းကုိျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ",
+    "description": "ဆာဗာကုိခ်ိတ္ဆက္၍မရပါ၊ သင့္အင္တာနက္လုိင္းကုိျပန္စစ္ျပီးေနာက္တၾကိမ္က်ဳိးစားၾကည့္ပါ"
+  },
+  "validate_password_not_match": {
+    "message": "လွႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ",
+    "description": "လွႈိ႔၀ွက္နံပါတ္မ်ားမတူညီပါ"
   },
   "vehicle_list_back_to_district": {
     "message": "ျမိဳ ႔နယ္",
     "description": "ျမိဳ ႔နယ္"
   },
-  "vehicle_list_expired": {
-    "message": "ရက္လြန္သည္",
-    "description": "ရက္လြန္သည္"
-  },
-  "vehicle_list_expired_message": {
-    "message": "ရက္လြန္ေနေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ",
-    "description": "ရက္လြန္ေနေသာစာရင္းသြင္းကုဒ္ျဖင့္ေက်ာင္းဘတ္စ္ကားမ်ားေနာက္သု္႔ိလုိက္၍မရပါ"
-  },
   "vehicle_list_hint_search_bus": {
-    "message": "ကားမ်ားကုိရွာေနသည္",
-    "description": "ကားမ်ားကုိရွာေနသည္"
+    "message": "ကားမ်ားကုိရွာသည္",
+    "description": "ကားမ်ားကုိရွာသည္"
   },
   "vehicle_list_message_empty": {
     "message": "ကားမ်ားကုိမေတြ႔ပါ",
     "description": "ကားမ်ားကုိမေတြ႔ပါ"
   },
-  "vehicle_list_revoke": {
-    "message": "ပယ္ဖ်က္သည္",
-    "description": "ပယ္ဖ်က္သည္"
-  },
-  "vehicle_list_revoke_message": {
-    "message": "ပယ္ဖ်က္ထားသည့္ကုဒ္ျဖင့္ဘတ္စ္ကားမ်ားေနာက္သုိ႔လုိက္၍မရပါ",
-    "description": "ပယ္ဖ်က္ထားသည့္ကုဒ္ျဖင့္ဘတ္စ္ကားမ်ားေနာက္သုိ႔လုိက္၍မရပါ"
-  },
-  "vehicle_notification_setting_empty_description": {
-    "message": "အသိေပးခ်က္မ်ားကုိရရန္ကားေနာက္သုိ႔လုိက္ျပီး သတိေပးဇုံ အနဲဆုံး တခုျပဳလုပ္ပါ",
-    "description": "အသိေပးခ်က္မ်ားကုိရရန္ကားေနာက္သုိ႔လုိက္ျပီး သတိေပးဇုံ အနဲဆုံး တခုျပဳလုပ္ပါ"
-  },
-  "vehicle_notification_setting_empty_title": {
-    "message": "ဘတ္စ္ကားနံပါတ္ကုိမသိႏုိင္ေသးပါ",
-    "description": "ဘတ္စ္ကားနံပါတ္ကုိမသိႏုိင္ေသးပါ"
-  },
   "version_checking_optional_message": {
-    "message": "မိဘမ်ား၀က္ဆုိက္သည္ဗာရွင္းအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ",
-    "description": "မိဘမ်ား၀က္ဆုိက္သည္ဗာရွင္းအသစ္ျဖစ္သည္၊ ပုံစံအသစ္ျဖင့္သုံးရန္  ေနာက္ဆုံးအေၾကာင္းအရာမ်ားျဖည့္စြက္ပါ"
+    "message": "မိဘ၀က္ဆုိက္ ပုံစံအသစ္ရႏုိင္သည္၊ ",
+    "description": "မိဘ၀က္ဆုိက္ ပုံစံအသစ္ရႏုိင္သည္၊ "
   },
-  "where_is_bus_followed_bus_list_empty_view": {
-    "message": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ",
-    "description": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ"
+  "version_checking_required_message": {
+    "message": "ပုံစံအသစ္ရႏုိင္သည္၊ ",
+    "description": "ပုံစံအသစ္ရႏုိင္သည္၊ "
   },
-  "where_my_bus_followed_bus_list_empty_view": {
-    "message": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ",
-    "description": "သင္သည္မည္သည့္ကားမ်ားေနာက္ကုိမွ်ေလာေလာဆယ္မလုိက္ပါ"
+  "version_checking_title": {
+    "message": "ပုံစံအသစ္ရႏုိင္သည္",
+    "description": "ပုံစံအသစ္ရႏုိင္သည္"
   },
-  "where_my_bus_not_found_location": {
-    "message": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ",
-    "description": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ"
+  "warning_feature_where_my_bus_is_unavailable": {
+    "message": "\"က်ေနာ့္ကားဘယ္မွာလဲ\" အင်္ဂါရပ်ကိုလက်ရှိတွင်ပိတ်ထားသည်။ ပိုမိုသိရှိလိုပါကကျောင်းအုပ်ချုပ်ရေးမှူးနှင့်ဆက်သွယ်ပါ။",
+    "description": "\"က်ေနာ့္ကားဘယ္မွာလဲ\" အင်္ဂါရပ်ကိုလက်ရှိတွင်ပိတ်ထားသည်။ ပိုမိုသိရှိလိုပါကကျောင်းအုပ်ချုပ်ရေးမှူးနှင့်ဆက်သွယ်ပါ။"
   },
-  "where_my_bus_out_side": {
-    "message": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ",
-    "description": "ဤကားကုိၾကည့္ရန္ဂ်ီပီအက္စ္ယခုမရေသးပါ"
-  },
-  "where_my_bus_title": {
-    "message": "က်ေနာ့္ကားဘယ္မွာလဲ",
-    "description": "က်ေနာ့္ကားဘယ္မွာလဲ"
-  },
-  "where_my_child_bus_label": {
+  "where_is_bus_bus_id": {
     "message": "ဘတ္စ္ကား",
     "description": "ဘတ္စ္ကား"
   },
+  "where_is_bus_bus_status_has_arrived": {
+    "message": "ေက်ာင္းဘတ္စ္ကား သုိ႔ေရာက္သည္",
+    "description": "ေက်ာင္းဘတ္စ္ကား သုိ႔ေရာက္သည္"
+  },
+  "where_is_bus_bus_status_not_boarded": {
+    "message": "ေက်ာင္းကားမၾကိဳရေသးပါ",
+    "description": "ေက်ာင္းကားမၾကိဳရေသးပါ"
+  },
+  "where_is_bus_bus_status_will_arrived": {
+    "message": "ေက်ာင္းဘတ္စ္ကား ကုိေရာက္ေတာ့မည္",
+    "description": "ေက်ာင္းဘတ္စ္ကား ကုိေရာက္ေတာ့မည္"
+  },
+  "where_is_bus_contact_school": {
+    "message": "ေက်ာင္းကုိဆက္သြယ္သည္",
+    "description": "ေက်ာင္းကုိဆက္သြယ္သည္"
+  },
+  "where_is_bus_distance": {
+    "message": "အကြာအေ၀း",
+    "description": "အကြာအေ၀း"
+  },
+  "where_is_bus_driver": {
+    "message": "ဒရုိက္ဘာ",
+    "description": "ဒရုိက္ဘာ"
+  },
+  "where_is_bus_driver_id": {
+    "message": "ဒရုိက္ဘာအုိင္ဒီ",
+    "description": "ဒရုိက္ဘာအုိင္ဒီ"
+  },
+  "where_is_bus_followed_bus_list_empty_view": {
+    "message": "သင္သည္ယခုေလာေလာဆယ္မည္သည့္ကားေနာက္မွမလုိက္ပါ",
+    "description": "သင္သည္ယခုေလာေလာဆယ္မည္သည့္ကားေနာက္မွမလုိက္ပါ"
+  },
+  "where_is_bus_followed_bus_list_loading_vehicle": {
+    "message": "ကားမ်ားကုိတင္ေနသည္",
+    "description": "ကားမ်ားကုိတင္ေနသည္"
+  },
+  "where_is_bus_pickup": {
+    "message": "ၾကိဳသည္",
+    "description": "ၾကိဳသည္"
+  },
+  "where_is_bus_student_name": {
+    "message": "ေက်ာင္းသား %1$s",
+    "description": "ေက်ာင္းသား %1$s"
+  },
+  "where_is_bus_student_status_disembark_wrong_stop": {
+    "message": "ဆင္းရမည့္ေနရာမွားျပီးဆင္းသည္",
+    "description": "ဆင္းရမည့္ေနရာမွားျပီးဆင္းသည္"
+  },
+  "where_is_bus_student_trip": {
+    "message": "%1$s ၏ ခရီးစဥ္",
+    "description": "%1$s ၏ ခရီးစဥ္"
+  },
+  "where_is_bus_title": {
+    "message": "ကြ်ႏု္ပ္၏ေက်ာင္းဘတ္စ္ကားဘယ္မွာလဲ",
+    "description": "ကြ်ႏု္ပ္၏ေက်ာင္းဘတ္စ္ကားဘယ္မွာလဲ"
+  },
+  "where_is_my_child_date": {
+    "message": "ေန႔စြဲ",
+    "description": "ေန႔စြဲ"
+  },
+  "where_is_my_child_driver_id": {
+    "message": "ဒရုိက္ဘာအုိင္ဒီ",
+    "description": "ဒရုိက္ဘာအုိင္ဒီ"
+  },
+  "where_my_bus_not_found_location": {
+    "message": "ဤကားအတြက္ဂ်ီပီအက္စ္မွာလက္ရွိၾကည့္ရန္မရႏုိင္ပါ",
+    "description": "ဤကားအတြက္ဂ်ီပီအက္စ္မွာလက္ရွိၾကည့္ရန္မရႏုိင္ပါ"
+  },
+  "where_my_bus_out_side": {
+    "message": "ဤကားအတြက္ဂ်ီပီအက္စ္မွာလက္ရွိၾကည့္ရန္မရႏုိင္ပါ",
+    "description": "ဤကားအတြက္ဂ်ီပီအက္စ္မွာလက္ရွိၾကည့္ရန္မရႏုိင္ပါ"
+  },
   "where_my_child_empty_event_view": {
-    "message": "%1$s သည္ယေန႔ စကင္မလုပ္ပါ",
-    "description": "%1$s သည္ယေန႔ စကင္မလုပ္ပါ"
+    "message": "%1$s သည္ယေန႔ စကင္မလုပ္ရေသးပါ",
+    "description": "%1$s သည္ယေန႔ စကင္မလုပ္ရေသးပါ"
   },
   "where_my_child_linked_bus_label": {
-    "message": "ဘတ္စ္ကားႏွင့္ဆက္ထားသည္",
-    "description": "ဘတ္စ္ကားႏွင့္ဆက္ထားသည္"
+    "message": "ေက်ာင္းဘတ္စ္ကားကုိဆက္သြယ္သည္",
+    "description": "ေက်ာင္းဘတ္စ္ကားကုိဆက္သြယ္သည္"
   },
   "where_my_child_linked_event_label": {
-    "message": "အခမ္းအနား",
-    "description": "အခမ္းအနား"
+    "message": "အခမ္းအနားမ်ား",
+    "description": "အခမ္းအနားမ်ား"
   },
-  "where_my_child_location_label": {
-    "message": "တည္ေနရာ",
-    "description": "တည္ေနရာ"
+  "where_my_child_trip_empty": {
+    "message": "ကျောင်းသားတွင်ခရီးစဉ်မရှိပါ။",
+    "description": "ကျောင်းသားတွင်ခရီးစဉ်မရှိပါ။"
   },
-  "where_my_child_retry_button": {
-    "message": "ျပန္က်ဳိးစားပါ",
-    "description": "ျပန္က်ဳိးစားပါ"
+  "transportation_request_archive": {
+    "message": "မော်ကွန်းတိုက်",
+    "description": "မော်ကွန်းတိုက်"
   },
-  "where_my_child_retry_msg": {
-    "message": "သင့္ေတာင္းဆုိခ်က္ကုိေဆာင္ရြက္ေပးရန္၀က္ဆုိက္တြင္အမွားျဖစ္ေနသည္၊ ထပ္၍ၾကိဳးစားၾကည့္ပါ",
-    "description": "သင့္ေတာင္းဆုိခ်က္ကုိေဆာင္ရြက္ေပးရန္၀က္ဆုိက္တြင္အမွားျဖစ္ေနသည္၊ ထပ္၍ၾကိဳးစားၾကည့္ပါ"
+  "transportation_request_restore": {
+    "message": "ပြန်ယူပါ",
+    "description": "ပြန်ယူပါ"
   },
-  "where_my_child_time_label": {
-    "message": "အခ်ိန္",
-    "description": "အခ်ိန္"
+  "transportation_request_archived_title": {
+    "message": "မော်ကွန်းတင်သည်",
+    "description": "မော်ကွန်းတင်သည်"
   },
-  "where_my_child_title": {
-    "message": "ကြ်ႏု္ပ္ကေလးဘယ္မွာလဲ?",
-    "description": "ကြ်ႏု္ပ္ကေလးဘယ္မွာလဲ?"
+  "transportation_request_archived_empty_message": {
+    "message": "သင့်မှာမော်ကွန်းတင်ထားသည့်သယ်ယူပို့ဆောင်ရေးတောင်းဆိုချက်မရှိပါ",
+    "description": "သင့်မှာမော်ကွန်းတင်ထားသည့်သယ်ယူပို့ဆောင်ရေးတောင်းဆိုချက်မရှိပါ"
+  },
+  "add_schedule_apply_to_schedule_address": {
+    "message": "အဆုံးရက်",
+    "description": "အဆုံးရက်"
+  },
+  "required_selected_end_date": {
+    "message": "အဆုံးရက်ကိုလိုအပ်သည်",
+    "description": "အဆုံးရက်ကိုလိုအပ်သည်"
+  },
+  "required_selected_end_date_must_after_start_date": {
+    "message": "အဆုံးရက်ကိုစတင်မည့် နေ့မှစ၍ ပြုလုပ်ရမည်။",
+    "description": "အဆုံးရက်ကိုစတင်မည့် နေ့မှစ၍ ပြုလုပ်ရမည်။"
+  },
+  "required_selected_start_date": {
+    "message": "စတင်ရက်စွဲလိုအပ်ပါသည်",
+    "description": "စတင်ရက်စွဲလိုအပ်ပါသည်"
   }
 }
