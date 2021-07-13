@@ -1,2754 +1,2478 @@
 {
-  "add_schedule_apply_to_schedule_address": {
-    "message": "Fecha final",
-    "description": "Fecha final"
-  },
   "add_schedule_apply_from_schedule_address": {
     "message": "Inicio",
-    "description": "Inicio"
+    "description": "start date label for transportation list item",
+    "limit": "20"
+  },
+  "add_schedule_apply_to_schedule_address": {
+    "message": "",
+    "description": "end date label for transportation list item",
+    "limit": "20"
   },
   "add_schedule_description": {
     "message": "Solicitar transporte para %1$s.",
-    "description": "Solicitar transporte para %1$s."
+    "description": "Request transportation for {student name}.\nHelp users know who the student that they created a request.",
+    "limit": ""
   },
   "add_schedule_desired_schedule_address": {
     "message": "Dirección preferida",
-    "description": "Dirección preferida"
+    "description": "Prefrered label for transportation list item",
+    "limit": ""
   },
   "add_schedule_frequency_schedule_address": {
     "message": "Frecuencia",
-    "description": "Frecuencia"
+    "description": "Frequency label for transportation list item",
+    "limit": ""
   },
   "add_schedule_frequency_schedule_created_on": {
     "message": "Creado en %1$s.",
-    "description": "Creado en %1$s."
-  },
-  "add_schedule_next": {
-    "message": "Siguiente",
-    "description": "Siguiente"
+    "description": "Created date value for transportation request . Example: Created on {date}.",
+    "limit": "20"
   },
   "add_schedule_radio_button_from_school": {
     "message": "Desde la escuela",
-    "description": "Desde la escuela"
+    "description": "from school value of Trip Type when create transportation request",
+    "limit": "20"
   },
   "add_schedule_radio_button_repeat": {
     "message": "Repetir todas las semanas",
-    "description": "Repetir todas las semanas"
+    "description": "An option for the users select when create transportation request. There are two options Repeat every week or specific date.",
+    "limit": "20"
   },
   "add_schedule_radio_button_round_trip": {
     "message": "Ida y Vuelta",
-    "description": "Ida y Vuelta"
+    "description": "round trip value of Trip Type when create transportation request",
+    "limit": "20"
   },
   "add_schedule_radio_button_specific_date": {
     "message": "Fecha específica",
-    "description": "Fecha específica"
+    "description": "An option for the users select when create transportation request. There are two options Repeat every week or specific date.",
+    "limit": "20"
   },
   "add_schedule_radio_button_to_school": {
     "message": "Hacia la escuela",
-    "description": "Hacia la escuela"
+    "description": "To school trip value of Trip Type when create transportation request",
+    "limit": "20"
   },
   "add_schedule_review": {
     "message": "Reseña",
-    "description": "Reseña"
+    "description": "Button review when create transportation request",
+    "limit": "20"
   },
   "add_schedule_schedule_from_school_trip_address": {
     "message": "Dirección preferida donde dejar el estudiante",
-    "description": "Dirección preferida donde dejar el estudiante"
+    "description": "Preferred Pickup and Drop-off Address label for trip type Round Trip when create transportation request",
+    "limit": "35"
   },
   "add_schedule_schedule_hint_enter_address": {
-    "message": "Ingrese la dirección",
-    "description": "Ingrese la dirección"
-  },
-  "add_schedule_schedule_hint_notes_schedule": {
-    "message": "Agregar notas",
-    "description": "Agregar notas"
+    "message": "Dirección preferida para recogidas y entregas",
+    "description": "The hint in Preferred Pickup and Drop-off Address text box when create transportation request",
+    "limit": ""
   },
   "add_schedule_schedule_notes_schedule": {
-    "message": "Notas",
-    "description": "Notas"
-  },
-  "add_schedule_schedule_round_trip_address": {
-    "message": "Dirección preferida para recogidas y entregas",
-    "description": "Dirección preferida para recogidas y entregas"
+    "message": "Procesar de nuevo",
+    "description": "Note label for transportation list item",
+    "limit": ""
   },
   "add_schedule_schedule_to_school_trip_address": {
-    "message": "Dirección preferida para recoger el estudiante",
-    "description": "Dirección preferida para recoger el estudiante"
+    "message": "Búsqueda de dirección",
+    "description": "Preferred Pickup Address label for trip type To School when create transportation request",
+    "limit": ""
   },
   "add_schedule_schedule_type": {
     "message": "Horario",
-    "description": "Horario"
-  },
-  "add_schedule_schedule_type_apply_schedule": {
-    "message": "Fecha inicial",
-    "description": "Fecha inicial"
+    "description": "Schedule label when create transportation request",
+    "limit": ""
   },
   "add_schedule_schedule_type_repeat": {
     "message": "Repetir cada:",
-    "description": "Repetir cada:"
+    "description": "Repeat label when create transportation request",
+    "limit": ""
   },
   "add_schedule_student_title": {
     "message": "Estudiante",
-    "description": "Estudiante"
+    "description": "The Student label using for title or label ",
+    "limit": "12"
   },
   "add_schedule_title": {
     "message": "Solicitar transporte",
-    "description": "Solicitar transporte"
+    "description": "The navigation bar title of Transportation Request",
+    "limit": "25"
   },
   "add_schedule_trip_type": {
     "message": "Tipo de viaje",
-    "description": "Tipo de viaje"
+    "description": "Trip Type label when create transportation request",
+    "limit": ""
   },
   "add_schedule_tv_select_date": {
     "message": "Seleccionar fecha",
-    "description": "Seleccionar fecha"
+    "description": "The hint in start date and end date when create transportation request ",
+    "limit": ""
   },
   "add_schedule_warning_select_schedule_type": {
     "message": "Por favor elija el tipo de horario.",
-    "description": "Por favor elija el tipo de horario."
+    "description": "Display when user not select schedule type.",
+    "limit": ""
   },
   "add_schedule_warning_select_specific_date": {
     "message": "Por favor elija una fecha.",
-    "description": "Por favor elija una fecha."
+    "description": "Display when user not select date. ",
+    "limit": ""
   },
   "add_schedule_warning_select_start_date": {
     "message": "Por favor elija la fecha inicial.",
-    "description": "Por favor elija la fecha inicial."
+    "description": "Display when user not select start date when create Transportation Request ",
+    "limit": ""
   },
   "add_schedule_warning_select_trip_type": {
     "message": "Por favor elija el tipo de horario.",
-    "description": "Por favor elija el tipo de horario."
-  },
-  "add_student_change_profile_photo": {
-    "message": "Seleccionar foto de perfil.",
-    "description": "Seleccionar foto de perfil."
+    "description": "Display when user not select student trip type when create Transportation Request type. From School, To School or Round Trip",
+    "limit": ""
   },
   "add_student_dob": {
     "message": "Nacida/do",
-    "description": "Nacida/do"
+    "description": "Day of birth title when add a student ",
+    "limit": ""
   },
   "add_student_first_name": {
     "message": "Nombre",
-    "description": "Nombre"
-  },
-  "add_student_gender": {
-    "message": "Género",
-    "description": "Género"
+    "description": "First name title when add a student ",
+    "limit": ""
   },
   "add_student_hint_first_name": {
     "message": "Nombre",
-    "description": "Nombre"
+    "description": "Hint for first name text box when add a student",
+    "limit": ""
   },
   "add_student_hint_last_name": {
     "message": "Apellido",
-    "description": "Apellido"
+    "description": "Hint for last name text box when add a student",
+    "limit": ""
   },
   "add_student_last_name": {
     "message": "Apellido",
-    "description": "Apellido"
+    "description": "Last name title when add a student ",
+    "limit": ""
   },
   "add_student_message_add_failed": {
     "message": "Los datos igresados no son válidos. Revíselos y trate de nuevo!",
-    "description": "Los datos igresados no son válidos. Revíselos y trate de nuevo!"
-  },
-  "add_student_message_add_successfully": {
-    "message": "Su solicitud ha sido enviada.",
-    "description": "Su solicitud ha sido enviada."
+    "description": "A message popup when add a student but failed",
+    "limit": ""
   },
   "add_student_qr_code_camera": {
     "message": "Escanea el código QR por cámara",
-    "description": "Escanea el código QR por cámara"
-  },
-  "add_student_qr_code_description": {
-    "message": "Use la cámara del teléfono para escanear el código QR o elija la imagen del código QR de la galería del teléfono",
-    "description": "Use la cámara del teléfono para escanear el código QR o elija la imagen del código QR de la galería del teléfono"
+    "description": "Scan QR Code option scan by camera for add student",
+    "limit": ""
   },
   "add_student_qr_code_gallery": {
     "message": "Elija el código QR de la galería",
-    "description": "Elija el código QR de la galería"
+    "description": "Scan QR Code option scan by pick from gallery for add student",
+    "limit": ""
   },
   "add_student_qr_code_or": {
     "message": "O",
-    "description": "O"
+    "description": "Just `OR` label",
+    "limit": "6"
   },
   "add_student_qr_code_tap_here": {
     "message": "Pulse aquí",
-    "description": "Pulse aquí"
+    "description": "Label hightlight to use tap to open scan QR code screen. combine with `Already had a QR code?`",
+    "limit": ""
   },
   "add_student_qr_code_title": {
     "message": "¿Ya tienes un código QR?",
-    "description": "¿Ya tienes un código QR?"
+    "description": "Label to user tap to open Scan QR code when add a student",
+    "limit": ""
   },
   "add_student_school": {
     "message": "Escuela",
-    "description": "Escuela"
+    "description": "school label when add a student",
+    "limit": ""
   },
   "add_student_student_id": {
     "message": "Número de Identificación",
-    "description": "Número de Identificación"
+    "description": "Student id label when add a student",
+    "limit": "15"
   },
   "add_student_success_pending": {
     "message": "Su solicitud fue enviada. Espere su aprobación",
-    "description": "Su solicitud fue enviada. Espere su aprobación"
+    "description": "Message in popup tell the user added a student but status is pending",
+    "limit": ""
   },
   "add_student_title": {
     "message": "AGREGAR ESTUDIANTE",
-    "description": "AGREGAR ESTUDIANTE"
+    "description": "Title in add student screen",
+    "limit": "20"
   },
   "add_student_turn_on_error": {
     "message": "Su estudiante ha sido agregado con éxito. La notificación no está habilitada debido a un problema con nuestro servidor. Habilítelo en la Configuración.",
-    "description": "Su estudiante ha sido agregado con éxito. La notificación no está habilitada debido a un problema con nuestro servidor. Habilítelo en la Configuración."
+    "description": "Display when add student access request.",
+    "limit": ""
   },
   "add_student_turn_on_no_trip": {
     "message": "Su estudiante ha sido agregado con éxito. La notificación no está habilitada porque el alumno no tiene viaje.",
-    "description": "Su estudiante ha sido agregado con éxito. La notificación no está habilitada porque el alumno no tiene viaje."
+    "description": "Display when add student access request.",
+    "limit": ""
   },
   "add_student_turn_on_success": {
     "message": "Su estudiante ha sido agregado con éxito.",
-    "description": "Su estudiante ha sido agregado con éxito."
-  },
-  "alert_zone_added_success_message": {
-    "message": "Zona de alerta guardada.",
-    "description": "Zona de alerta guardada."
-  },
-  "alert_zone_autocomplete_address_empty": {
-    "message": "Dirección no localizada",
-    "description": "Dirección no localizada"
-  },
-  "alert_zone_card_radius_label": {
-    "message": "Radio: %.1f millas",
-    "description": "Radio: %.1f millas"
-  },
-  "alert_zone_card_time_label": {
-    "message": "Tiempo: %1$s to %2$s",
-    "description": "Tiempo: %1$s to %2$s"
-  },
-  "alert_zone_deleted_success_message": {
-    "message": "Zona de alerta borrada.",
-    "description": "Zona de alerta borrada."
-  },
-  "alert_zone_delete_success_message": {
-    "message": "Zona de alerta borrada.",
-    "description": "Zona de alerta borrada."
-  },
-  "alert_zone_edited_success_message": {
-    "message": "Cambio de zona de alerta guardado.",
-    "description": "Cambio de zona de alerta guardado."
-  },
-  "alert_zone_from_time_to_time": {
-    "message": "Activo desde %1$s hasta %2$s",
-    "description": "Activo desde %1$s hasta %2$s"
-  },
-  "alert_zone_modal_radius_title": {
-    "message": "%.01f millas",
-    "description": "%.01f millas"
-  },
-  "alert_zone_name_required_message": {
-    "message": "Por favor nombre su zona de alerta.",
-    "description": "Por favor nombre su zona de alerta."
-  },
-  "app_name": {
-    "message": "Portal para padres",
-    "description": "Portal para padres"
+    "description": "Message in popup tell the user added a student success",
+    "limit": ""
   },
   "approved": {
     "message": "aprobada",
-    "description": "aprobada"
+    "description": "status approved of transportation status. combine with key `student_detail_transportation_approved` in student details screen",
+    "limit": "15"
   },
   "btn_add_transportation_request": {
     "message": "SOLICITAR TRANSPORTE",
-    "description": "SOLICITAR TRANSPORTE"
+    "description": "Add Transportation Request button title",
+    "limit": ""
   },
   "camera_permission_denied_description": {
     "message": "Parent Portal necesita permiso para acceder a la cámara de su dispositivo para tomar una foto. Vaya a Configuración> Privacidad> Cámara y habilite el Parent Portal",
-    "description": "Parent Portal necesita permiso para acceder a la cámara de su dispositivo para tomar una foto. Vaya a Configuración> Privacidad> Cámara y habilite el Parent Portal"
-  },
-  "camera_permission_not_now": {
-    "message": "Ahora no",
-    "description": "Ahora no"
+    "description": "Display when add student access request by QR code. Display to ask user allow permission to access to camera or photo library.",
+    "limit": ""
   },
   "camera_permission_required_title": {
     "message": "Permiso requerido",
-    "description": "Permiso requerido"
+    "description": "Title for alert to ask user permission",
+    "limit": ""
   },
   "camera_permission_settings": {
     "message": "Configuración abierta",
-    "description": "Configuración abierta"
+    "description": "Button to ask user open the app settings ",
+    "limit": ""
   },
   "change_password_saml_message_string": {
     "message": "La función Cambiar contraseña está deshabilitada al iniciar sesión con un proveedor externo.",
-    "description": "La función Cambiar contraseña está deshabilitada al iniciar sesión con un proveedor externo."
-  },
-  "check_for_update_settings": {
-    "message": "Actualizar configuración",
-    "description": "Actualizar configuración"
-  },
-  "checking_update_title": {
-    "message": "BUSCAR ACTUALIZACIONES",
-    "description": "BUSCAR ACTUALIZACIONES"
-  },
-  "confirm_schedule_add_request_successfully": {
-    "message": "Su solicitud ha sido enviada.",
-    "description": "Su solicitud ha sido enviada."
+    "description": "label not allow to change password due to sign in with saml in forgot password screen",
+    "limit": ""
   },
   "description_none": {
     "message": "Versión %1$s",
-    "description": "Versión %1$s"
+    "description": "Display version of the application.  %1$s is a version parameter. ",
+    "limit": ""
   },
   "desired_pickup_dropoff": {
     "message": "Dirección deseada para recogidas y entregas",
-    "description": "Dirección deseada para recogidas y entregas"
+    "description": "label to choose pickup or drop off when create a transportation request",
+    "limit": "35"
   },
   "edit_profile_button_profile_update": {
     "message": "GUARDAR",
-    "description": "GUARDAR"
-  },
-  "edit_profile_change_profile_photo": {
-    "message": "Elegir foto de perfil",
-    "description": "Elegir foto de perfil"
+    "description": "button update when change profile",
+    "limit": "8"
   },
   "edit_profile_change_profile_title": {
     "message": "Cambiar foto de perfil",
-    "description": "Cambiar foto de perfil"
+    "description": "The title of update profile photo.",
+    "limit": ""
   },
   "edit_profile_dob": {
     "message": "Nacida/do",
-    "description": "Nacida/do"
+    "description": "Lable Day of Birth when update profile",
+    "limit": "12"
   },
   "edit_profile_first_name": {
     "message": "Nombre",
-    "description": "Nombre"
+    "description": "label first name when update profile",
+    "limit": "15"
   },
   "edit_profile_gender": {
     "message": "Género",
-    "description": "Género"
+    "description": "label gender when update profile",
+    "limit": "15"
   },
   "edit_profile_hint_dob": {
     "message": "Seleccionar fecha",
-    "description": "Seleccionar fecha"
-  },
-  "edit_profile_hint_type_here": {
-    "message": "Escriba aquí",
-    "description": "Escriba aquí"
+    "description": "hint for dob text box when update profile",
+    "limit": "15"
   },
   "edit_profile_last_name": {
     "message": "Apellido",
-    "description": "Apellido"
+    "description": "label lastname when update profile",
+    "limit": "15"
   },
   "edit_profile_message_edit_failed": {
     "message": "Su solicitud no pudo ser procesada. Por favor trate de nuevo más tarde.",
-    "description": "Su solicitud no pudo ser procesada. Por favor trate de nuevo más tarde."
+    "description": "message error when update profile failed",
+    "limit": ""
   },
   "edit_profile_message_edit_successfully": {
     "message": "Su perfil ha sido actualizado exitosamente.",
-    "description": "Su perfil ha sido actualizado exitosamente."
+    "description": "message success when update profile failed",
+    "limit": ""
   },
   "edit_profile_saml_message_string": {
     "message": "La función Editar perfil se deshabilita al iniciar sesión con un proveedor externo.",
-    "description": "La función Editar perfil se deshabilita al iniciar sesión con un proveedor externo."
+    "description": "label to notice edit profie is not availabel when sign in with saml",
+    "limit": ""
   },
   "edit_profile_title": {
     "message": "INFORMACIÓN PERSONAL",
-    "description": "INFORMACIÓN PERSONAL"
-  },
-  "edit_to_school_schedule_title": {
-    "message": "Editar horario: “Hacia la escuela”",
-    "description": "Editar horario: “Hacia la escuela”"
+    "description": "Update profile screen title",
+    "limit": ""
   },
   "error_email_invalid": {
     "message": "Dirección de correo inválida.",
-    "description": "Dirección de correo inválida."
+    "description": "Common error when input invalid email. using many place",
+    "limit": ""
   },
   "error_environment_not_found": {
     "message": "Ambiente no localizado.",
-    "description": "Ambiente no localizado."
+    "description": "message show environment config not fond when sign in.",
+    "limit": ""
   },
   "error_network_not_available": {
     "message": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo.",
-    "description": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo."
-  },
-  "error_regex_email_tma": {
-    "message": "Dirección de correo no es válida.",
-    "description": "Dirección de correo no es válida."
+    "description": "common message show no network connection. using in many place",
+    "limit": ""
   },
   "error_something_went_wrong": {
     "message": "Hubo una equivocación. Por favor trate de nuevo.",
-    "description": "Hubo una equivocación. Por favor trate de nuevo."
+    "description": "common message show something when wrong. used in many place",
+    "limit": ""
   },
   "error_user_not_authorized": {
     "message": "Usuario no está autorizado a utilizar este recurso con un rechazo explícito.",
-    "description": "Usuario no está autorizado a utilizar este recurso con un rechazo explícito."
+    "description": "message show user does not have resource access when sign in",
+    "limit": ""
   },
   "every_fri": {
     "message": "Viernes",
-    "description": "Viernes"
-  },
-  "every_fri_long": {
-    "message": "Cada vie",
-    "description": "Cada vie"
+    "description": "label `Friday` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_fri_short": {
     "message": "Vie",
-    "description": "Vie"
+    "description": "text Fri when show transportation request list",
+    "limit": "3"
   },
   "every_mon": {
     "message": "Lunes",
-    "description": "Lunes"
-  },
-  "every_mon_long": {
-    "message": "Cada lun",
-    "description": "Cada lun"
+    "description": "label `Monday` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_mon_short": {
     "message": "Lun",
-    "description": "Lun"
+    "description": "text Mon when show transportation request list",
+    "limit": "3"
   },
   "every_sat": {
     "message": "Sábado",
-    "description": "Sábado"
-  },
-  "every_sat_long": {
-    "message": "Cada sáb",
-    "description": "Cada sáb"
+    "description": "label `Saturday` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_sat_short": {
     "message": "Sáb",
-    "description": "Sáb"
+    "description": "text Sat when show transportation request list",
+    "limit": "3"
   },
   "every_sun": {
     "message": "Domingo",
-    "description": "Domingo"
-  },
-  "every_sun_long": {
-    "message": "Cada dom",
-    "description": "Cada dom"
+    "description": "label `Sunday` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_sun_short": {
     "message": "dom",
-    "description": "dom"
+    "description": "text Sun when show transportation request list",
+    "limit": "3"
   },
   "every_thur": {
     "message": "Jueves",
-    "description": "Jueves"
-  },
-  "every_thur_long": {
-    "message": "Cada jue",
-    "description": "Cada jue"
+    "description": "label `Thursday ` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_thur_short": {
     "message": "Jue",
-    "description": "Jue"
+    "description": "text Thu when show transportation request list",
+    "limit": "3"
   },
   "every_tue": {
     "message": "Martes",
-    "description": "Martes"
-  },
-  "every_tue_long": {
-    "message": "Cada mar",
-    "description": "Cada mar"
+    "description": "label `Tuesday` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_tue_short": {
     "message": "Mar",
-    "description": "Mar"
+    "description": "text Tue when show transportation request list",
+    "limit": "3"
   },
   "every_wed": {
     "message": "Miércoles",
-    "description": "Miércoles"
-  },
-  "every_wed_long": {
-    "message": "Cada Mié",
-    "description": "Cada Mié"
+    "description": "label `Wednesday ` on check box repeat every when create transportation request",
+    "limit": ""
   },
   "every_wed_short": {
     "message": "Mié",
-    "description": "Mié"
+    "description": "text Wed when show transportation request list",
+    "limit": "3"
   },
   "forgot_password_change_password_title": {
     "message": "CAMBIAR CONTRASEÑA",
-    "description": "CAMBIAR CONTRASEÑA"
+    "description": "Change password screen title",
+    "limit": ""
   },
   "forgot_password_description": {
     "message": "Por favor ingrese su correo para recibir instrucciones sobre como restablecer restablecer su contraseña.",
-    "description": "Por favor ingrese su correo para recibir instrucciones sobre como restablecer restablecer su contraseña."
-  },
-  "forgot_password_email_not_exists": {
-    "message": "Su dirección de correo electrónico no existe en nuestro sistema.",
-    "description": "Su dirección de correo electrónico no existe en nuestro sistema."
+    "description": "label tell user enter password when change password",
+    "limit": ""
   },
   "forgot_password_error": {
     "message": "Restablecimiento de contraseña falló.",
-    "description": "Restablecimiento de contraseña falló."
-  },
-  "forgot_password_login": {
-    "message": "Iniciar sesión",
-    "description": "Iniciar sesión"
+    "description": "Error message when change password not success",
+    "limit": ""
   },
   "forgot_password_ok": {
     "message": "OK",
-    "description": "OK"
+    "description": "Tittle of a action to ask user close the popup.",
+    "limit": "8"
   },
   "forgot_password_send_another": {
     "message": "Envíar otro",
-    "description": "Envíar otro"
+    "description": "Send anthor email when send password success",
+    "limit": "20"
   },
   "forgot_password_sent_successfully": {
     "message": "Un e-mail con las instrucciones para restablecer su contraseña ha sido enviado a %1$s.",
-    "description": "Un e-mail con las instrucciones para restablecer su contraseña ha sido enviado a %1$s."
+    "description": "Message show send password success, replace with {email}",
+    "limit": ""
   },
   "forgot_password_submit_button": {
     "message": "Enviar",
-    "description": "Enviar"
+    "description": "Submit email when forgot password",
+    "limit": "20"
   },
   "forgot_password_title": {
     "message": "OLVIDÓ SU CONTRASEÑA?",
-    "description": "OLVIDÓ SU CONTRASEÑA?"
+    "description": "Title of forgot password screen",
+    "limit": ""
   },
-  "from_school_schedule_btn_look_up": {
-    "message": "Buscar puntos de desembarque cercanos.",
-    "description": "Buscar puntos de desembarque cercanos."
+  "From School": {
+    "message": "Desde la escuela",
+    "description": "Trip type `From School` when show a transportation request. using many place",
+    "limit": "20"
   },
   "from_school_schedule_select_drop_off_stops": {
     "message": "Seleccionar punto de desembarque.",
-    "description": "Seleccionar punto de desembarque."
-  },
-  "from_school_schedule_title": {
-    "message": "Horario desde la escuela",
-    "description": "Horario desde la escuela"
+    "description": "",
+    "limit": ""
   },
   "general_ago": {
     "message": "hace",
-    "description": "hace"
-  },
-  "general_back": {
-    "message": "Volver",
-    "description": "Volver"
+    "description": "Text ago of trip time in home screen",
+    "limit": ""
   },
   "general_bus_id_label": {
     "message": "Identifiación del Bús:",
-    "description": "Identifiación del Bús:"
+    "description": "Title of a label display bus Id information",
+    "limit": "12"
   },
   "general_cancel": {
     "message": "Cancelar",
-    "description": "Cancelar"
+    "description": "General cancel button",
+    "limit": "8"
   },
   "general_clear": {
     "message": "Despejar",
-    "description": "Despejar"
+    "description": "General clear button",
+    "limit": "8"
   },
   "general_delete": {
     "message": "Borrar",
-    "description": "Borrar"
+    "description": "Delete action button",
+    "limit": "12"
   },
   "general_done": {
     "message": "Listo",
-    "description": "Listo"
+    "description": "General done button",
+    "limit": "8"
   },
   "general_drop_off": {
-    "message": "La dejada",
-    "description": "La dejada"
-  },
-  "general_error": {
-    "message": "Error",
-    "description": "Error"
+    "message": "Punto de desembarque",
+    "description": "General droff - off text",
+    "limit": "8"
   },
   "general_female": {
     "message": "Mujer",
-    "description": "Mujer"
+    "description": "general female text",
+    "limit": "8"
   },
   "general_hour": {
     "message": "hora",
-    "description": "hora"
+    "description": "general hour text",
+    "limit": "8"
   },
   "general_hours": {
     "message": "horas",
-    "description": "horas"
+    "description": "general hours text",
+    "limit": "8"
   },
   "general_id": {
-    "message": "ID",
-    "description": "ID"
+    "message": "",
+    "description": "general ID text",
+    "limit": "2"
   },
   "general_imperial": {
     "message": "Imperial",
-    "description": "Imperial"
+    "description": "general Imperial text. use in setting screen",
+    "limit": "8"
   },
   "general_in": {
     "message": "en",
-    "description": "en"
-  },
-  "general_kilometers": {
-    "message": "Kilómetros",
-    "description": "Kilómetros"
-  },
-  "general_km_params": {
-    "message": "%1$s km",
-    "description": "%1$s km"
+    "description": "general In text. sample drof-off in 5 hours",
+    "limit": ""
   },
   "general_library": {
     "message": "Biblioteca",
-    "description": "Biblioteca"
+    "description": "",
+    "limit": ""
   },
   "general_male": {
     "message": "Hombre",
-    "description": "Hombre"
+    "description": "general male text",
+    "limit": "8"
   },
   "general_metric": {
     "message": "Metric",
-    "description": "Metric"
+    "description": "general `Metric` text, using in setting screen",
+    "limit": ""
   },
   "general_miles": {
     "message": "millas",
-    "description": "millas"
+    "description": "Geneal `Miles` text, used in component show the distance like alert zone, trip,...",
+    "limit": "6"
   },
   "general_miles_params": {
     "message": "%1$s millas",
-    "description": "%1$s millas"
+    "description": "%1$s is a number mile parameter",
+    "limit": ""
   },
   "general_minute": {
     "message": "minuto",
-    "description": "minuto"
+    "description": "Geneal `Minute` text, used in component show the time like trip,...",
+    "limit": "8"
   },
   "general_minutes": {
     "message": "minutos",
-    "description": "minutos"
+    "description": "Geneal `Minutes` text, used in component show the time like trip,...",
+    "limit": "8"
   },
   "general_no": {
     "message": "No",
-    "description": "No"
+    "description": "`No` text, use in negative choice",
+    "limit": ""
   },
   "general_no_network": {
     "message": "Desconectado del internet",
-    "description": "Desconectado del internet"
-  },
-  "general_no_network_message": {
-    "message": "Revise su configuración de internet",
-    "description": "Revise su configuración de internet"
+    "description": "show dialog no network connection, used in many place",
+    "limit": ""
   },
   "general_not_available": {
-    "message": "N/A",
-    "description": "N/A"
+    "message": "",
+    "description": "genera `N/A` text, used in many component which has no data, such as ride registration...",
+    "limit": "10"
   },
   "general_ok": {
     "message": "OK",
-    "description": "OK"
+    "description": "genera `OK` text, usd in positive choice.",
+    "limit": ""
   },
   "general_pick_photo": {
     "message": "ELEGIR FOTO",
-    "description": "ELEGIR FOTO"
+    "description": "Title of the view ask user select photo.",
+    "limit": ""
   },
   "general_pickup": {
     "message": "Recogida",
-    "description": "Recogida"
+    "description": "general `Pick up` text, used in many component show the pick up time.",
+    "limit": "12"
   },
   "general_restart": {
     "message": "REINICIAR",
-    "description": "REINICIAR"
+    "description": "general `Restart` text, used when restart the application",
+    "limit": ""
   },
   "general_route_code": {
-    "message": "Código de ruta",
-    "description": "Código de ruta"
+    "message": "",
+    "description": "Title of the label to indicate Route Code information",
+    "limit": "15"
   },
   "general_route_number_label": {
     "message": "Número de Ruta:",
-    "description": "Número de Ruta:"
+    "description": "general `Route Number:` text, used to show the route of trip in many component",
+    "limit": "15"
   },
   "general_save": {
     "message": "Guardar",
-    "description": "Guardar"
+    "description": "general `save` text, used to show the save action, used when save the setting like language, metric",
+    "limit": ""
   },
   "general_short_kilometers": {
     "message": "km",
-    "description": "km"
+    "description": "general `Km` text, stand for kilometers, used in setting screen",
+    "limit": "5"
   },
   "general_student": {
     "message": "Estudiante",
-    "description": "Estudiante"
+    "description": "general `Student` text, used in many label show the student information",
+    "limit": "12"
   },
   "general_take_photo": {
     "message": "Tomar foto",
-    "description": "Tomar foto"
+    "description": "Title of select photo option.",
+    "limit": ""
   },
   "general_trip_type": {
-    "message": "Viaje %1$s",
-    "description": "Viaje %1$s"
+    "message": "",
+    "description": "general `Trip` text, combine with trip type like from school trip, to school trip. used in component trip {trip type} trip",
+    "limit": "12"
   },
   "general_units": {
     "message": "Unidades",
-    "description": "Unidades"
+    "description": "General `Unit` text, show in setting screen",
+    "limit": ""
   },
   "general_unknown": {
-    "message": "Desconocida",
-    "description": "Desconocida"
+    "message": "",
+    "description": "General `Unkown` text, used when user pick up an unknown address",
+    "limit": ""
   },
   "general_update": {
     "message": "Actualizar",
-    "description": "Actualizar"
+    "description": "\nGeneral `Update` text, used when application show update dialog\n",
+    "limit": ""
   },
   "general_update_now": {
     "message": "Actualizar Ahora",
-    "description": "Actualizar Ahora"
+    "description": "General `Update Now` text, used to show the action update now in update app screen",
+    "limit": ""
   },
   "general_vehicle_information": {
-    "message": "Información del vehículo",
-    "description": "Información del vehículo"
+    "message": "",
+    "description": "Title of a label to indicate Vehicle information",
+    "limit": ""
   },
   "general_vehicle_name_label": {
     "message": "Nombre de Vehiculo",
-    "description": "Nombre de Vehiculo"
+    "description": "General `Vehicle Name:` text, used to show the name of vehicle in the trip component, used in many place",
+    "limit": "16"
   },
   "general_yes": {
     "message": "Si",
-    "description": "Si"
-  },
-  "geofence_editor_address_label": {
-    "message": "Dirección:",
-    "description": "Dirección:"
-  },
-  "geofence_editor_confirm_quit_message": {
-    "message": "¿Está seguro de que quiere salir del editor de alerta? Los datos no guardados se perderán.",
-    "description": "¿Está seguro de que quiere salir del editor de alerta? Los datos no guardados se perderán."
+    "description": "the `Yes` choice, show in many dialog",
+    "limit": ""
   },
   "geofence_editor_end_time": {
     "message": "Tiempo de inicio",
-    "description": "Tiempo de inicio"
+    "description": "the label end time when show the transportation schedule ",
+    "limit": ""
   },
   "geofence_editor_error_invalid_time_range": {
     "message": "Tiempo de inicio debe preceder el Tiempo de finalización.",
-    "description": "Tiempo de inicio debe preceder el Tiempo de finalización."
-  },
-  "geofence_editor_error_maximum": {
-    "message": "Solo hay tres zonas de alerta disponibles para cada vehículo.",
-    "description": "Solo hay tres zonas de alerta disponibles para cada vehículo."
-  },
-  "geofence_editor_hint_geofence_address": {
-    "message": "Dirección de Zona de Alerta:",
-    "description": "Dirección de Zona de Alerta:"
-  },
-  "geofence_editor_hint_geofence_name": {
-    "message": "Nombre de Zona de Alerta:",
-    "description": "Nombre de Zona de Alerta:"
-  },
-  "geofence_editor_name_label": {
-    "message": "Nombre:",
-    "description": "Nombre:"
-  },
-  "geofence_editor_radius_label": {
-    "message": "Radio: %.1f millas",
-    "description": "Radio: %.1f millas"
-  },
-  "geofence_editor_require_name": {
-    "message": "Por favor nombre su zona de alerta.",
-    "description": "Por favor nombre su zona de alerta."
+    "description": "The error message when user pick the end time before start time when create a transportation request",
+    "limit": ""
   },
   "geofence_editor_start_time": {
     "message": "Tiempo de inicio",
-    "description": "Tiempo de inicio"
-  },
-  "geofence_editor_time_am": {
-    "message": "AM",
-    "description": "AM"
-  },
-  "geofence_editor_time_label": {
-    "message": "Tiempo de alerta",
-    "description": "Tiempo de alerta"
-  },
-  "geofence_editor_time_pm": {
-    "message": "PM",
-    "description": "PM"
-  },
-  "geofence_editor_toolbar_add_title": {
-    "message": "AGREGAR ZONA DE ALERTA",
-    "description": "AGREGAR ZONA DE ALERTA"
-  },
-  "geofence_editor_toolbar_edit_title": {
-    "message": "EDITAR ZONA DE ALERTA",
-    "description": "EDITAR ZONA DE ALERTA"
-  },
-  "geofence_list_bus_label": {
-    "message": "Autobús",
-    "description": "Autobús"
-  },
-  "geofence_list_confirm_delete": {
-    "message": "Está seguro de que quiere borrar esta zona de alerta?",
-    "description": "Está seguro de que quiere borrar esta zona de alerta?"
-  },
-  "geofence_list_empty_view_button": {
-    "message": "Agregar zona de alerta",
-    "description": "Agregar zona de alerta"
-  },
-  "geofence_list_empty_view_message": {
-    "message": "No ha configurado zonas de alerta. Use el botón,«Agregar zona de alerta», para crear una nueva.",
-    "description": "No ha configurado zonas de alerta. Use el botón,«Agregar zona de alerta», para crear una nueva."
-  },
-  "geofence_list_not_found": {
-    "message": "No se encontró zona de alerta.",
-    "description": "No se encontró zona de alerta."
+    "description": "the label start time when show the transportation schedule ",
+    "limit": ""
   },
   "hint_dob": {
     "message": "Seleccionar fecha",
-    "description": "Seleccionar fecha"
+    "description": "the hint of DOB text box when add a student",
+    "limit": ""
   },
-  "hint_edt_password": {
-    "message": "Ingresar contraseña anterior",
-    "description": "Ingresar contraseña anterior"
-  },
-  "hint_first_name": {
-    "message": "Nombre",
-    "description": "Nombre"
-  },
-  "hint_gender": {
-    "message": "Seleccionar",
-    "description": "Seleccionar"
-  },
-  "hint_last_name": {
-    "message": "Apellido",
-    "description": "Apellido"
-  },
+  "hint_first_name": { "message": "Nombre", "description": "", "limit": "15" },
+  "hint_last_name": { "message": "Apellido", "description": "", "limit": "15" },
   "hint_school": {
     "message": "Seleccionar escuela",
-    "description": "Seleccionar escuela"
+    "description": "",
+    "limit": ""
   },
   "hint_student_id": {
     "message": "Número de Identificación",
-    "description": "Número de Identificación"
+    "description": "",
+    "limit": "15"
   },
   "hint_type_comment_here": {
     "message": "Ingresar comentario",
-    "description": "Ingresar comentario"
-  },
-  "hint_type_here": {
-    "message": "Escriba aquí",
-    "description": "Escriba aquí"
+    "description": "",
+    "limit": ""
   },
   "home_cards_bus_title": {
     "message": "Autobús %s",
-    "description": "Autobús %s"
+    "description": "",
+    "limit": "12"
   },
   "home_cards_title": {
     "message": "Portal para padres",
-    "description": "Portal para padres"
+    "description": "",
+    "limit": ""
   },
   "home_loading_trips": {
     "message": "Cargando viajes",
-    "description": "Cargando viajes"
+    "description": "",
+    "limit": ""
   },
   "home_trip_detail_menu": {
     "message": "Detalles del viaje",
-    "description": "Detalles del viaje"
+    "description": "",
+    "limit": ""
   },
   "idp_sign_in_navigation_title": {
     "message": "Iniciar sesión por distrito",
-    "description": "Iniciar sesión por distrito"
+    "description": "",
+    "limit": ""
   },
   "idp_sign_in_not_found": {
     "message": "Lo sentimos, no pudimos encontrar tu distrito. Verifique el nombre de su distrito e intente nuevamente.",
-    "description": "Lo sentimos, no pudimos encontrar tu distrito. Verifique el nombre de su distrito e intente nuevamente."
+    "description": "",
+    "limit": ""
   },
   "idp_sign_in_required_message": {
     "message": "Se requiere el nombre del distrito",
-    "description": "Se requiere el nombre del distrito"
+    "description": "",
+    "limit": ""
   },
   "idp_sign_in_title": {
     "message": "Nombre completo del distrito",
-    "description": "Nombre completo del distrito"
+    "description": "",
+    "limit": ""
   },
   "image_qr_code_selected_invalid": {
     "message": "No se puede detectar el código QR de la imagen seleccionada. Por favor elije otro.",
-    "description": "No se puede detectar el código QR de la imagen seleccionada. Por favor elije otro."
+    "description": "Display when user add student by QR code but the application can't detect the QR code.",
+    "limit": ""
   },
   "inbox_detail_empty_description": {
     "message": "Por favor, inténtelo de nuevo más tarde",
-    "description": "Por favor, inténtelo de nuevo más tarde"
+    "description": "Display when can't load inbox detail",
+    "limit": ""
   },
   "inbox_detail_empty_title": {
     "message": "No se puede cargar el contenido.",
-    "description": "No se puede cargar el contenido."
+    "description": "Display when can't load inbox detail",
+    "limit": ""
   },
   "inbox_notification_cannot_connect_server": {
     "message": "No se puede conectar al servidor.",
-    "description": "No se puede conectar al servidor."
+    "description": "Display when the app can't connect to server",
+    "limit": ""
   },
   "inbox_notification_cannot_connect_server_try_again": {
     "message": "Compruebe Internet o vuelva a intentarlo.",
-    "description": "Compruebe Internet o vuelva a intentarlo."
+    "description": "The description message. Display when can't load inbox item list",
+    "limit": ""
   },
   "inbox_notification_confirm_all_message": {
     "message": "¿Está seguro de que desea eliminar todos los mensajes y notificaciones en la Bandeja de entrada?",
-    "description": "¿Está seguro de que desea eliminar todos los mensajes y notificaciones en la Bandeja de entrada?"
+    "description": "Display when user tap on button delete all inbox message. ",
+    "limit": ""
   },
   "inbox_notification_confirm_all_system_message": {
     "message": "¿Está seguro de que desea eliminar todas las notificaciones en la Bandeja de entrada?",
-    "description": "¿Está seguro de que desea eliminar todas las notificaciones en la Bandeja de entrada?"
+    "description": "Display when user tap on button delete all inbox message with notification type.",
+    "limit": ""
   },
   "inbox_notification_confirm_all_user_message": {
     "message": "¿Está seguro de que desea eliminar todos los mensajes en la Bandeja de entrada?",
-    "description": "¿Está seguro de que desea eliminar todos los mensajes en la Bandeja de entrada?"
+    "description": "Display when user tap on button delete all inbox message with message type.",
+    "limit": ""
   },
   "inbox_notification_confirm_delete_a_message": {
     "message": "¿Está seguro de que desea eliminar este mensaje?",
-    "description": "¿Está seguro de que desea eliminar este mensaje?"
+    "description": "Display when user delete one inbox message.",
+    "limit": ""
   },
   "inbox_notification_delete_all": {
     "message": "Eliminar todo",
-    "description": "Eliminar todo"
+    "description": "The button delete all message.",
+    "limit": "15"
   },
   "inbox_notification_delete_message_fails": {
     "message": "El mensaje no se puede eliminar debido a un problema en el servidor. Inténtelo de nuevo",
-    "description": "El mensaje no se puede eliminar debido a un problema en el servidor. Inténtelo de nuevo"
+    "description": "The message display when user tap on delete button but there is a problem with the server. ",
+    "limit": ""
   },
   "inbox_notification_details_date_title": {
     "message": "Fecha: ",
-    "description": "Fecha: "
+    "description": "Indicate the date time of the inbox message.",
+    "limit": "12"
   },
   "inbox_notification_details_empty": {
     "message": "No se puede cargar el contenido.",
-    "description": "No se puede cargar el contenido."
+    "description": "Display if the application can't load content of the inbox message",
+    "limit": ""
   },
   "inbox_notification_details_try_later": {
     "message": "Vuelva a intentarlo más tarde.",
-    "description": "Vuelva a intentarlo más tarde."
+    "description": "Display if the application can't load content of the inbox message",
+    "limit": ""
   },
   "inbox_notification_message_empty": {
     "message": "La bandeja de entrada está vacía",
-    "description": "La bandeja de entrada está vacía"
+    "description": "Display when there is no inbox message display on the list.",
+    "limit": ""
   },
   "inbox_notification_message_empty_content": {
     "message": "No hay visualización de mensajes en este momento.",
-    "description": "No hay visualización de mensajes en este momento."
+    "description": "",
+    "limit": ""
   },
   "inbox_notification_message_from_admin": {
     "message": "Mensaje del administrador de la escuela",
-    "description": "Mensaje del administrador de la escuela"
+    "description": "",
+    "limit": ""
   },
   "inbox_notification_message_from_system": {
     "message": "Mensaje del sistema escolar",
-    "description": "Mensaje del sistema escolar"
+    "description": "",
+    "limit": ""
   },
   "inbox_notification_title": {
     "message": "Bandeja de entrada",
-    "description": "Bandeja de entrada"
+    "description": "Title of the inbox message.",
+    "limit": "15"
   },
   "inbox_notification_title_from_message": {
     "message": "Mensaje",
-    "description": "Mensaje"
+    "description": "Navigation bar title of the inbox type send from School admin",
+    "limit": "15"
   },
   "inbox_notification_title_from_system": {
     "message": "Sistema",
-    "description": "Sistema"
+    "description": "Navigation bar title of the inbox type send automaticly from the system",
+    "limit": "15"
   },
   "information_qr_code": {
     "message": "Información",
-    "description": "Información"
+    "description": "",
+    "limit": ""
   },
-  "item_filter_last_month": {
-    "message": "Mes pasado",
-    "description": "Mes pasado"
-  },
-  "item_filter_last_year": {
-    "message": "Año pasado",
-    "description": "Año pasado"
-  },
-  "item_filter_time_range": {
-    "message": "Período de tiempo",
-    "description": "Período de tiempo"
-  },
-  "item_filter_today": {
-    "message": "Hoy",
-    "description": "Hoy"
-  },
+  "item_filter_today": { "message": "Hoy", "description": "", "limit": "20" },
   "item_filter_yesterday": {
     "message": "Ayer",
-    "description": "Ayer"
-  },
-  "item_header_schedule_number_1": {
-    "message": "1",
-    "description": "1"
-  },
-  "item_header_schedule_number_2": {
-    "message": "2",
-    "description": "2"
-  },
-  "item_header_schedule_number_3": {
-    "message": "3",
-    "description": "3"
-  },
-  "item_header_schedule_to_school": {
-    "message": "Hacia la escuela",
-    "description": "Hacia la escuela"
-  },
-  "item_header_transportation_request_status_reject": {
-    "message": "Rechazado",
-    "description": "Rechazado"
-  },
-  "item_header_transportation_request_tv_created_on": {
-    "message": "Creado el",
-    "description": "Creado el"
+    "description": "",
+    "limit": "20"
   },
   "login_button_title": {
     "message": "Iniciar sesión",
-    "description": "Iniciar sesión"
+    "description": "",
+    "limit": ""
   },
-  "login_email": {
-    "message": "E-mail",
-    "description": "E-mail"
-  },
-  "login_error_email_not_confirmed": {
-    "message": "La dirección de correo electrónico ya existe pero la cuenta no se ha activado.",
-    "description": "La dirección de correo electrónico ya existe pero la cuenta no se ha activado."
-  },
-  "login_error_email_pass_incorrect": {
-    "message": "Uy! Ninguna cuenta ha coincidido con la información provista.",
-    "description": "Uy! Ninguna cuenta ha coincidido con la información provista."
-  },
-  "login_error_locked_account": {
-    "message": "Esta cuenta ha sido temporalmente obstruida debido a un exceso de atentos de inicio de sesión.",
-    "description": "Esta cuenta ha sido temporalmente obstruida debido a un exceso de atentos de inicio de sesión."
-  },
+  "login_email": { "message": "E-mail", "description": "", "limit": "" },
   "login_error_network_not_available": {
     "message": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo.",
-    "description": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo."
-  },
-  "login_example_name": {
-    "message": "jpérez@correo.com",
-    "description": "jpérez@correo.com"
+    "description": "Display on sign-in screen. When user tap on Sign-in button but the request is erro due to Server or Network",
+    "limit": ""
   },
   "login_forgot_password": {
     "message": "Olvidó su contraseña?",
-    "description": "Olvidó su contraseña?"
-  },
-  "login_name": {
-    "message": "Cuenta",
-    "description": "Cuenta"
+    "description": "Display on sign-in screen. If you not remember their password they can tap on the forgot password to get the new password.",
+    "limit": ""
   },
   "login_password": {
     "message": "Contraseña",
-    "description": "Contraseña"
-  },
-  "login_remember_id": {
-    "message": "Recordarme",
-    "description": "Recordarme"
+    "description": "Title to indicate Password input.",
+    "limit": ""
   },
   "login_resend_email_success": {
     "message": "Se ha enviado un enlace de activación a su dirección de correo electrónico [%1$s]. Verifique su correo electrónico y siga las instrucciones para activar su cuenta.",
-    "description": "Se ha enviado un enlace de activación a su dirección de correo electrónico [%1$s]. Verifique su correo electrónico y siga las instrucciones para activar su cuenta."
+    "description": "Display if user sign-in with an account not activate. The parameter  [%1$s] is an user email. \nExample: An activation link has been sent to your email address [gdvo@karrostech.com]. Please check your email and follow the instructions to activate your account.",
+    "limit": ""
   },
   "login_signup_title": {
     "message": "Suscribirse",
-    "description": "Suscribirse"
-  },
-  "main_tabs_district_list": {
-    "message": "Distritos",
-    "description": "Distritos"
-  },
-  "main_tabs_home": {
-    "message": "Residencia",
-    "description": "Residencia"
-  },
-  "main_tabs_setting": {
-    "message": "Ajustes",
-    "description": "Ajustes"
-  },
-  "main_tabs_where_my_bus": {
-    "message": "Mis autobuses",
-    "description": "Mis autobuses"
-  },
-  "message_alert_zones_migrate_loading": {
-    "message": "Migración de zona de alerta en proceso…",
-    "description": "Migración de zona de alerta en proceso…"
-  },
-  "message_empty_scan_history": {
-    "message": "%1$s aún no ha sido admitido hoy.",
-    "description": "%1$s aún no ha sido admitido hoy."
-  },
-  "message_empty_vehicle": {
-    "message": "No se encontraron vehículos.",
-    "description": "No se encontraron vehículos."
-  },
-  "message_new_version_force": {
-    "message": "Por favor actualice la aplicación. Hay una nueva versión disponible.",
-    "description": "Por favor actualice la aplicación. Hay una nueva versión disponible."
-  },
-  "message_new_version_optional": {
-    "message": "Por favor actualice la aplicación para ganar nuevas y emocionantes características!",
-    "description": "Por favor actualice la aplicación para ganar nuevas y emocionantes características!"
+    "description": "The Sign-up button title display at Sign-in screen. The user can tap on that the Sign-up button to register a new account.",
+    "limit": ""
   },
   "message_required_dob": {
     "message": "Se requiere la fecha de nacimiento",
-    "description": "Se requiere la fecha de nacimiento"
+    "description": "Display when user not enter Date of birth input.",
+    "limit": ""
   },
   "message_required_email": {
     "message": "Se requiere un e-mail",
-    "description": "Se requiere un e-mail"
+    "description": "Display when user not enter the email input",
+    "limit": ""
   },
   "message_required_first_name": {
     "message": "Se requiere el nombre del estudiante",
-    "description": "Se requiere el nombre del estudiante"
+    "description": "Display when user not enter student first name when add student access request",
+    "limit": ""
   },
   "message_required_gender": {
     "message": "Se requiere el género",
-    "description": "Se requiere el género"
+    "description": "Display when user not enter the gender input",
+    "limit": ""
   },
   "message_required_last_name": {
     "message": "Se requiere el apellido",
-    "description": "Se requiere el apellido"
+    "description": "Display when user not enter student last name when add student access request",
+    "limit": ""
   },
   "message_required_password": {
     "message": "Se requiere una contraseña",
-    "description": "Se requiere una contraseña"
+    "description": "Display when user not enter password on Sign-in screen",
+    "limit": ""
   },
-  "message_student_loading": {
-    "message": "Cargando estudiantes...",
-    "description": "Cargando estudiantes..."
-  },
-  "message_transportation_details_loading": {
-    "message": "Cargando…",
-    "description": "Cargando…"
-  },
-  "message_transportation_loading": {
-    "message": "Cargando información del transporte",
-    "description": "Cargando información del transporte"
-  },
-  "message_vehicles_loading": {
-    "message": "Cargando vehículos…",
-    "description": "Cargando vehículos…"
-  },
-  "message_warning_compare_date_from_date_to": {
-    "message": "Fecha inicial debe precedar Fecha final",
-    "description": "Fecha inicial debe precedar Fecha final"
-  },
-  "my_child_display_text_when_0_minute_incoming": {
-    "message": "Llegando ahora",
-    "description": "Llegando ahora"
-  },
-  "name": {
-    "message": "Nombre",
-    "description": "Nombre"
-  },
-  "nav_check_for_update": {
-    "message": "BUSCAR ACTUALIZACIONES",
-    "description": "BUSCAR ACTUALIZACIONES"
-  },
+  "name": { "message": "Nombre", "description": "", "limit": "" },
   "navigation_home": {
     "message": "Residencia",
-    "description": "Residencia"
+    "description": "The title of the main tabbar of the application. ",
+    "limit": "10"
   },
   "navigation_my_bus": {
     "message": "Mi autobús",
-    "description": "Mi autobús"
+    "description": "The title of the Where's my bus tabbar of the application. ",
+    "limit": "6"
   },
   "navigation_notification": {
     "message": "Notificaciones",
-    "description": "Notificaciones"
+    "description": "",
+    "limit": "18"
   },
   "navigation_setting": {
     "message": "Ajustes",
-    "description": "Ajustes"
+    "description": "The title of the Setting tabbar of the application. ",
+    "limit": "8"
   },
   "navigation_setting_enable": {
     "message": "Notificaciones habilitadas",
-    "description": "Notificaciones habilitadas"
+    "description": "Display if notification setting enabled in notification setting",
+    "limit": ""
   },
   "navigation_setting_scan_history_notification": {
     "message": "Notificaciones de admisión al autobús",
-    "description": "Notificaciones de admisión al autobús"
+    "description": "Scan notification section in notification setting screen",
+    "limit": ""
   },
   "navigation_setting_trip_notification": {
     "message": "Notificaciones de viaje por zonas de alerta",
-    "description": "Notificaciones de viaje por zonas de alerta"
+    "description": "Student Trip Alertzone notification section in notification setting screen",
+    "limit": "29"
   },
   "navigation_student_list": {
     "message": "Lista de estudiantes",
-    "description": "Lista de estudiantes"
+    "description": "The title of student access request list screen",
+    "limit": "15"
   },
   "navigation_transportation_list": {
     "message": "Solicitudes",
-    "description": "Solicitudes"
+    "description": "Tabbar string of Transportation Request feature",
+    "limit": "8"
   },
   "navigation_your_bus_arriving": {
     "message": "Autobús %2$s está llegando para el viaje, %3$s, de %1$s.",
-    "description": "Autobús %2$s está llegando para el viaje, %3$s, de %1$s."
+    "description": "Bus {Bus number} is arriving for {student first name}'s {trip type} trip. \nExample: Bus 001 is arriving for Mina's to school trip. ",
+    "limit": ""
   },
   "no_child_on_bus": {
     "message": "Ningún estudiante tiene transporte planificado para este día.",
-    "description": "Ningún estudiante tiene transporte planificado para este día."
+    "description": "Display on home screen if there are no student trip for today.",
+    "limit": ""
   },
   "no_schedule_add_request": {
     "message": "Solicitar transporte",
-    "description": "Solicitar transporte"
+    "description": "",
+    "limit": ""
   },
   "no_schedule_here": {
     "message": "Sin Horario",
-    "description": "Sin Horario"
+    "description": "Transportation schedule empty title",
+    "limit": ""
   },
   "no_schedule_not_assigned": {
-    "message": "Su estudiante actualmente no tiene transporte asignado.",
-    "description": "Su estudiante actualmente no tiene transporte asignado."
-  },
-  "notificaiton_vehicle_alert_body": {
-    "message": "Autobús %1$s ha entrado en %2$s",
-    "description": "Autobús %1$s ha entrado en %2$s"
-  },
-  "notification_channel_id": {
-    "message": "¿Esto requiere ser llenado?",
-    "description": "¿Esto requiere ser llenado?"
-  },
-  "notification_dialog_back_to_home": {
-    "message": "De vuelta a Residencia",
-    "description": "De vuelta a Residencia"
-  },
-  "notification_dialog_title": {
-    "message": "Notificación",
-    "description": "Notificación"
+    "message": "Su estudiante actualmente no tiene transporte asignado. Esto con frecuencia es impreciso. Por ejemplo: el transporte puede estar asignado pero los servicios pueden estar fallando; Hay que investigar este hecho.",
+    "description": "Transportation schedule empty message",
+    "limit": ""
   },
   "notification_inbox_all_tab": {
     "message": "Todos",
-    "description": "Todos"
+    "description": "",
+    "limit": "12"
   },
   "notification_inbox_message_tab": {
     "message": "Mensaje",
-    "description": "Mensaje"
+    "description": "",
+    "limit": "12"
   },
   "notification_inbox_notification_tab": {
     "message": "Notificación",
-    "description": "Notificación"
-  },
-  "notification_message_bus_entering_geofence": {
-    "message": "Autobús %1$s ha entrado en %2$s",
-    "description": "Autobús %1$s ha entrado en %2$s"
+    "description": "",
+    "limit": "12"
   },
   "notification_message_bus_entering_geofence_html": {
     "message": "Autobús",
-    "description": "Autobús"
-  },
-  "notification_setting_alert_message_turn_off": {
-    "message": "Habilitar notificaciones para recibir notificaciones",
-    "description": "Habilitar notificaciones para recibir notificaciones"
-  },
-  "notification_setting_alert_message_turn_on": {
-    "message": "Deshabilitar notificaciones para no recibir notificaciones",
-    "description": "Deshabilitar notificaciones para no recibir notificaciones"
-  },
-  "notification_setting_alert_title_turn_off": {
-    "message": "Las notificaciones están deshabilitadas",
-    "description": "Las notificaciones están deshabilitadas"
-  },
-  "notification_setting_alert_title_turn_on": {
-    "message": "Las notificaciones están habilitadas",
-    "description": "Las notificaciones están habilitadas"
-  },
-  "notification_setting_enable": {
-    "message": "Notificaciones habilitadas",
-    "description": "Notificaciones habilitadas"
+    "description": "",
+    "limit": ""
   },
   "notification_setting_from_school_trip": {
     "message": "desde la escuela",
-    "description": "desde la escuela"
-  },
-  "notification_settings": {
-    "message": "Ajustes de notificaciones",
-    "description": "Ajustes de notificaciones"
+    "description": "",
+    "limit": "15"
   },
   "notification_setting_scan": {
     "message": "Notificaciones de admisión al autobús",
-    "description": "Notificaciones de admisión al autobús"
-  },
-  "notification_settings_email": {
-    "message": "E-mail",
-    "description": "E-mail"
-  },
-  "notification_settings_enable": {
-    "message": "Notificaciones habilitadas",
-    "description": "Notificaciones habilitadas"
-  },
-  "notification_settings_robotcalls": {
-    "message": "Notificaciones de voz",
-    "description": "Notificaciones de voz"
-  },
-  "notification_settings_scan_notification_alert": {
-    "message": "Debajo puede habilitar o deshabilitar notificaciones de admisión para estudiantes individualmente.",
-    "description": "Debajo puede habilitar o deshabilitar notificaciones de admisión para estudiantes individualmente."
-  },
-  "notification_settings_scan_notification_label": {
-    "message": "Notificaciones de admisión al autobús",
-    "description": "Notificaciones de admisión al autobús"
-  },
-  "notification_settings_sms": {
-    "message": "SMS",
-    "description": "SMS"
-  },
-  "notification_settings_trip_notification": {
-    "message": "Notificaciones de zona de alerta",
-    "description": "Notificaciones de zona de alerta"
-  },
-  "notification_settings_trip_notification_item": {
-    "message": "Viaje %2$s de %1$s",
-    "description": "Viaje %2$s de %1$s"
-  },
-  "notification_settings_vehicle_notification": {
-    "message": "Notificaciones del Autobús",
-    "description": "Notificaciones del Autobús"
-  },
-  "notification_setting_title": {
-    "message": "AJUSTES DE NOTIFICACIONES",
-    "description": "AJUSTES DE NOTIFICACIONES"
+    "description": "",
+    "limit": ""
   },
   "notification_setting_to_school_trip": {
     "message": "a la escuela",
-    "description": "a la escuela"
+    "description": "A trip to school of the student",
+    "limit": "15"
   },
-  "notification_setting_vehicle": {
-    "message": "Notificaciones de Autobús",
-    "description": "Notificaciones de Autobús"
+  "notification_settings": {
+    "message": "Ajustes de notificaciones",
+    "description": "Screen title of notification setting",
+    "limit": ""
+  },
+  "notification_settings_enable": {
+    "message": "Notificaciones habilitadas",
+    "description": "",
+    "limit": ""
+  },
+  "notification_settings_scan_notification_alert": {
+    "message": "Debajo puede habilitar o deshabilitar notificaciones de admisión para estudiantes individualmente.",
+    "description": "",
+    "limit": ""
+  },
+  "notification_settings_scan_notification_label": {
+    "message": "Notificaciones de admisión al autobús",
+    "description": "",
+    "limit": ""
+  },
+  "notification_settings_trip_notification": {
+    "message": "Notificaciones de zona de alerta",
+    "description": "",
+    "limit": ""
+  },
+  "notification_settings_trip_notification_item": {
+    "message": "Viaje %2$s de %1$s",
+    "description": "{Student}'s {Trip type} trip\nExample: Hena's to school trip ",
+    "limit": "12"
   },
   "notification_title": {
     "message": "Portal de Padres Edulog",
-    "description": "Portal de Padres Edulog"
+    "description": "",
+    "limit": ""
   },
   "notification_vehicle_alert_title": {
     "message": "Notificaciones del portal para padres",
-    "description": "Notificaciones del portal para padres"
-  },
-  "notification_vehicle_is_disable_message": {
-    "message": "Las notificaciones acerca de este vehículo están deshabilitadas.",
-    "description": "Las notificaciones acerca de este vehículo están deshabilitadas."
-  },
-  "notification_vehicle_is_enable_message": {
-    "message": "Las notificaciones acerca de este vehículo están habilitadas.",
-    "description": "Las notificaciones acerca de este vehículo están habilitadas."
-  },
-  "notification_vehicle_list_empty_followed_vehicle": {
-    "message": "Actualmente usted no está siguiendo ningún vehículo.",
-    "description": "Actualmente usted no está siguiendo ningún vehículo."
-  },
-  "notification_vehicle_list_empty_vehicle_has_geofence": {
-    "message": "No se ha configurado ninguna zona de alerta…",
-    "description": "No se ha configurado ninguna zona de alerta…"
-  },
-  "notification_vehicles_title": {
-    "message": "NOTIFICACIONES",
-    "description": "NOTIFICACIONES"
+    "description": "",
+    "limit": ""
   },
   "notify_title": {
     "message": "Ajuste de notificaciones",
-    "description": "Ajuste de notificaciones"
+    "description": "Android using",
+    "limit": ""
   },
-  "notoficaiton_from_school_dropoff": {
-    "message": "Punto de desembarque: Desde la escuela",
-    "description": "Punto de desembarque: Desde la escuela"
-  },
-  "notoficaiton_to_school_pickup": {
-    "message": "Punto de recogida: Hacia la escuela",
-    "description": "Punto de recogida: Hacia la escuela"
-  },
-  "pick_image_intent_text": {
-    "message": "Elegir una imagen",
-    "description": "Elegir una imagen"
-  },
-  "PP:HOME": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:HOME:TD": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:HOME:WMB": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:SSN": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:SSN:STL": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:AS": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:STN": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:RS": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:SH": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:TDN": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:TSC": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:WMB": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:ST:WMC": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:TR": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:TR:CTR": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:TR:CTRST": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
-  "PP:WMB": {
-    "message": "Esta característica no está disponible.",
-    "description": "Esta característica no está disponible."
-  },
+  "Pick up": { "message": "Recogida", "description": "", "limit": "15" },
   "received": {
-    "message": "recibido",
-    "description": "recibido"
-  },
-  "regex_error_email_violated_format": {
-    "message": "Dirección de correo electrónico inválida.",
-    "description": "Dirección de correo electrónico inválida."
-  },
-  "regex_error_password_violated_rule": {
-    "message": "Las contraseñas deben tener al menos 8 caracteres y deben de incluir al menos una letra en mayúscula, una en minúscula, un número, y un caracter especial.",
-    "description": "Las contraseñas deben tener al menos 8 caracteres y deben de incluir al menos una letra en mayúscula, una en minúscula, un número, y un caracter especial."
+    "message": "recibida",
+    "description": "Status of Ride Registration request. The user will see this status if there request send to school admin successfully. ",
+    "limit": "15"
   },
   "rejected": {
     "message": "rechazada",
-    "description": "rechazada"
+    "description": "Ride Request Feature",
+    "limit": "15"
   },
   "request_server_error": {
     "message": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo.",
-    "description": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo."
+    "description": "General error when service can't handle the request. ",
+    "limit": ""
   },
   "required_address": {
     "message": "Se requiere una dirección.",
-    "description": "Se requiere una dirección."
+    "description": "",
+    "limit": ""
   },
   "required_email": {
     "message": "Se requiere una dirección de correo electrónico.",
-    "description": "Se requiere una dirección de correo electrónico."
+    "description": "",
+    "limit": ""
   },
   "required_first_name": {
     "message": "Se requiere un nombre.",
-    "description": "Se requiere un nombre."
+    "description": "",
+    "limit": ""
   },
   "required_gender": {
     "message": "Se requiere un género.",
-    "description": "Se requiere un género."
+    "description": "",
+    "limit": ""
   },
   "required_last_name": {
     "message": "Se requiere un apellido.",
-    "description": "Se requiere un apellido."
+    "description": "",
+    "limit": ""
   },
   "required_password": {
     "message": "Se requiere una contraseña.",
-    "description": "Se requiere una contraseña."
+    "description": "",
+    "limit": ""
   },
   "required_school": {
     "message": "Se requiere la escuela.",
-    "description": "Se requiere la escuela."
-  },
-  "required_selected_date": {
-    "message": "Se requiere una fecha inicial.",
-    "description": "Se requiere una fecha inicial."
+    "description": "",
+    "limit": ""
   },
   "required_selected_end_date": {
-    "message": "Se requiere la fecha de finalización.",
-    "description": "Se requiere la fecha de finalización."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "required_selected_end_date_must_after_start_date": {
-    "message": "La fecha de finalización debe ser posterior a la fecha de inicio.",
-    "description": "La fecha de finalización debe ser posterior a la fecha de inicio."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "required_selected_repeat_day": {
     "message": "Se requiere el día de la semana.",
-    "description": "Se requiere el día de la semana."
+    "description": "",
+    "limit": ""
   },
   "required_selected_start_date": {
-    "message": "Se requiere la fecha de inicio.",
-    "description": "Se requiere la fecha de inicio."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "required_student": {
     "message": "Por favor seleccione un estudiante!",
-    "description": "Por favor seleccione un estudiante!"
+    "description": "",
+    "limit": ""
   },
   "required_student_district_id": {
     "message": "Se requiere el número de identificación de distrito del estudiante.",
-    "description": "Se requiere el número de identificación de distrito del estudiante."
+    "description": "",
+    "limit": ""
   },
   "required_trip_type": {
     "message": "Se requiere el tipo de viaje.",
-    "description": "Se requiere el tipo de viaje."
-  },
-  "reveiew_transportation_request_apply": {
-    "message": "Fecha de inicio preferida",
-    "description": "Fecha de inicio preferida"
+    "description": "",
+    "limit": ""
   },
   "review_schedule_desired_schedule_address": {
     "message": "Dirección.",
-    "description": "Dirección."
+    "description": "",
+    "limit": ""
   },
-  "ride_registration_details_cancel": {
-    "message": "Cancelar registro de viaje",
-    "description": "Cancelar registro de viaje"
+  "ride_registration_details_cancel ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "ride_registration_details_cancel_confirm": {
-    "message": "¿Estás segura de cancelar el registro de viaje?",
-    "description": "¿Estás segura de cancelar el registro de viaje?"
+  "ride_registration_details_cancel_confirm ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "ride_registration_details_date_time": {
-    "message": "Fecha de inicio / finalización",
-    "description": "Fecha de inicio / finalización"
-  },
-  "ride_registration_details_no_data": {
-    "message": "No se pudieron cargar los datos. Por favor, inténtelo de nuevo más tarde.",
-    "description": "No se pudieron cargar los datos. Por favor, inténtelo de nuevo más tarde."
+  "ride_registration_details_date_time ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_no_operative_in_progress": {
-    "message": "Estamos procesando su solicitud de transporte.",
-    "description": "Estamos procesando su solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_no_operative_received": {
-    "message": "Estamos procesando su solicitud de transporte.",
-    "description": "Estamos procesando su solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_no_operative_rejected": {
-    "message": "Estamos procesando su solicitud de transporte.",
-    "description": "Estamos procesando su solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_no_operative_status_approved": {
-    "message": "Estamos procesando su solicitud de transporte.",
-    "description": "Estamos procesando su solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_no_operative_tentatively_approved": {
-    "message": "Estamos procesando su solicitud de transporte.",
-    "description": "Estamos procesando su solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "ride_registration_details_schedule": {
-    "message": "Calendario",
-    "description": "Calendario"
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "ride_registration_details_title": {
-    "message": "SOLICITUD DE TRANSPORTE",
-    "description": "SOLICITUD DE TRANSPORTE"
+  "ride_registration_details_title ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
+  "Round Trip": { "message": "Ida y Vuelta", "description": "", "limit": "" },
   "scan_history_card_scan_disembarked": {
     "message": "Desembarcado en %1$s",
-    "description": "Desembarcado en %1$s"
+    "description": "Disembarked at {Date Time}",
+    "limit": ""
   },
   "scan_history_card_scan_disembarked_driver": {
     "message": "Desembarcada en %1$s por la conductora",
-    "description": "Desembarcada en %1$s por la conductora"
+    "description": "Disembarked at {Date time} by the driver",
+    "limit": ""
   },
   "scan_history_card_scan_embarked": {
     "message": "Embarcado en %1$s",
-    "description": "Embarcado en %1$s"
+    "description": "Embarked at {Date time}",
+    "limit": ""
   },
   "scan_history_card_scan_embarked_driver": {
     "message": "Embarcado en %1$s por la conductora",
-    "description": "Embarcado en %1$s por la conductora"
+    "description": "Embarked at {Date time} by the driver",
+    "limit": ""
   },
   "scan_history_card_scan_without_type": {
     "message": "Tarjeta escaneada en %1$s",
-    "description": "Tarjeta escaneada en %1$s"
+    "description": "Card scanned at {Date time}",
+    "limit": ""
   },
   "scan_history_filter_30days": {
     "message": "30 días",
-    "description": "30 días"
+    "description": "",
+    "limit": "7"
   },
   "scan_history_filter_7days": {
     "message": "7 días",
-    "description": "7 días"
+    "description": "",
+    "limit": "6"
   },
   "scan_history_filter_clear": {
     "message": "Despejar",
-    "description": "Despejar"
+    "description": "",
+    "limit": "12"
   },
   "scan_history_filter_select_day": {
     "message": "Seleccionar fecha",
-    "description": "Seleccionar fecha"
+    "description": "",
+    "limit": "15"
   },
   "scan_history_filter_select_day_from": {
     "message": "Desde",
-    "description": "Desde"
+    "description": "",
+    "limit": "12"
   },
   "scan_history_filter_select_day_to": {
     "message": "Hacia",
-    "description": "Hacia"
-  },
-  "scan_history_filter_title": {
-    "message": "Filtro:",
-    "description": "Filtro:"
+    "description": "",
+    "limit": "12"
   },
   "scan_history_from_time": {
     "message": "TIEMPO DESDE",
-    "description": "TIEMPO DESDE"
-  },
-  "scan_history_search_place_holder": {
-    "message": "Busca",
-    "description": "Busca"
-  },
-  "scan_history_today": {
-    "message": "Hoy",
-    "description": "Hoy"
+    "description": "",
+    "limit": ""
   },
   "scan_history_to_time": {
     "message": "TIEMPO HASTA",
-    "description": "TIEMPO HASTA"
-  },
-  "scan_history_yesterday": {
-    "message": "Ayer",
-    "description": "Ayer"
+    "description": "",
+    "limit": ""
   },
   "scan_notification_setting_empty_view": {
     "message": "No hay datos de notificación de escaneo.",
-    "description": "No hay datos de notificación de escaneo."
+    "description": "",
+    "limit": ""
   },
   "scan_notification_setting_recommend": {
     "message": "Debajo puede habilitar o deshabilitar notificaciones de admisión para estudiantes individualmente.",
-    "description": "Debajo puede habilitar o deshabilitar notificaciones de admisión para estudiantes individualmente."
+    "description": "",
+    "limit": ""
   },
   "scan_qr_code_description": {
     "message": "Mueve el código QR al cuadrado de arriba",
-    "description": "Mueve el código QR al cuadrado de arriba"
+    "description": "",
+    "limit": ""
   },
   "scan_qr_code_error_expired": {
     "message": "Este código QR ha caducado. Póngase en contacto con el administrador de la escuela para obtener un nuevo código QR.",
-    "description": "Este código QR ha caducado. Póngase en contacto con el administrador de la escuela para obtener un nuevo código QR."
+    "description": "",
+    "limit": ""
   },
   "scan_qr_code_error_invalid_qr_code": {
     "message": "El código QR no es válido Elija otro código QR o comuníquese con el administrador de la escuela para obtener un nuevo código QR",
-    "description": "El código QR no es válido Elija otro código QR o comuníquese con el administrador de la escuela para obtener un nuevo código QR"
-  },
-  "schedule_type_every_week": {
-    "message": "Cada semana",
-    "description": "Cada semana"
-  },
-  "schedule_type_specific_date": {
-    "message": "Fecha específica",
-    "description": "Fecha específica"
+    "description": "",
+    "limit": ""
   },
   "school_no_schools": {
     "message": "No hay escuelas para mostrar…",
-    "description": "No hay escuelas para mostrar…"
+    "description": "",
+    "limit": ""
   },
   "search_location_hint": {
     "message": "Buscar localización.",
-    "description": "Buscar localización."
+    "description": "",
+    "limit": ""
   },
   "search_location_warning_not_found": {
     "message": "Localización no encontrada. Por favor trate con otra.",
-    "description": "Localización no encontrada. Por favor trate con otra."
+    "description": "",
+    "limit": ""
   },
   "search_school_code_tittle": {
     "message": "Código %1$s",
-    "description": "Código %1$s"
-  },
-  "search_school_map_arena": {
-    "message": "Buscar en esta área",
-    "description": "Buscar en esta área"
+    "description": "Use in search school list ",
+    "limit": "15"
   },
   "search_school_no_result": {
     "message": "“Ninguna escuela coincidió con %1$s”.",
-    "description": "“Ninguna escuela coincidió con %1$s”."
+    "description": "No schools matched {Search text}.",
+    "limit": ""
   },
   "select_gender": {
     "message": "Seleccionar género",
-    "description": "Seleccionar género"
+    "description": "",
+    "limit": ""
   },
   "select_school": {
     "message": "Seleccionar escuela",
-    "description": "Seleccionar escuela"
+    "description": "",
+    "limit": ""
   },
   "select_school_instruction": {
     "message": "Toque un icono de escuela para identificar la escuela de su estudiante.",
-    "description": "Toque un icono de escuela para identificar la escuela de su estudiante."
+    "description": "",
+    "limit": ""
   },
   "select_school_map_view_title": {
     "message": "Seleccione la escuela",
-    "description": "Seleccione la escuela"
+    "description": "",
+    "limit": ""
   },
   "select_school_no_school": {
     "message": "Ninguna escuela coincidió con %1$s",
-    "description": "Ninguna escuela coincidió con %1$s"
+    "description": "No schools matched {Search text}.",
+    "limit": ""
   },
   "select_school_no_schools": {
     "message": "No se encontró ninguna escuela en esta área.",
-    "description": "No se encontró ninguna escuela en esta área."
+    "description": "",
+    "limit": ""
   },
   "select_school_search_area": {
     "message": "Buscar en esta área",
-    "description": "Buscar en esta área"
+    "description": "Search school in google map for an area.  ",
+    "limit": ""
   },
   "select_school_show_list": {
     "message": "Lista de escuelas",
-    "description": "Lista de escuelas"
+    "description": "School list title",
+    "limit": ""
   },
   "select_school_too_many": {
     "message": "Demasiados resultados. Por favor reduzca el área de búsqueda.",
-    "description": "Demasiados resultados. Por favor reduzca el área de búsqueda."
+    "description": "",
+    "limit": ""
   },
   "select_school_warning_cancel_selection": {
     "message": "¿Está seguro de que desea cancelar su selección de escuela?",
-    "description": "¿Está seguro de que desea cancelar su selección de escuela?"
+    "description": "",
+    "limit": ""
   },
   "select_school_warning_select": {
     "message": "Por favor elija otra escuela para continuar.",
-    "description": "Por favor elija otra escuela para continuar."
+    "description": "",
+    "limit": ""
   },
   "select_student_title": {
     "message": "SELECCIONAR ESTUDIANTE",
-    "description": "SELECCIONAR ESTUDIANTE"
+    "description": "",
+    "limit": ""
   },
   "setting_app_version": {
     "message": "Versión",
-    "description": "Versión"
+    "description": "",
+    "limit": "25"
   },
   "setting_language": {
     "message": "Lenguaje.",
-    "description": "Lenguaje."
+    "description": "",
+    "limit": "25"
   },
   "settings_change_password": {
     "message": "Cambiar contraseña",
-    "description": "Cambiar contraseña"
+    "description": "",
+    "limit": "25"
   },
   "settings_checking_update": {
     "message": "Buscar actualizaciones",
-    "description": "Buscar actualizaciones"
+    "description": "",
+    "limit": "25"
   },
   "settings_checking_update_current_message": {
     "message": "El portal para padres está actualizado.",
-    "description": "El portal para padres está actualizado."
+    "description": "",
+    "limit": ""
   },
   "settings_checking_update_message": {
     "message": "Hay una nueva versión del Portal de Padres. Por favor actualice la aplicación para utilizar las nuevas características.",
-    "description": "Hay una nueva versión del Portal de Padres. Por favor actualice la aplicación para utilizar las nuevas características."
+    "description": "",
+    "limit": ""
   },
   "settings_checking_update_new_version": {
     "message": "Nueva versión",
-    "description": "Nueva versión"
+    "description": "",
+    "limit": ""
   },
   "settings_checking_update_version": {
     "message": "Versión",
-    "description": "Versión"
+    "description": "",
+    "limit": ""
   },
   "settings_dob": {
     "message": "Nacido/da",
-    "description": "Nacido/da"
+    "description": "Date of birth",
+    "limit": "15"
   },
-  "settings_faq": {
-    "message": "FAQ",
-    "description": "FAQ"
-  },
-  "settings_gender": {
-    "message": "Género",
-    "description": "Género"
-  },
+  "settings_faq": { "message": "FAQ", "description": "", "limit": "15" },
+  "settings_gender": { "message": "Género", "description": "", "limit": "15" },
   "settings_language": {
     "message": "Lenguaje",
-    "description": "Lenguaje"
+    "description": "",
+    "limit": ""
   },
   "settings_language_message_empty": {
     "message": "No se encontraron lenguajes.",
-    "description": "No se encontraron lenguajes."
+    "description": "",
+    "limit": ""
   },
   "settings_language_restart_required_confirm": {
     "message": "Se requiere reinicio",
-    "description": "Se requiere reinicio"
+    "description": "",
+    "limit": ""
   },
   "settings_language_restart_required_message": {
     "message": "Para cambiar lenguajes, el Portal de Padres necesita ser reiniciado. Toque “Reiniciar”para reiniciar.",
-    "description": "Para cambiar lenguajes, el Portal de Padres necesita ser reiniciado. Toque “Reiniciar”para reiniciar."
+    "description": "",
+    "limit": ""
   },
   "settings_location": {
     "message": "Manejo de localizaciones",
-    "description": "Manejo de localizaciones"
+    "description": "",
+    "limit": ""
   },
   "settings_log_out": {
     "message": "Terminar sesión",
-    "description": "Terminar sesión"
+    "description": "",
+    "limit": ""
   },
   "settings_notification": {
     "message": "Ajuste de notificaciones",
-    "description": "Ajuste de notificaciones"
+    "description": "",
+    "limit": ""
   },
-  "settings_payment": {
-    "message": "Pago",
-    "description": "Pago"
-  },
-  "settings_title": {
-    "message": "Ajustes",
-    "description": "Ajustes"
-  },
+  "settings_payment": { "message": "Pago", "description": "", "limit": "" },
+  "settings_title": { "message": "Ajustes", "description": "", "limit": "" },
   "side_menu_item_change_password": {
     "message": "Cambiar contraseña",
-    "description": "Cambiar contraseña"
+    "description": "",
+    "limit": ""
   },
   "side_menu_item_followed_bus": {
     "message": "Autobuses seguidos",
-    "description": "Autobuses seguidos"
+    "description": "",
+    "limit": ""
   },
   "side_menu_item_logout": {
     "message": "Terminar sesión",
-    "description": "Terminar sesión"
+    "description": "",
+    "limit": ""
   },
   "side_menu_item_notification_setting": {
     "message": "Ajustes de notificaciones",
-    "description": "Ajustes de notificaciones"
+    "description": "",
+    "limit": ""
   },
   "side_menu_item_student_trip": {
     "message": "PORTAL DE PADRES EDULOG",
-    "description": "PORTAL DE PADRES EDULOG"
+    "description": "",
+    "limit": ""
   },
   "sign_in_button_title": {
     "message": "Registrarse",
-    "description": "Registrarse"
+    "description": "",
+    "limit": ""
   },
   "sign_in_by": {
     "message": "Iniciar sesión por",
-    "description": "Iniciar sesión por"
+    "description": "",
+    "limit": ""
   },
   "sign_in_by_external_idp": {
     "message": "Inicie sesión por un proveedor externo. Pulse aquí",
-    "description": "Inicie sesión por un proveedor externo. Pulse aquí"
+    "description": "",
+    "limit": ""
   },
   "sign_in_click_resend_email": {
     "message": "Haga clic aquí para reenviar el correo electrónico de activación.",
-    "description": "Haga clic aquí para reenviar el correo electrónico de activación."
+    "description": "",
+    "limit": ""
   },
-  "sign_in_email": {
-    "message": "E-mail",
-    "description": "E-mail"
-  },
+  "sign_in_email": { "message": "E-mail", "description": "", "limit": "" },
   "sign_in_error_account_email_not_yet_verified": {
     "message": "No se ha verificado el e-mail de esta cuenta.",
-    "description": "No se ha verificado el e-mail de esta cuenta."
+    "description": "",
+    "limit": ""
   },
   "sign_in_error_email_not_confirmed": {
     "message": "Su e-mail no ha sido confirmado. Por favor revise su correo para completar el proceso de registro.",
-    "description": "Su e-mail no ha sido confirmado. Por favor revise su correo para completar el proceso de registro."
+    "description": "",
+    "limit": ""
   },
   "sign_in_error_email_pass_incorrect": {
     "message": "Credenciales no válidas. Intente nuevamente o haga clic en Olvidé mi contraseña para restablecerla.",
-    "description": "Credenciales no válidas. Intente nuevamente o haga clic en Olvidé mi contraseña para restablecerla."
+    "description": "",
+    "limit": ""
   },
   "sign_in_error_locked_account": {
     "message": "Esta cuenta ha sido temporalmente obstruida debido a un exceso de atentos de inicio de sesión.",
-    "description": "Esta cuenta ha sido temporalmente obstruida debido a un exceso de atentos de inicio de sesión."
-  },
-  "sign_in_example_name": {
-    "message": "jpérez@correo.com",
-    "description": "jpérez@correo.com"
+    "description": "",
+    "limit": ""
   },
   "sign_in_forgot_password": {
     "message": "Olvidó su contraseña?",
-    "description": "Olvidó su contraseña?"
+    "description": "",
+    "limit": ""
   },
   "sign_in_get_idp_failure": {
-    "message": "No se pueden mostrar proveedores.\nPor favor, inténtelo de nuevo más tarde.",
-    "description": "No se pueden mostrar proveedores.\nPor favor, inténtelo de nuevo más tarde."
-  },
-  "sign_in_name": {
-    "message": "Cuenta",
-    "description": "Cuenta"
-  },
-  "sign_in_new_user": {
-    "message": "¿Nueva usuaria?",
-    "description": "¿Nueva usuaria?"
+    "message": "No se pueden mostrar proveedores.\\nPor favor, inténtelo de nuevo más tarde.",
+    "description": "",
+    "limit": ""
   },
   "sign_in_new_user_sign_up": {
     "message": "¿Nuevo usuario? REGÍSTRATE",
-    "description": "¿Nuevo usuario? REGÍSTRATE"
+    "description": "",
+    "limit": ""
   },
-  "sign_in_or": {
-    "message": "O",
-    "description": "O"
-  },
+  "sign_in_or": { "message": "O", "description": "", "limit": "" },
   "sign_in_password": {
     "message": "Contraseña",
-    "description": "Contraseña"
-  },
-  "sign_in_remember_id": {
-    "message": "Recordar identificación",
-    "description": "Recordar identificación"
+    "description": "",
+    "limit": ""
   },
   "sign_in_sign_up": {
     "message": "REGÍSTRATE",
-    "description": "REGÍSTRATE"
+    "description": "",
+    "limit": "20"
   },
   "sign_in_sign_up_title": {
     "message": "Suscribirse",
-    "description": "Suscribirse"
+    "description": "",
+    "limit": "20"
   },
   "sign_in_tap_here": {
     "message": "Pulse aquí",
-    "description": "Pulse aquí"
+    "description": "",
+    "limit": "20"
   },
   "sign_in_title_provider": {
     "message": "Iniciar sesión por proveedor externo",
-    "description": "Iniciar sesión por proveedor externo"
+    "description": "",
+    "limit": ""
   },
   "sign_up_back_login": {
     "message": "Registrarse",
-    "description": "Registrarse"
+    "description": "",
+    "limit": "20"
   },
   "sign_up_button": {
     "message": "Suscribirse",
-    "description": "Suscribirse"
+    "description": "",
+    "limit": "20"
   },
-  "sign_up_email": {
-    "message": "E-mail",
-    "description": "E-mail"
-  },
+  "sign_up_email": { "message": "E-mail", "description": "", "limit": "12" },
   "sign_up_error_email_existed": {
     "message": "Ya existe una cuenta asociada con este e-mail. Por favor regístrese con una cuenta diferente.",
-    "description": "Ya existe una cuenta asociada con este e-mail. Por favor regístrese con una cuenta diferente."
+    "description": "",
+    "limit": ""
   },
   "sign_up_error_failed": {
     "message": "Su cuenta no pudo ser registrada. Por favor trate luego.",
-    "description": "Su cuenta no pudo ser registrada. Por favor trate luego."
+    "description": "",
+    "limit": ""
   },
   "sign_up_error_field_re_password_failed": {
     "message": "Las contraseñas no coinciden.",
-    "description": "Las contraseñas no coinciden."
+    "description": "",
+    "limit": "30"
   },
   "sign_up_first_name": {
     "message": "Nombre",
-    "description": "Nombre"
+    "description": "",
+    "limit": "15"
   },
   "sign_up_last_name": {
     "message": "Apellido",
-    "description": "Apellido"
+    "description": "",
+    "limit": "15"
   },
   "sign_up_message_successfully": {
     "message": "El registro fue exitoso! Por favor revise su e-mail %1$s para confirmarlo.",
-    "description": "El registro fue exitoso! Por favor revise su e-mail %1$s para confirmarlo."
-  },
-  "sign_up_notification_congratulations": {
-    "message": "Felicitaciones! Su cuenta ha sido activada.",
-    "description": "Felicitaciones! Su cuenta ha sido activada."
+    "description": "Registration successful! Please check your e-mail {user email} to confirm your e-mail address.",
+    "limit": ""
   },
   "sign_up_password": {
     "message": "Contraseña",
-    "description": "Contraseña"
+    "description": "",
+    "limit": ""
   },
   "sign_up_re_password": {
     "message": "Por favor confirme su contrasena",
-    "description": "Por favor confirme su contrasena"
+    "description": "",
+    "limit": "35"
   },
   "sign_up_validate_field_re_password_failed": {
     "message": "Las contraseñas no coinciden.",
-    "description": "Las contraseñas no coinciden."
+    "description": "",
+    "limit": ""
   },
   "sign_up_validate_password_not_match": {
     "message": "La contraseña debe tener al menos 8 caracteres y debe incluir al menos una letra mayúscula, una letra minúscula y un número.",
-    "description": "La contraseña debe tener al menos 8 caracteres y debe incluir al menos una letra mayúscula, una letra minúscula y un número."
+    "description": "",
+    "limit": ""
   },
   "specific_date_navigation_title": {
     "message": "ELIJA FECHA",
-    "description": "ELIJA FECHA"
-  },
-  "state_boarded": {
-    "message": "Abordó",
-    "description": "Abordó"
-  },
-  "state_boarded_early": {
-    "message": "Abordó temprano",
-    "description": "Abordó temprano"
-  },
-  "state_boarded_late": {
-    "message": "Abordó tarde",
-    "description": "Abordó tarde"
-  },
-  "state_boarded_wrong": {
-    "message": "Abordó en parada equivocada",
-    "description": "Abordó en parada equivocada"
-  },
-  "state_disembarked": {
-    "message": "Bajó",
-    "description": "Bajó"
-  },
-  "state_disembarked_early": {
-    "message": "Bajó temprano",
-    "description": "Bajó temprano"
-  },
-  "state_disembarked_late": {
-    "message": "Bajó tarde",
-    "description": "Bajó tarde"
-  },
-  "state_disembarked_wrong_stop": {
-    "message": "Bajó en parada equivocada",
-    "description": "Bajó en parada equivocada"
-  },
-  "state_missed_boarded": {
-    "message": "Perdió su parada",
-    "description": "Perdió su parada"
-  },
-  "state_missed_disembarked": {
-    "message": "Perdió su parada de desembarque",
-    "description": "Perdió su parada de desembarque"
-  },
-  "state_not_boarded_yet": {
-    "message": "Todavía no ha abordado",
-    "description": "Todavía no ha abordado"
+    "description": "",
+    "limit": ""
   },
   "student_access_details_my_child": {
     "message": "¿Dónde está mi estudiante?",
-    "description": "¿Dónde está mi estudiante?"
+    "description": "",
+    "limit": ""
   },
   "student_access_scan": {
     "message": "Historial de abordaje",
-    "description": "Historial de abordaje"
+    "description": "",
+    "limit": ""
   },
   "student_detail_dob": {
     "message": "Nacido/da: %1$s",
-    "description": "Nacido/da: %1$s"
-  },
-  "student_detail_gender": {
-    "message": "Género: %1$s",
-    "description": "Género: %1$s"
+    "description": "DOB: {mm/dd/yyyy}",
+    "limit": "15"
   },
   "student_detail_information_district_id": {
-    "message": "ID",
-    "description": "ID"
+    "message": "ID del distrito",
+    "description": "",
+    "limit": "15"
   },
   "student_detail_information_dob": {
     "message": "DOB",
-    "description": "DOB"
+    "description": "",
+    "limit": "15"
   },
   "student_detail_information_school": {
     "message": "Colegio",
-    "description": "Colegio"
+    "description": "To the left of school name (School: <school name>)",
+    "limit": "15"
   },
   "student_detail_information_student": {
     "message": "Alumna",
-    "description": "Alumna"
+    "description": "To the left of student name (Student: <student name>)",
+    "limit": "7"
   },
   "student_detail_learn_more_description": {
-    "message": "Use esta función de Registro de viaje para informarnos si desea registrar a su estudiante para el transporte en autobús escolar para el próximo período. Utilizamos la información recopilada a través de esta aplicación (la ubicación del estudiante antes de ir al lugar de recogida y / o el lugar al que irá el estudiante después de llegar al lugar de entrega) para determinar si su estudiante es elegible para el transporte proporcionado por el distrito y si es así, para asignar ubicaciones de recogida y devolución. Es posible que no podamos cumplir con todas las solicitudes de registro. Además, nos reservamos el derecho de revisar cualquier determinación realizada sobre la base de la información presentada a través de la aplicación después de una consideración adicional si se nos brinda información adicional.",
-    "description": "Use esta función de Registro de viaje para informarnos si desea registrar a su estudiante para el transporte en autobús escolar para el próximo período. Utilizamos la información recopilada a través de esta aplicación (la ubicación del estudiante antes de ir al lugar de recogida y / o el lugar al que irá el estudiante después de llegar al lugar de entrega) para determinar si su estudiante es elegible para el transporte proporcionado por el distrito y si es así, para asignar ubicaciones de recogida y devolución. Es posible que no podamos cumplir con todas las solicitudes de registro. Además, nos reservamos el derecho de revisar cualquier determinación realizada sobre la base de la información presentada a través de la aplicación después de una consideración adicional si se nos brinda información adicional."
+    "message": "",
+    "description": "Description of popup, displayed when user click to open Learn More popup, explain info of Ride Registration feature",
+    "limit": ""
   },
   "student_detail_learn_more_title": {
-    "message": "Información de solicitud de registro de viaje",
-    "description": "Información de solicitud de registro de viaje"
+    "message": "",
+    "description": "Title of popup, displayed when user click to open Learn More popup, explain info of Ride Registration feature",
+    "limit": ""
   },
-  "student_detail_ride_registration_action_request": {
-    "message": "SOLICITAR VIAJE",
-    "description": "SOLICITAR VIAJE"
+  "student_detail_rejected_message": {
+    "message": "",
+    "description": "label show on student details screen when that student is rejected",
+    "limit": ""
   },
-  "student_detail_ride_registration_action_view": {
-    "message": "VER EL ESTADO DE",
-    "description": "VER EL ESTADO DE"
+  "student_detail_ride_registration_action_request ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_description": {
-    "message": "Utilice esta función para solicitar que su hijo sea registrado para el transporte hacia / desde la escuela. \nMás información",
-    "description": "Utilice esta función para solicitar que su hijo sea registrado para el transporte hacia / desde la escuela. \nMás información"
+  "student_detail_ride_registration_action_view ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_need_help_action": {
-    "message": "Más información",
-    "description": "Más información"
+  "student_detail_ride_registration_description ": {
+    "message": "",
+    "description": "",
+    "limit": ""
+  },
+  "student_detail_ride_registration_need_help_action ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
   "student_detail_ride_registration_no_transportation_request": {
-    "message": "No hay solicitud de transporte.",
-    "description": "No hay solicitud de transporte."
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_status_approved": {
-    "message": "aprobado",
-    "description": "aprobado"
+  "student_detail_ride_registration_status_approved ": {
+    "message": "",
+    "description": "",
+    "limit": "15"
   },
-  "student_detail_ride_registration_status_init": {
-    "message": "Cree una solicitud de transporte para su estudiante.",
-    "description": "Cree una solicitud de transporte para su estudiante."
+  "student_detail_ride_registration_status_in_progress ": {
+    "message": "",
+    "description": "",
+    "limit": "15"
   },
-  "student_detail_ride_registration_status_in_progress": {
-    "message": "en curso",
-    "description": "en curso"
+  "student_detail_ride_registration_status_init ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_status_processing_description": {
-    "message": "Su registro de viaje ha sido procesado. Proporcionaremos el detalle del servicio de transporte en una próxima notificación.",
-    "description": "Su registro de viaje ha sido procesado. Proporcionaremos el detalle del servicio de transporte en una próxima notificación."
+  "student_detail_ride_registration_status_processing_description ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_status_received": {
-    "message": "recibido",
-    "description": "recibido"
+  "student_detail_ride_registration_status_received ": {
+    "message": "",
+    "description": "",
+    "limit": "15"
   },
-  "student_detail_ride_registration_status_received_description": {
-    "message": "Se ha recibido su registro de viaje. Proporcionaremos el detalle del servicio de transporte en una próxima notificación.",
-    "description": "Se ha recibido su registro de viaje. Proporcionaremos el detalle del servicio de transporte en una próxima notificación."
+  "student_detail_ride_registration_status_received_description ": {
+    "message": "",
+    "description": "",
+    "limit": ""
   },
-  "student_detail_ride_registration_status_rejected": {
-    "message": "rechazado",
-    "description": "rechazado"
+  "student_detail_ride_registration_status_rejected ": {
+    "message": "",
+    "description": "",
+    "limit": "15"
   },
-  "student_detail_ride_registration_status_tentatively_approved": {
-    "message": "aprobado tentativamente",
-    "description": "aprobado tentativamente"
+  "student_detail_ride_registration_status_tentatively_approved ": {
+    "message": "Historial de abordaje",
+    "description": "",
+    "limit": "25"
   },
-  "student_detail_ride_registration_title": {
-    "message": "Registro de viajes",
-    "description": "Registro de viajes"
+  "student_detail_ride_registration_title ": {
+    "message": "Escuela: %1$s",
+    "description": "",
+    "limit": ""
   },
   "student_detail_ride_request_approvement_title": {
-    "message": "When is the request approved?",
-    "description": "When is the request approved?"
+    "message": "Número de identificación: %1$s",
+    "description": "",
+    "limit": "12"
   },
   "student_detail_ride_request_define_title": {
-    "message": "What is Ride Request?",
-    "description": "What is Ride Request?"
+    "message": "Número de identificación",
+    "description": "",
+    "limit": ""
   },
   "student_detail_ride_request_help_title": {
-    "message": "Help Centre",
-    "description": "Help Centre"
+    "message": "Detalle del alumno",
+    "description": "",
+    "limit": ""
   },
   "student_detail_scan_history": {
-    "message": "Historial de abordaje",
-    "description": "Historial de abordaje"
+    "message": "Su solicitud de transporte ha sido aprobada",
+    "description": "",
+    "limit": ""
   },
   "student_detail_school_name": {
-    "message": "Escuela: %1$s",
-    "description": "Escuela: %1$s"
+    "message": "Cancelar",
+    "description": "School: {School name}",
+    "limit": "15"
   },
   "student_detail_student_id": {
-    "message": "Número de identificación: %1$s",
-    "description": "Número de identificación: %1$s"
+    "message": "¿Estás segura de cancelar la solicitud de transporte?",
+    "description": "Student ID: {Student ID Number}",
+    "limit": "15"
   },
   "student_detail_student_id_no_param": {
-    "message": "Número de identificación",
-    "description": "Número de identificación"
+    "message": "Confirmar la dirección",
+    "description": "",
+    "limit": "15"
   },
   "student_detail_title": {
-    "message": "Detalle del alumno",
-    "description": "Detalle del alumno"
+    "message": "Cree una solicitud de transporte para su estudiante.",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_approved": {
-    "message": "La solicitud de registro de viaje para su hijo ha sido aprobada.",
-    "description": "La solicitud de registro de viaje para su hijo ha sido aprobada."
+    "message": "No se puede conectar con el servidor en el momento.",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_cancel_button": {
-    "message": "Cancelar",
-    "description": "Cancelar"
+    "message": "Historial de transporte",
+    "description": "",
+    "limit": "20"
   },
   "student_detail_transportation_cancel_message": {
-    "message": "¿Está seguro de que desea cancelar esta solicitud de registro de viaje?",
-    "description": "¿Está seguro de que desea cancelar esta solicitud de registro de viaje?"
+    "message": "Su solicitud de transporte ha sido recibida",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_confirm_header": {
-    "message": "Ingrese la dirección de recogida / devolución de la casa o la ubicación actual de la parada de autobús. Si su estudiante es elegible para el transporte, el distrito le asignará una parada de autobús. También puede seleccionar una ubicación del mapa utilizando el icono del mapa.",
-    "description": "Ingrese la dirección de recogida / devolución de la casa o la ubicación actual de la parada de autobús. Si su estudiante es elegible para el transporte, el distrito le asignará una parada de autobús. También puede seleccionar una ubicación del mapa utilizando el icono del mapa."
+    "message": "Su solicitud de transporte ha sido rechazada",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_description": {
-    "message": "Registrar a su hija para el transporte",
-    "description": "Registrar a su hija para el transporte"
+    "message": "Solicitar de transporte",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_empty": {
-    "message": "No se puede conectar con el servidor en este momento.",
-    "description": "No se puede conectar con el servidor en este momento."
+    "message": "Request",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_history": {
-    "message": "Historial de transporte",
-    "description": "Historial de transporte"
+    "message": "Todos se dan cuenta de por qué sería deseable un nuevo lenguaje común: uno podría negarse a pagar traductores caros. ¿Necesitas ayuda?",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_received": {
-    "message": "Se ha recibido la solicitud de registro de viaje para su estudiante. Las solicitudes aprobadas resultarán en asignaciones de paradas de autobús que se pueden ver en HORARIO DE TRANSPORTE.",
-    "description": "Se ha recibido la solicitud de registro de viaje para su estudiante. Las solicitudes aprobadas resultarán en asignaciones de paradas de autobús que se pueden ver en HORARIO DE TRANSPORTE."
+    "message": "¿Necesitas ayuda?",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_rejected": {
-    "message": "La solicitud de registro de viaje para su hijo ha sido rechazada.",
-    "description": "La solicitud de registro de viaje para su hijo ha sido rechazada."
+    "message": "Rolicitud De Paseo",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_request": {
-    "message": "Registro de viajes",
-    "description": "Registro de viajes"
+    "message": "Horario de transporte",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_request_button": {
-    "message": "Solicitar registro",
-    "description": "Solicitar registro"
+    "message": "No hay transporte planificado para %1$s en este momento.",
+    "description": "",
+    "limit": "20"
   },
   "student_detail_transportation_request_description": {
-    "message": "Use esta función para solicitar que su estudiante esté registrado para el transporte hacia / desde la escuela. \nAprende más",
-    "description": "Use esta función para solicitar que su estudiante esté registrado para el transporte hacia / desde la escuela. \nAprende más"
+    "message": "¿Dónde está mi autobús?",
+    "description": "",
+    "limit": "15"
   },
   "student_detail_transportation_request_need_help_action": {
-    "message": "Aprende más",
-    "description": "Aprende más"
+    "message": "¿Dónde está mi estudiante?",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_request_title": {
-    "message": "Registro de viajes",
-    "description": "Registro de viajes"
+    "message": "Activo",
+    "description": "",
+    "limit": ""
   },
   "student_detail_transportation_schedule": {
-    "message": "Horario de transporte",
-    "description": "Horario de transporte"
+    "message": "Desconocido",
+    "description": "",
+    "limit": ""
   },
   "student_detail_warning_no_current_transportation": {
-    "message": "No hay transporte planificado para %1$s en este momento.",
-    "description": "No hay transporte planificado para %1$s en este momento."
+    "message": "¿Está seguro de que desea eliminar este estudiante de su cuenta?",
+    "description": "There is no scheduled transportation for {student fist name} now.",
+    "limit": ""
   },
   "student_detail_where_is_my_bus": {
-    "message": "¿Dónde está mi autobús?",
-    "description": "¿Dónde está mi autobús?"
+    "message": "Remover estudiante",
+    "description": "",
+    "limit": ""
   },
   "student_detail_where_is_my_child": {
-    "message": "¿Dónde está mi estudiante?",
-    "description": "¿Dónde está mi estudiante?"
+    "message": "Negado",
+    "description": "",
+    "limit": ""
   },
   "student_list_active": {
-    "message": "Activo",
-    "description": "Activo"
+    "message": "No hay estudiantes aprobados que mostrar.",
+    "description": "",
+    "limit": ""
   },
   "student_list_approved": {
-    "message": "Aprobado",
-    "description": "Aprobado"
+    "message": "Agregar estudiante",
+    "description": "",
+    "limit": ""
   },
   "student_list_default": {
-    "message": "Desconocido",
-    "description": "Desconocido"
+    "message": "Toque “Agregar estudiante” debajo para accesar los datos de su estudiante.",
+    "description": "",
+    "limit": ""
   },
   "student_list_delete": {
-    "message": "¿Está seguro de que desea eliminar este estudiante de su cuenta?",
-    "description": "¿Está seguro de que desea eliminar este estudiante de su cuenta?"
+    "message": "No hay estudiante para mostrar.",
+    "description": "",
+    "limit": ""
   },
   "student_list_delete_title": {
-    "message": "Remover estudiante",
-    "description": "Remover estudiante"
+    "message": "Pendiente",
+    "description": "",
+    "limit": ""
   },
   "student_list_denied": {
-    "message": "Negado",
-    "description": "Negado"
+    "message": "Rechazado",
+    "description": "",
+    "limit": ""
   },
   "student_list_no_approved_student_title": {
-    "message": "No hay estudiantes aprobados que mostrar.",
-    "description": "No hay estudiantes aprobados que mostrar."
+    "message": "Número de identificación: %1$s",
+    "description": "",
+    "limit": ""
   },
   "student_list_no_child_add_student": {
-    "message": "Agregar estudiante",
-    "description": "Agregar estudiante"
+    "message": "LISTA DE ESTUDIANTES",
+    "description": "",
+    "limit": "12"
   },
   "student_list_no_child_message": {
-    "message": "Toque “Agregar estudiante” debajo para accesar los datos de su estudiante.",
-    "description": "Toque “Agregar estudiante” debajo para accesar los datos de su estudiante."
+    "message": "Inactivo",
+    "description": "",
+    "limit": ""
   },
   "student_list_no_child_title": {
-    "message": "No hay estudiante para mostrar.",
-    "description": "No hay estudiante para mostrar."
+    "message": "%1$s está esperando autorización.",
+    "description": "",
+    "limit": ""
   },
-  "student_list_pending": {
-    "message": "Pendiente",
-    "description": "Pendiente"
-  },
+  "student_list_pending": { "message": "Hora", "description": "", "limit": "" },
   "student_list_rejected": {
-    "message": "Rechazado",
-    "description": "Rechazado"
+    "message": "Autobús",
+    "description": "",
+    "limit": ""
   },
   "student_list_student_id": {
-    "message": "Número de identificación: %1$s",
-    "description": "Número de identificación: %1$s"
+    "message": "Historial de abordaje de %1$s está vacío.",
+    "description": "Student ID: {Student ID number}",
+    "limit": ""
   },
   "student_list_title": {
-    "message": "LISTA DE ESTUDIANTES",
-    "description": "LISTA DE ESTUDIANTES"
-  },
-  "student_list_un_active": {
-    "message": "Inactivo",
-    "description": "Inactivo"
+    "message": "Historial de abordaje",
+    "description": "",
+    "limit": ""
   },
   "student_list_warning_waiting_approved": {
-    "message": "%1$s está esperando autorización.",
-    "description": "%1$s está esperando autorización."
-  },
-  "student_scan_history_bus_time_title": {
-    "message": "Hora",
-    "description": "Hora"
-  },
-  "student_scan_history_bus_title": {
-    "message": "Autobús",
-    "description": "Autobús"
+    "message": "Historial de abordaje",
+    "description": "Approval for {student name } is pending.",
+    "limit": ""
   },
   "student_scan_history_message_empty": {
-    "message": "Historial de abordaje de %1$s está vacío.",
-    "description": "Historial de abordaje de %1$s está vacío."
-  },
-  "student_scan_history_swipe_history": {
-    "message": "Historial de abordaje",
-    "description": "Historial de abordaje"
-  },
-  "student_scan_history_time_range_limit": {
-    "message": "Solo puede buscar dentro de un período de tiempo de tres meses.",
-    "description": "Solo puede buscar dentro de un período de tiempo de tres meses."
-  },
-  "student_scan_history_title": {
-    "message": "Historial de abordaje",
-    "description": "Historial de abordaje"
+    "message": "Nueva versión disponible",
+    "description": "{student first name} scan history is empty.",
+    "limit": ""
   },
   "student_unable_to_schedule": {
-    "message": "No se pudo programar",
-    "description": "No se pudo programar"
+    "message": "Hacia la escuela",
+    "description": "The status of the transportation request. ",
+    "limit": ""
   },
   "tap": {
-    "message": "Seleccionar foto de perfil",
-    "description": "Seleccionar foto de perfil"
+    "message": "Buscar puntos de recogida cercanos.",
+    "description": "",
+    "limit": ""
   },
   "title_new_version": {
-    "message": "Nueva versión disponible",
-    "description": "Nueva versión disponible"
+    "message": "No hay paradas cerca!",
+    "description": "",
+    "limit": ""
   },
   "title_none": {
-    "message": "Portal para Padres está actualizado.",
-    "description": "Portal para Padres está actualizado."
+    "message": "Horario “Hacia la escuela”de %1$s en %2$s",
+    "description": "",
+    "limit": ""
   },
   "title_optional": {
-    "message": "Nueva versíón disponible; %1$s",
-    "description": "Nueva versíón disponible; %1$s"
+    "message": "Puntos de recogida cercanos",
+    "description": "New version available: {app version}",
+    "limit": ""
   },
   "title_parent_portal": {
-    "message": "PORTAL DE PADRES EDULOG",
-    "description": "PORTAL DE PADRES EDULOG"
+    "message": "Seleccionar puntos de recogida",
+    "description": "",
+    "limit": ""
   },
-  "today_trip_alert_off": {
-    "message": "APGADO",
-    "description": "APGADO"
-  },
-  "today_trip_alert_on": {
-    "message": "EN",
-    "description": "EN"
-  },
-  "today_trip_bus_distance": {
-    "message": "El autobús está a %1$s de distancia.",
-    "description": "El autobús está a %1$s de distancia."
-  },
-  "today_trip_bus_distance_away": {
-    "message": "de distancia",
-    "description": "de distancia"
-  },
-  "today_trip_bus_distance_home": {
-    "message": "El autobús está a",
-    "description": "El autobús está a"
-  },
-  "today_trip_date": {
-    "message": "Fecha: %1$s",
-    "description": "Fecha: %1$s"
-  },
-  "today_trip_route_code": {
-    "message": "Código de ruta",
-    "description": "Código de ruta"
-  },
-  "today_trip_scheduled_drop_off": {
-    "message": "Desembarque planificado en",
-    "description": "Desembarque planificado en"
-  },
-  "today_trip_scheduled_drop_off_no_in": {
-    "message": "Desembarque planificado",
-    "description": "Desembarque planificado"
-  },
-  "today_trip_scheduled_pickup": {
-    "message": "Recogida programada en",
-    "description": "Recogida programada en"
-  },
-  "today_trip_scheduled_pickup_no_in": {
-    "message": "Recogida programada",
-    "description": "Recogida programada"
-  },
-  "today_trip_status": {
-    "message": "Viaje %2$s de %1$s",
-    "description": "Viaje %2$s de %1$s"
-  },
-  "today_trip_title": {
-    "message": "Viaje %1$s",
-    "description": "Viaje %1$s"
-  },
-  "today_trip_vehicle_information": {
-    "message": "Información del vehículo",
-    "description": "Información del vehículo"
-  },
-  "to_school_schedule_btn_look_up": {
-    "message": "Buscar puntos de recogida cercanos.",
-    "description": "Buscar puntos de recogida cercanos."
-  },
-  "to_school_schedule_error_no_nearby_stops": {
-    "message": "No hay paradas cerca!",
-    "description": "No hay paradas cerca!"
-  },
-  "to_school_schedule_instruction": {
-    "message": "Horario “Hacia la escuela”de %1$s en %2$s",
-    "description": "Horario “Hacia la escuela”de %1$s en %2$s"
-  },
-  "to_school_schedule_pick_up_stops": {
-    "message": "Puntos de recogida cercanos",
-    "description": "Puntos de recogida cercanos"
+  "To School": {
+    "message": "Horario “Hacia la escuela”",
+    "description": "Student trip to school. Display on the trip information to help parents identify between To School and From School Trip.",
+    "limit": ""
   },
   "to_school_schedule_select_pickup_stops": {
-    "message": "Seleccionar puntos de recogida",
-    "description": "Seleccionar puntos de recogida"
+    "message": "El autobús está a",
+    "description": "The description to ask user select pickup stops when create transportation request. ",
+    "limit": ""
   },
-  "to_school_schedule_title": {
-    "message": "Horario “Hacia la escuela”",
-    "description": "Horario “Hacia la escuela”"
+  "today_trip_alert_off": {
+    "message": "Desembarque planificado",
+    "description": "",
+    "limit": "10"
+  },
+  "today_trip_alert_on": {
+    "message": "Recogida planificada",
+    "description": "",
+    "limit": "10"
+  },
+  "today_trip_bus_distance": {
+    "message": "Viaje %2$s de %1$s",
+    "description": "The distance of the Bus & Pickup stop. Example: Bus is {number} away.",
+    "limit": ""
+  },
+  "today_trip_bus_distance_away": {
+    "message": "Viaje %1$s",
+    "description": "Android using",
+    "limit": ""
+  },
+  "today_trip_bus_distance_home": {
+    "message": "¿Desea cancelar esta solicitud?",
+    "description": "Android using",
+    "limit": ""
+  },
+  "today_trip_date": {
+    "message": "Notas",
+    "description": "Date: {mm/dd/yyyy}",
+    "limit": "12"
+  },
+  "today_trip_route_code": {
+    "message": "Número de identificación: ",
+    "description": "The number that district admin define to easy management route. ",
+    "limit": "15"
+  },
+  "today_trip_scheduled_drop_off": {
+    "message": "Escuela: ",
+    "description": "",
+    "limit": ""
+  },
+  "today_trip_scheduled_drop_off_no_in": {
+    "message": "Solicitar transporte para %1$s",
+    "description": "",
+    "limit": ""
+  },
+  "today_trip_scheduled_pickup": {
+    "message": "Solicitar transporte",
+    "description": "",
+    "limit": ""
+  },
+  "today_trip_scheduled_pickup_no_in": {
+    "message": "PEDIR DETALLES",
+    "description": "",
+    "limit": ""
+  },
+  "today_trip_title": {
+    "message": "No ha creado ninguna solicitud de transporte.",
+    "description": "`%1$s` is trip type: To school or From School",
+    "limit": "10"
+  },
+  "today_trip_vehicle_information": {
+    "message": "MAPA DE DIRECCIÓN",
+    "description": "",
+    "limit": "30"
   },
   "transportation_cancel_request_confirm_message": {
-    "message": "¿Desea cancelar esta solicitud?",
-    "description": "¿Desea cancelar esta solicitud?"
+    "message": "Busquéda",
+    "description": "",
+    "limit": ""
   },
   "transportation_confirm_address_hint": {
-    "message": "Búsqueda de dirección",
-    "description": "Búsqueda de dirección"
+    "message": "No hay estudiantes aprobados que mostrar.",
+    "description": "",
+    "limit": "20"
   },
   "transportation_create_district": {
-    "message": "Número de identificación: ",
-    "description": "Número de identificación: "
+    "message": "Solicitud",
+    "description": "",
+    "limit": "12"
   },
   "transportation_create_school_name": {
-    "message": "Escuela: ",
-    "description": "Escuela: "
+    "message": "Solicitud de transporte",
+    "description": "",
+    "limit": "12"
   },
   "transportation_create_title": {
-    "message": "Solicitar transporte para %1$s",
-    "description": "Solicitar transporte para %1$s"
+    "message": "SOLICITUD",
+    "description": "Request transportation for {student id}",
+    "limit": "35"
   },
   "transportation_create_title_without_student": {
-    "message": "Solicitar transporte",
-    "description": "Solicitar transporte"
+    "message": "Revisar solicitud",
+    "description": "",
+    "limit": "20"
   },
   "transportation_detail_title": {
-    "message": "PEDIR DETALLES",
-    "description": "PEDIR DETALLES"
+    "message": "CANCELAR SOLICITUD",
+    "description": "",
+    "limit": "20"
   },
   "transportation_list_empty_view_message": {
-    "message": "Toque “Solicitud de transporte” para crear una nueva solicitud de transporte.",
-    "description": "Toque “Solicitud de transporte” para crear una nueva solicitud de transporte."
+    "message": "¿Desea cancelar esta solicitud?",
+    "description": "",
+    "limit": ""
   },
   "transportation_list_empty_view_title": {
-    "message": "No ha creado ninguna solicitud de transporte.",
-    "description": "No ha creado ninguna solicitud de transporte."
+    "message": "Autobús:",
+    "description": "",
+    "limit": ""
   },
   "transportation_request_address_map_title": {
-    "message": "MAPA DE DIRECCIÓN",
-    "description": "MAPA DE DIRECCIÓN"
+    "message": "Identificación del conductor:",
+    "description": "",
+    "limit": ""
+  },
+  "transportation_request_archive": {
+    "message": "Horario",
+    "description": "The button help user archive an Transportation Request invalid.",
+    "limit": "12"
+  },
+  "transportation_request_archive_pending_message": {
+    "message": "No hay comentarios que mostrar.",
+    "description": "Display when user archive an pending transportation request. ",
+    "limit": ""
+  },
+  "transportation_request_archived_empty_message": {
+    "message": "Notificar cuando el autobús esté dentro",
+    "description": "Archived transportation request list description with empty data.",
+    "limit": ""
+  },
+  "transportation_request_archived_title": {
+    "message": "Ingrese la dirección",
+    "description": "The title of Archived transportation request screen",
+    "limit": "25"
+  },
+  "transportation_request_restore": {
+    "message": "Agregar notas",
+    "description": "The button allow user un-archive an archived transportation request.",
+    "limit": "12"
   },
   "transportation_request_search_place_holder": {
-    "message": "Busquéda",
-    "description": "Busquéda"
+    "message": "Alerta dentro",
+    "description": "",
+    "limit": "20"
   },
   "transportation_request_select_student_empty": {
-    "message": "No hay estudiantes aprobados que mostrar.",
-    "description": "No hay estudiantes aprobados que mostrar."
-  },
-  "transportation_request_tab_title": {
-    "message": "Solicitud",
-    "description": "Solicitud"
+    "message": "Las notificaciones han sido desabilitadas para este viaje.",
+    "description": "The empty message display when user select a student to create transportation request. ",
+    "limit": ""
   },
   "transportation_request_title": {
-    "message": "Solicitud de transporte",
-    "description": "Solicitud de transporte"
+    "message": "Comentarios",
+    "description": "The title of transportation request screen",
+    "limit": "25"
   },
   "transportation_schedule_add_button": {
-    "message": "SOLICITUD",
-    "description": "SOLICITUD"
+    "message": "Viaje %2$s de %1$s",
+    "description": "The button allow user submit transportation request",
+    "limit": "20"
   },
   "transportation_schedule_add_review_title": {
-    "message": "Revisar solicitud",
-    "description": "Revisar solicitud"
+    "message": "No tiene solicitudes de transporte.",
+    "description": "The button ask user review the transportation request information before submit.",
+    "limit": "20"
   },
   "transportation_schedule_cancel_request": {
-    "message": "CANCELAR SOLICITUD",
-    "description": "CANCELAR SOLICITUD"
+    "message": "SOLICITAR TRANSPORTE",
+    "description": "The button allow user cancel a transpirtation request. ",
+    "limit": "20"
   },
   "transportation_schedule_confirm_cancel": {
-    "message": "¿Desea cancelar esta solicitud?",
-    "description": "¿Desea cancelar esta solicitud?"
-  },
-  "transportation_schedule_detail_bus_id": {
-    "message": "Autobús:",
-    "description": "Autobús:"
-  },
-  "transportation_schedule_detail_driver_id": {
-    "message": "Identificación del conductor:",
-    "description": "Identificación del conductor:"
-  },
-  "transportation_schedule_detail_last": {
-    "message": "Horario",
-    "description": "Horario"
+    "message": "Vie",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_no_data_conversation": {
-    "message": "No hay comentarios que mostrar.",
-    "description": "No hay comentarios que mostrar."
+    "message": "Lun",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_setting": {
-    "message": "Notificar cuando el autobús esté dentro",
-    "description": "Notificar cuando el autobús esté dentro"
+    "message": "Borrar",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_setting_alert_retry_button": {
-    "message": "Procesar de nuevo",
-    "description": "Procesar de nuevo"
+    "message": "Editar",
+    "description": "Button to ask user retry loading transportation schedule list.",
+    "limit": "20"
   },
   "transportation_schedule_detail_setting_alert_retry_msg": {
-    "message": "La aplicación ha encontrado un error al procesar su solicitud. Inténtalo de nuevo.",
-    "description": "La aplicación ha encontrado un error al procesar su solicitud. Inténtalo de nuevo."
+    "message": "Sáb",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_setting_alert_time": {
-    "message": "Alerta dentro",
-    "description": "Alerta dentro"
+    "message": "Dom",
+    "description": "The time that parent want to receive notification when bus enterd alertzone. ",
+    "limit": "12"
   },
   "transportation_schedule_detail_setting_disable": {
-    "message": "Las notificaciones han sido desabilitadas para este viaje.",
-    "description": "Las notificaciones han sido desabilitadas para este viaje."
-  },
-  "transportation_schedule_details_message_empty": {
-    "message": "No tiene solicitudes de transporte.",
-    "description": "No tiene solicitudes de transporte."
+    "message": "Jue",
+    "description": "Display to let user know the notification for a student trip is disabled",
+    "limit": ""
   },
   "transportation_schedule_detail_title": {
-    "message": "VISTA DE MAPA",
-    "description": "VISTA DE MAPA"
+    "message": "Horario de transporte",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_title_conversation": {
-    "message": "Comentarios",
-    "description": "Comentarios"
+    "message": "¿Desea borrar esta solicitud de transporte?",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_detail_title_with_name": {
-    "message": "Viaje de %1$s %2$s",
-    "description": "Viaje de %1$s %2$s"
+    "message": "Mapa",
+    "description": "{student first name} Trip {Trip type}. Example: Giap's trip to school",
+    "limit": "10"
   },
   "transportation_schedule_detail_title_without_trip_Type": {
-    "message": "Viaje de %1$s",
-    "description": "Viaje de %1$s"
+    "message": "Mar",
+    "description": "{student name} Trip",
+    "limit": "10"
+  },
+  "transportation_schedule_details_message_empty": {
+    "message": "Mié",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_empty_view_add_button": {
-    "message": "SOLICITAR TRANSPORTE",
-    "description": "SOLICITAR TRANSPORTE"
+    "message": "Hacia la escuela",
+    "description": "",
+    "limit": "12"
   },
   "transportation_schedule_fri": {
-    "message": "Vie",
-    "description": "Vie"
-  },
-  "transportation_schedule_item_tv_view_detail": {
-    "message": "Ver detalles",
-    "description": "Ver detalles"
+    "message": "Ida y vuelta",
+    "description": "Short of Friday ",
+    "limit": ""
   },
   "transportation_schedule_list_empty_view_message": {
-    "message": "Toque “Solicitud de transporte” para crear una nueva solicitud de transporte.",
-    "description": "Toque “Solicitud de transporte” para crear una nueva solicitud de transporte."
+    "message": "viaje a la escuela",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_list_empty_view_title": {
-    "message": "No ha creado ninguna solicitud de transporte.",
-    "description": "No ha creado ninguna solicitud de transporte."
+    "message": "viaje desde la escuela",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_mon": {
-    "message": "Lun",
-    "description": "Lun"
-  },
-  "transportation_schedule_popup_menu_tv_delete": {
-    "message": "Borrar",
-    "description": "Borrar"
+    "message": "Permitir acceso a GPS.",
+    "description": "Short of Monday ",
+    "limit": ""
   },
   "transportation_schedule_popup_menu_tv_edit": {
-    "message": "Editar",
-    "description": "Editar"
+    "message": "es requerido.",
+    "description": "",
+    "limit": ""
   },
   "transportation_schedule_sat": {
-    "message": "Sáb",
-    "description": "Sáb"
+    "message": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo.",
+    "description": "Short of Saturday ",
+    "limit": "3"
   },
   "transportation_schedule_sun": {
-    "message": "Dom",
-    "description": "Dom"
+    "message": "Las contraseñas no coinciden.",
+    "description": "Short of Sunday",
+    "limit": "3"
   },
   "transportation_schedule_thu": {
-    "message": "Jue",
-    "description": "Jue"
+    "message": "Distritos",
+    "description": "Short of Thursday",
+    "limit": "3"
   },
   "transportation_schedule_title": {
-    "message": "Horario de transporte",
-    "description": "Horario de transporte"
-  },
-  "transportation_schedule_title_alert_dialog": {
-    "message": "¿Desea borrar esta solicitud de transporte?",
-    "description": "¿Desea borrar esta solicitud de transporte?"
+    "message": "Buscar vehículos.",
+    "description": "The title of transportation schedule screen",
+    "limit": ""
   },
   "transportation_schedule_title_map": {
-    "message": "Mapa",
-    "description": "Mapa"
+    "message": "Hay una nueva versión del Portal de Padres. Por favor actualice la aplicación para utilizar las nuevas características.",
+    "description": "Google map",
+    "limit": ""
   },
   "transportation_schedule_tue": {
-    "message": "Mar",
-    "description": "Mar"
+    "message": "Hay una nueva versión disponible.. Por favor actualice la aplicación para continuar..",
+    "description": "Short of Tuesday",
+    "limit": "3"
   },
   "transportation_schedule_wed": {
-    "message": "Mié",
-    "description": "Mié"
+    "message": "Nueva versión disponible",
+    "description": "Short of Wednesday",
+    "limit": "3"
   },
   "trip_type_from_school": {
-    "message": "Hacia la escuela",
-    "description": "Hacia la escuela"
+    "message": "",
+    "description": "The trip that school bus will drive the student from school to home",
+    "limit": "25"
   },
   "trip_type_round_trip": {
-    "message": "Ida y vuelta",
-    "description": "Ida y vuelta"
+    "message": "Autobús:",
+    "description": "The trip that school bus will drive the student from home to school and school to home with the same pickup or dropoff location.",
+    "limit": "25"
   },
   "trip_type_to_school": {
-    "message": "Hacia la escuela",
-    "description": "Hacia la escuela"
+    "message": "El autobús ha llegado a",
+    "description": "The trip that school bus will drive the student from home to school.",
+    "limit": "25"
   },
   "trip_type_to_school_trip": {
-    "message": "viaje a la escuela",
-    "description": "viaje a la escuela"
+    "message": "El autobús no ha empezado a abordar.",
+    "description": "The trip that school bus will drive the student from home to school.",
+    "limit": "25"
   },
   "trip_type_trip_from_school": {
-    "message": "viaje desde la escuela",
-    "description": "viaje desde la escuela"
+    "message": "El autobús llegará a",
+    "description": "The trip that school bus will drive the student from school to home",
+    "limit": "25"
   },
   "turn_on_gps_message": {
-    "message": "Permitir acceso a GPS.",
-    "description": "Permitir acceso a GPS."
+    "message": "Contacto en la Escuela",
+    "description": "Ask user to allow the application access to GPS.",
+    "limit": ""
   },
   "validate_email_invalid": {
-    "message": "Email inválido.",
-    "description": "Email inválido."
+    "message": "Distancia:",
+    "description": "Display if user enter invalid email format. ",
+    "limit": "35"
   },
   "validate_field_required": {
-    "message": "es requerido.",
-    "description": "es requerido."
+    "message": "Conductor:",
+    "description": "A general string if user do not fill in the field is required. Example: First name is required. ",
+    "limit": "20"
   },
   "validate_network": {
-    "message": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo.",
-    "description": "No se pudo conectar al servidor. Por favor revise su conexión y trate de nuevo."
+    "message": "Identificación del conductor:",
+    "description": "",
+    "limit": ""
   },
   "validate_password_not_match": {
-    "message": "Las contraseñas no coinciden.",
-    "description": "Las contraseñas no coinciden."
-  },
-  "vehicle_list_back_to_district": {
-    "message": "Distritos",
-    "description": "Distritos"
+    "message": "No está siguiendo ningún vehículo actualmente.",
+    "description": "",
+    "limit": "30"
   },
   "vehicle_list_hint_search_bus": {
-    "message": "Buscar vehículos.",
-    "description": "Buscar vehículos."
+    "message": "Recogida:",
+    "description": "",
+    "limit": "30"
   },
   "vehicle_list_message_empty": {
-    "message": "No se encontraron vehículos.",
-    "description": "No se encontraron vehículos."
+    "message": "Estudiante: %1$s",
+    "description": "",
+    "limit": ""
   },
   "version_checking_optional_message": {
-    "message": "Hay una nueva versión del Portal de Padres. Por favor actualice la aplicación para utilizar las nuevas características.",
-    "description": "Hay una nueva versión del Portal de Padres. Por favor actualice la aplicación para utilizar las nuevas características."
+    "message": "ha bajado en la parada equivocada.",
+    "description": "",
+    "limit": ""
   },
   "version_checking_required_message": {
-    "message": "Hay una nueva versión disponible.. Por favor actualice la aplicación para continuar..",
-    "description": "Hay una nueva versión disponible.. Por favor actualice la aplicación para continuar.."
+    "message": "Viaje %2$s de %1$s",
+    "description": "",
+    "limit": ""
   },
   "version_checking_title": {
-    "message": "Nueva versión disponible",
-    "description": "Nueva versión disponible"
+    "message": "DÓNDE ESTÁ MI BÚS?",
+    "description": "",
+    "limit": ""
   },
   "warning_feature_where_my_bus_is_unavailable": {
-    "message": "¿Dónde está mi autobús? No está disponible para %1$s. Comuníquese con el administrador de la escuela para obtener más información.",
-    "description": "¿Dónde está mi autobús? No está disponible para %1$s. Comuníquese con el administrador de la escuela para obtener más información."
+    "message": "Fecha:",
+    "description": "Where's my bus is not available for {student name}. Please contact the school admin to get more information.",
+    "limit": ""
   },
   "where_is_bus_bus_id": {
-    "message": "Autobús:",
-    "description": "Autobús:"
+    "message": "Identificación del conductor:",
+    "description": "",
+    "limit": ""
   },
   "where_is_bus_bus_status_has_arrived": {
-    "message": "El autobús ha llegado a",
-    "description": "El autobús ha llegado a"
+    "message": "El GPS de este vehículo no está disponible en este momento.",
+    "description": "",
+    "limit": ""
   },
   "where_is_bus_bus_status_not_boarded": {
-    "message": "El autobús no ha empezado a abordar.",
-    "description": "El autobús no ha empezado a abordar."
+    "message": "El GPS de este vehículo no está disponible en este momento.",
+    "description": "",
+    "limit": ""
   },
   "where_is_bus_bus_status_will_arrived": {
-    "message": "El autobús llegará a",
-    "description": "El autobús llegará a"
+    "message": "Autobús:",
+    "description": "",
+    "limit": ""
   },
   "where_is_bus_contact_school": {
-    "message": "Contacto en la Escuela",
-    "description": "Contacto en la Escuela"
+    "message": "%1$s todavía no se ha admitido hoy.",
+    "description": "",
+    "limit": "20"
   },
   "where_is_bus_distance": {
-    "message": "Distancia",
-    "description": "Distancia"
+    "message": "Autobús asociado:",
+    "description": "The distance between bus location and student pickup stop.",
+    "limit": "15"
   },
   "where_is_bus_driver": {
-    "message": "Conductor:",
-    "description": "Conductor:"
+    "message": "Evento",
+    "description": "",
+    "limit": "15"
   },
   "where_is_bus_driver_id": {
-    "message": "Identificación del conductor:",
-    "description": "Identificación del conductor:"
+    "message": "Localización",
+    "description": "",
+    "limit": "15"
   },
-  "where_is_bus_followed_bus_list_empty_view": {
-    "message": "No está siguiendo ningún vehículo actualmente.",
-    "description": "No está siguiendo ningún vehículo actualmente."
-  },
-  "where_is_bus_followed_bus_list_loading_vehicle": {
-    "message": "Cargando vehículos…",
-    "description": "Cargando vehículos…"
-  },
-  "where_is_bus_pickup": {
-    "message": "Recogida:",
-    "description": "Recogida:"
-  },
+  "where_is_bus_pickup": { "message": "", "description": "", "limit": "15" },
   "where_is_bus_student_name": {
-    "message": "Estudiante: %1$s",
-    "description": "Estudiante: %1$s"
+    "message": "",
+    "description": "Student: {Student name}",
+    "limit": "15"
   },
   "where_is_bus_student_status_disembark_wrong_stop": {
-    "message": "ha bajado en la parada equivocada.",
-    "description": "ha bajado en la parada equivocada."
+    "message": "",
+    "description": "",
+    "limit": "40"
   },
   "where_is_bus_student_trip": {
-    "message": "Viaje %2$s de %1$s",
-    "description": "Viaje %2$s de %1$s"
+    "message": "",
+    "description": "{student name} {trip type} trip",
+    "limit": "10"
   },
   "where_is_bus_title": {
-    "message": "DÓNDE ESTÁ MI BÚS?",
-    "description": "DÓNDE ESTÁ MI BÚS?"
-  },
-  "where_is_my_child_date": {
-    "message": "Fecha:",
-    "description": "Fecha:"
-  },
-  "where_is_my_child_driver_id": {
-    "message": "Identificación del conductor:",
-    "description": "Identificación del conductor:"
+    "message": "",
+    "description": "The title of Where's my bus screen",
+    "limit": "30"
   },
   "where_my_bus_not_found_location": {
-    "message": "El GPS de este vehículo no está disponible en este momento.",
-    "description": "El GPS de este vehículo no está disponible en este momento."
+    "message": "",
+    "description": "Display on where's my bus screen if the bus has no GPS or out-of-time window that parents can track the bus location.",
+    "limit": "60"
   },
   "where_my_bus_out_side": {
-    "message": "El GPS de este vehículo no está disponible en este momento.",
-    "description": "El GPS de este vehículo no está disponible en este momento."
+    "message": "",
+    "description": "Display on where's my bus screen if the bus has no GPS or out-of-time window that parents can track the bus location.",
+    "limit": "60"
   },
   "where_my_child_empty_event_view": {
-    "message": "%1$s todavía no se ha admitido hoy.",
-    "description": "%1$s todavía no se ha admitido hoy."
+    "message": "",
+    "description": "{student name} has not scanned yet today.",
+    "limit": "35"
   },
   "where_my_child_linked_bus_label": {
-    "message": "Autobús asociado:",
-    "description": "Autobús asociado:"
+    "message": "",
+    "description": "The label of bus that linked to the student. Display in where's my child screen. ",
+    "limit": "15"
   },
   "where_my_child_linked_event_label": {
-    "message": "Evento",
-    "description": "Evento"
+    "message": "",
+    "description": "The label of stutudent scan events",
+    "limit": "12"
   },
   "where_my_child_trip_empty": {
-    "message": "La estudiante no tiene viaje.",
-    "description": "La estudiante no tiene viaje."
+    "message": "",
+    "description": "Display on where's my child screen when the student don't have any trip.",
+    "limit": ""
   }
 }
